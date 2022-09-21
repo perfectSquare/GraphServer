@@ -8,7 +8,7 @@ const typeDefs = gql`
 
 const resolvers = {
     Query: {
-      hello: () => 'vue'
+      hello: () => 'https://a0.muscache.com/im/pictures/miso/Hosting-22235004/original/f17d4d98-ec7f-4e0d-b233-eb00f2b1cb3b.jpeg?im_w=720'
     },
   };
 
