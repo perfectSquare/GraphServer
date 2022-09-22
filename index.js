@@ -1,16 +1,50 @@
 const { ApolloServer, gql } = require('apollo-server');
+const { resolvers } = require('./resolvers.js');
 
 const typeDefs = gql`
   type Query {
     hello: String
+    island(id: ID!): Island
+    islands: [Island!]!  
+  }
+
+  interface Destination {
+    id: ID!
+    name: String!
+    images: [String!]!
+    country: String!    
+    hostIntro: String!
+    rent: Int!
+    description: String!    
+    hostID: ID!
+    host: Host
+  }
+  type Island implements Destination {
+    nick: String!
+    offers: Offers
+  }
+  type Offers {
+    bathroom: Bathroom
+  }
+  type Bathroom {
+    hairDryer: Boolean
+    shampoo: Boolean
+    hotWater: Boolean
+    showerGel: Boolean
+  }
+  type Host {
+    id: ID!
+    name: String!
+    joinedDate: String!
+    image: String!
+    description: String!
+    language: [String!]!
+  }
+  type Location{
+    lat: Float!
+    lon: Float!
   }
 `;
-
-const resolvers = {
-    Query: {
-      hello: () => 'https://a0.muscache.com/im/pictures/miso/Hosting-22235004/original/f17d4d98-ec7f-4e0d-b233-eb00f2b1cb3b.jpeg?im_w=720'
-    },
-  };
 
   const {
     ApolloServerPluginLandingPageLocalDefault
@@ -23,6 +57,7 @@ const resolvers = {
     resolvers,
     csrfPrevention: true,
     cache: 'bounded',
+    introspection: true,
     /**
      * What's up with this embed: true option?
      * These are our recommended settings for using AS;
