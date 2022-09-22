@@ -1,4 +1,4 @@
-const {islands} = require('/db/islands.json')
+const {islands} = require('./db/islands.json')
 
 module.exports = {
     Query: {

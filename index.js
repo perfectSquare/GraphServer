@@ -8,9 +8,10 @@ const typeDefs = gql`
     islands: [Island!]!  
   }
 
-  interface Destination {
+  type Island {
     id: ID!
     name: String!
+    nick: String!
     images: [String!]!
     country: String!    
     hostIntro: String!
@@ -18,9 +19,6 @@ const typeDefs = gql`
     description: String!    
     hostID: ID!
     host: Host
-  }
-  type Island implements Destination {
-    nick: String!
     offers: Offers
   }
   type Offers {
