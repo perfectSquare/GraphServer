@@ -1,4 +1,4 @@
-[
+export const islands = [
     {
         "id": 1,
         "name": "Adaaran Club Rannalhi, Maldives, Water Bungalows",

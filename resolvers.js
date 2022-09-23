@@ -1,9 +1,9 @@
-const {islands} = require('./db/islands.json')
+import { islands } from './db/islands.js';
 
-module.exports = {
+export const resolvers = {
     Query: {
       hello: () => 'hi',
-      island: (_, {id}) => islands.find(i => i.id === id),
+      island: (_, {id}) => islands.find(i => i.id === parseInt(id)),
       islands: () => islands      
     },
   };
