@@ -38,92 +38,386 @@ export const islands = [
         "distance": "3,313 kilometers",
         "checkIn": "Oct 22 2022",
         "checkOut": "Oct 27 2022",
+        "nightsLimit": 0,
         "country": "Maldives",
         "stars": 0,
         "reviewsNum": 0,
         "guestID":1,
         "levelID":1,
-        "hostIntro": "Dome hosted by LookBook",
+        "rulesID":2,
+        "cancelPolicy": "This reservation is non-refundable.",
+        "notes": [
+            "Nearby lake, river, other body of water",
+            "Heights without rails or protection"
+        ],
+        "bedrooms": [
+            {
+                "num": 1,
+                "bedType": "1 double bed",
+                "single": 1,
+                "bedImage": ""
+            }
+        ],
+        "destinationIntro":[
+            {
+                "logo": "Pool",
+                "about": "Dive right in",
+                "comment": "This is one of the few places in the area with a pool."
+            },
+            {
+                "logo": "star_white",
+                "about": "Experienced host",
+                "comment": "LookBook has 814 reviews for other places."
+            }
+        ],
+        "hostIntro": ["","Dome hosted by LookBook", "1 bedroom",  "1 bed", "1 bath"],
         "rent": 540,
         "description": "Adaaran Club Rannalhi is featured among the best hotels in Maldives and sits exclusively at the tip of the South Male atoll within the exotic collection of islands known as the Maldives. Its unique location offers access to pristine beaches, excellent scuba diving opportunities and a relaxed environment with easy access to the capital city of Male.",
+        "moreDescription": [],
         "hostID": 1,
         "serviceCharges":0,
+        "cleaningFee":0,
         "offers": {
-            "bedrooms":1,
-            "bedroomType": "double bed",
-            "beds":1,
-            "guests":6,
-            "bathroom": {
-                "bathrooms": 1
-            }
-        },
-        "offersSet":["Wifi", "Pool", "Tv", "Air conditioning", "Hair Dryer", "Breakfast", "Long term stays allowed"]
+            "offsLength":14,
+            "offersSet":[
+                { "logo": "Wifi", "about": "Wifi", "more": "" },
+                { "logo": "Pool", "about": "Pool", "more": "" },                
+                { "logo": "Tv", "about": "TV", "more": "" },
+                { "logo": "Air conditioning", "about": "Air conditioning", "more": "" },
+                { "logo": "Hair dryer", "about": "Hair dryer", "more": "" },
+                { "logo": "Breakfast", "about": "Breakfast", "more": "" },
+                { "logo": "Long term stays allowed", "about": "Long term stays allowed", "more": "" }
+            ],
+            "moreOffers":[                
+                {
+                    "cat": "Bathroom",
+                    "catOffers": [
+                        { "logo": "Hair dryer", "about": "Hair dryer", "more": "" },
+                        { "logo": "Shampoo", "about": "Shampoo", "more": "" },
+                    ]                    
+                },
+                {
+                    "cat": "Bedroom and laundry",
+                    "catOffers": [
+                        { "logo": "Essentials", "about": "Essentials", "more": "Towels, bed sheets, soap, and toilet paper" },
+                        { "logo": "hangers", "about": "Hangers", "more": "" },
+                    ]                    
+                },
+                {
+                    "cat": "Entertainment",
+                    "catOffers": [
+                        { "logo": "Tv", "about": "TV", "more": "" }
+                    ]                    
+                },
+                {
+                    "cat": "Heating and cooling",
+                    "catOffers": [
+                        { "logo": "Air conditioning", "about": "Air conditioning", "more": "" }
+                    ]                    
+                },
+                {
+                    "cat": "Home safety",
+                    "catOffers": [
+                        { "logo": "smoke-alarm", "about": "Smoke alarm", "more": "" },
+                        { "logo": "CO", "about": "Carbon monoxide alarm", "more": "" },
+                        { "logo": "extinguisher", "about": "Fire extinguisher", "more": "" },
+                        { "logo": "first-aid", "about": "First aid kit", "more": "" }
+                    ]                    
+                },
+                {
+                    "cat": "Internet and office",
+                    "catOffers": [
+                        { "logo": "Wifi", "about": "Wifi", "more": "" }
+                    ]                    
+                },
+                {
+                    "cat": "Parking and facilities",
+                    "catOffers": [
+                        { "logo": "Pool", "about": "Pool", "more": "" }
+                    ]                    
+                },
+                {
+                    "cat": "Services",
+                    "catOffers": [
+                        { "logo": "Breakfast", "about": "Breakfast", "more": "Breakfast is provided" },
+                        { "logo": "Long term stays allowed", "about": "Long term stays allowed", "more": "Allow stay for 28 days or more" }
+                    ]                    
+                },
+                {
+                    "cat": "Not included",
+                    "catOffers": [
+                        { "logo": "KitchenNot", "about": "Kitchen", "more": "" },
+                        { "logo": "WasherNot", "about": "Washer", "more": "" },
+                        { "logo": "HeatingNot", "about": "Heating", "more": "" }
+                    ]                    
+                }
+            ],
+        }        
     },
+
     {
         "id": 2,
-        "name": "Lily Beach Resort & Spa, Maldives, With Pool, AI",
-        "nick": "MV, Maldives",
+        "name": "Linnéaholmen: Private island reached by footbridge",
+        "nick": "Ytteran, Sweeden",
         "images": [
-            "https://a0.muscache.com/im/pictures/fa2ed873-e726-4e6d-ab1a-28bc7c69d805.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/35d03179-3b9b-4898-b161-eb466bf533c6.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/972f11c0-c77d-4b5f-9329-675da599a34a.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/47ad716e-0a97-4c7e-9f0a-8bc7c09a3f9c.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/a96633d6-f729-4365-9a69-b2e02037607a.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/e507be38-85e6-42cd-b1ec-92e42a8a8a37.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/e507be38-85e6-42cd-b1ec-92e42a8a8a37.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/392de52b-8a45-40eb-affa-455b55fb302e.jpg?im_w=1200",
-            "https://a0.muscache.com/im/pictures/b69391f4-ce47-4c06-af27-980c42f143e2.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/8b990da7-643e-4776-ab35-7c015bf18bbe.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/3b3dd89b-5613-4f5e-9eae-40d6a973126e.jpg?im_w=1200",
-            "https://a0.muscache.com/im/pictures/24e2ae01-f6a4-4a88-9962-e6062e8d2f66.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/9e902bb8-a24b-4ded-961e-2a06ee0f0091.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/b2a9e2ee-4510-4e59-afc3-a9ebad8392e4.jpg?im_w=1200",
-            "https://a0.muscache.com/im/pictures/a63cbf66-3939-4607-88f1-4a10b93e2da8.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/0e2b6358-2327-4320-a63e-4bd6365badb7.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/a62241ae-d47d-4d0e-9af2-c8c06862c939.jpg?im_w=1200",
-            "https://a0.muscache.com/im/pictures/f18fc305-1c70-40a7-a976-0148ef8b34a7.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/e680a82e-b253-478b-a090-8e8445733597.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/930c6619-1614-47a3-bf28-27640b3d0c49.jpg?im_w=1200",
-            "https://a0.muscache.com/im/pictures/672affe3-00f9-4d44-889f-f62b12b10f4f.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/e4adc3b2-0e2e-4e4b-8807-bea6bab01cc9.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/57490dee-5f6d-45d2-ae42-a7cdfa4c97a5.jpg?im_w=1200",
-            "https://a0.muscache.com/im/pictures/8512ae28-f13b-4acf-a39a-08c8f2d31b0e.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/946059b7-fac0-4be5-8d88-cf5c740dabba.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/e680ba4e-6d75-4520-84a1-173780f1f8e8.jpg?im_w=1200",
-            "https://a0.muscache.com/im/pictures/d2421654-dca5-429c-b1b0-c1f64466b7bf.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/44d9d82e-7c71-438b-9b2c-1a739c4ccbc1.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/69d59525-da47-4115-b218-73ec92bc64a3.jpg?im_w=1200",
-            "https://a0.muscache.com/im/pictures/6ad89ce9-6a0a-41ef-b643-d7c6e4a4f721.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/d43ec251-8702-4b21-970f-54cf8c7eac0c.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/45cfe383-b9d9-4c38-a922-a922129d7b3d.jpg?im_w=1200",
-            "https://a0.muscache.com/im/pictures/55a1bbb3-1141-45c0-b88e-142b2ccefb83.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/dc881a9d-7772-424c-aace-18aa56885a83.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/f98fd116-e8f0-4cb1-885b-68cec51e1dc9.jpg?im_w=1200",
-            "https://a0.muscache.com/im/pictures/104519c2-2d5c-46c4-9ed6-89b4c999afee.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/72cda78f-3b9f-44f8-b096-4634f3dc5626.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/ec0e4e68-94c2-4f76-a113-1fbd4bd2a063.jpg?im_w=1200",
-            "https://a0.muscache.com/im/pictures/a6da5b45-aba5-4ab0-a98f-3afb04f901b0.jpg?im_w=720",
-            "https://a0.muscache.com/im/pictures/784adcc4-fb89-4520-9504-609ec57eb592.jpg?im_w=720"
+            "https://a0.muscache.com/im/pictures/c0e10c8f-d0c3-4875-bae8-0f664a55bbc6.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/bce3df01-38a9-4b81-a7e0-78adf6848d72.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/ea33a046-4dba-4115-a63d-f8c9b3b94d6c.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/89266db5-4ea8-4669-aee2-c56e2b25e6ca.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/58cce075-c6bb-4c2d-817b-fa79462e0e31.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/2ae2245e-7393-4cba-8130-edcad965a305.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/4b67a4b2-7f76-4bc0-b8cb-5a1ca67882e5.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/0894e3d8-731d-47e9-93be-17e9332cf262.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/d969a369-ce1f-4cef-bbc2-d7698575f2b9.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/1fd224c9-0e0d-4102-9248-f8e03524bc4a.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/958091fd-3878-4e0d-af2f-75e9bc49bdf0.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/e3e20bc2-7a51-4d17-bc3c-e04f9df73155.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/68768495-2329-4d2d-9bf0-c538fa895f80.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/79e179ea-927f-4f82-9ebf-2f98b019da10.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/9a9f507e-3307-4628-b4d6-83df2e8604bb.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/780ee3a9-e528-4efd-9d78-bde311fc6fc7.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/6367ed63-6aa7-4f36-b897-9e292fad852f.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/a604112b-725f-4527-b857-bf537ee2585a.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/fd2d3cb5-25f2-4b32-9915-30f18317a920.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/f4c7f074-9a97-4697-9496-9f08b7d04439.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/93a89f93-d919-48f5-91cb-3ef91599e024.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/8313e531-ac33-4143-9275-cb7f171b5d82.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/737252d8-7275-403f-9c83-318a70d11b0b.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/722a6794-f208-478c-a104-9711003e6615.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/9e6e613b-d7af-426b-b4b5-70f88be342ae.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/3edb6652-b953-49b5-8083-b83d4422b10c.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/4beaa158-621c-42dc-9941-d9605e252db4.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/6cd02eb7-8477-4067-9cb1-b2e0c26a86a5.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/89de9a4f-28d6-477e-913a-89c1cb0dc33c.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/91ec0a86-5d1a-4922-9f8e-ae47279b4035.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/9ba86f91-b0e0-4c08-948a-a1be3dece9ea.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/8b40afe2-4b79-431c-808a-45d488133dec.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/2734aee9-0095-4f6c-a445-46f3caad2325.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/2314636d-4c74-4e12-a8f2-1847b4561d86.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/1f930408-8d16-489a-a6b1-8f8078705629.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/5a7baefc-c657-4eac-9a5d-691673501199.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/f640d4bf-50f9-4d1c-8f1f-f5c0e57ae533.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/0ca6db63-06ac-42b9-8c31-18ca5cfa8fc9.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/5b984f06-5453-4621-adeb-43c56a8ec159.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/38d41e1a-6eb2-448b-ab8f-68ae3d471a7a.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/284567ad-f1e7-4c13-9b16-e529d174003b.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/883d050d-8909-4cf8-b172-04fbdcf6cc84.jpg?im_w=720",
         ],
-        "distance": "3,391 kilometers",
-        "checkIn": "Oct 01 2022",
-        "checkOut": "Oct 06 2022",
-        "country": "Maldives",
-        "stars": 0,
-        "hostIntro": "Dome hosted by LookBook",
-        "hostLogo": "https://a0.muscache.com/im/pictures/user/0ea3cd74-7ce9-4f59-bf57-334651d552c6.jpg?im_w=240",
-        "rent": 1837,
-        "description": "ALL INCLUSIVE RESORT AWARD WINNER<br>Lily Beach is proud to have once again won the prestigious All Inclusive Resort Award this year.",
-        "hostID": 1,
-        "offers": {
-            "bedrooms":1,
-            "bedroomType": "double bed",
-            "beds":1,
-            "guests":3,
-            "bathroom": {
-                "bathrooms": 1
+        "distance": "5172 kilometers away",
+        "checkIn": "Jan 09 2023",
+        "checkOut": " Jan 16 2023",
+        "nightsLimit": 7,
+        "country": "Sweeden",
+        "stars": 4.85,
+        "reviewsNum": 20,
+        "guestID":2,
+        "levelID":1,
+        "rulesID":2,
+        "cancelPolicy": "Free cancellation for 48 hours.",
+        "notes": [
+            "Nearby lake, river, other body of water",
+        ],
+        "bedrooms": [
+            {
+                "num": 1,
+                "bedType": "1 king bed",
+                "single": 1,
+                "bedImage": "https://a0.muscache.com/im/pictures/3edb6652-b953-49b5-8083-b83d4422b10c.jpg?im_w=320"
+            },
+            {
+                "num": 2,
+                "bedType": "1 single bed",
+                "single": 1,
+                "bedImage": "https://a0.muscache.com/im/pictures/9ba86f91-b0e0-4c08-948a-a1be3dece9ea.jpg?im_w=320"
+            },
+            {
+                "num": 3,
+                "bedType": "1 single bed",
+                "single": 1,
+                "bedImage": "https://a0.muscache.com/im/pictures/89de9a4f-28d6-477e-913a-89c1cb0dc33c.jpg?im_w=320"
+            },
+            {
+                "num": 1,
+                "bedType": "1 small double bed",
+                "single": 2,
+                "bedImage": "https://a0.muscache.com/im/pictures/2314636d-4c74-4e12-a8f2-1847b4561d86.jpg?im_w=320"
             }
-        },
-        "offersSet":["Wifi", "Pool", "Tv", "Air conditioning", "Hair Dryer", "Breakfast", "Long term stays allowed"]
-    }
+        ],
+        "destinationIntro":[
+            {
+                "logo": "Wifi",
+                "about": "Fast wifi",
+                "comment": "At 235 Mbps, you can take video calls and stream videos for your whole group."
+            },
+            {
+                "logo": "self-check-in",
+                "about": "Self check-in",
+                "comment": "Check yourself in with the smartlock."
+            },
+            {
+                "logo": "Long term stays allowed",
+                "about": "Free cancellation for 48 hours.",
+                "comment": ""
+            }
+        ],
+        "hostIntro": ["","Island hosted by Per-Henrik", "6 bedrooms", "8 beds", "3 baths"],
+        "rent": 197,
+        "description": "Welcome to Linnéaholmen – a unique place on a private island in Storsjön. The island is accessible via a short footbridge from a private parking area, which is prepared for charging an electric car (3-phase). Linnéaholmen is perfect if you want the luxury of fantastic views, peace and quiet, and a big charming house with room for up to 10 persons.",
+        "moreDescription": [
+            {
+                "about": "About this space",
+                "desc": "Welcome to Linnéaholmen – a unique place on a private island in Storsjön. The island is accessible via a short footbridge from a private parking area, which is prepared for charging an electric car (3-phase). Linnéaholmen is perfect if you want the luxury of fantastic views, peace and quiet, and a big charming house with room for up to 10 persons.<br><br>Linnéaholmen is located between Östersund (30 km) and Åre (60 km). Åre-Östersund airport is only 20 km away, and Krokom train station is 15 km away."
+            },
+            {
+                "about": "The space",
+                "desc": "You get the whole island and the house with room for up to 10 persons all to yourselves. The house is ca 250 square meters big, has six bedrooms and four bathrooms, where two bathrooms are equipped with showers. There are also two fully-equipped kitchens and two living rooms. In the dining room, there is a large dinner table with room for up to 12 persons. Currently, we can unfortunately not offer bedsheets, since we live in Stockholm and do not have the opportunity to do washing between guest stays.<br><br>On Linnéaholmen, there are two dug canals which are inspired by Venice. Apart from the big house, there is also a sauna house with a shower and relax room, as well as a magnificent panorama over Storsjön. Accompanying the sauna house is a large patio with a table for the lovely summer dinners by the water. It also has a ladder to the sea if you want to go for a swim. We can also offer access to a canoe during your stay at Linnéaholmen.<br><br>On the island, there is also an old-fashioned baking house, which mainly has been used for the local craft of baking thin-bread. There is also a beautiful gazebo, which is currently under renovation."
+            },            
+            {
+                "about": "Guest access",
+                "desc": "You get the entire island of ca 5000 square meters all to yourselves. You are welcome to use the canoe on the island."
+            }
+        ],
+        "hostID": 2,
+        "serviceCharges":219,
+        "cleaningFee":174,        
+        "offers": {
+            "offsLength":52,
+            "offersSet":[
+                { "logo": "Lake view", "about": "Lake view", "more": "" },
+                { "logo": "Mountain view", "about": "Mountain view", "more": "" },
+                { "logo": "Beach view", "about": "Beach access", "more": "" },
+                { "logo": "Kitchen", "about": "Kitchen", "more": "" },
+                { "logo": "Wifi", "about": "Fast wifi – 235 Mbps", "more": "" },
+                { "logo": "Car", "about": "Free parking on premises", "more": "" },
+                { "logo": "Sauna", "about": "Sauna", "more": "" },
+                { "logo": "pets-steps", "about": "Pets allowed", "more": "" },
+                { "logo": "Camera", "about": "Security cameras on property", "more": "" },
+                { "logo": "CO", "about": "Carbon monoxide alarm", "more": "0" },
+            ],
+            "moreOffers":[                
+                {
+                    "cat": "Scenic views",
+                    "catOffers": [
+                        { "logo": "Lake view", "about": "Lake view", "more": "" },
+                        { "logo": "Mountain view", "about": "Mountain view", "more": "" },
+                    ]                    
+                },
+                {
+                    "cat": "Bathroom",
+                    "catOffers": [
+                        { "logo": "Hair dryer", "about": "Hair dryer", "more": "" },
+                        { "logo": "Hot water", "about": "Hot water", "more": "" }
+                    ]                    
+                },
+                {
+                    "cat": "Bedroom and laundry",
+                    "catOffers": [
+                        { "logo": "washer", "about": "Free washer – In unit", "more": "" },
+                        { "logo": "dryer", "about": "Free dryer – In unit", "more": "" },
+                        { "logo": "hangers", "about": "Hangers", "more": "" },
+                        { "logo": "iron", "about": "Iron", "more": "" }
+                    ]                    
+                },
+                {
+                    "cat": "Entertainment",
+                    "catOffers": [
+                        { "logo": "Tv", "about": "65\" HDTV with premium cable", "more": "" },
+                        { "logo": "Game console", "about": "Game console", "more": "" }
+                    ]                    
+                },
+                {
+                    "cat": "Family",
+                    "catOffers": [
+                        { "logo": "Crib", "about": "Crib", "more": "" }
+                   ]                    
+                },
+                {
+                    "cat": "Heating and cooling",
+                    "catOffers": [
+                        { "logo": "Air conditioning", "about": "Central air conditioning", "more": "" },
+                        { "logo": "fireplace", "about": "Indoor fireplace: wood-burning", "more": "" },
+                        { "logo": "thermometer", "about": "Heating", "more": "" }
+                   ]                    
+                },
+                {
+                    "cat": "Home safety",
+                    "catOffers": [
+                        { "logo": "Camera", "about": "Security cameras on property", "more": "Det finns två kameror i huset, endast larmcentral har tillgång till bild-materialet vid eventuellt larm." },
+                        { "logo": "smoke-alarm", "about": "Smoke alarm", "more": "" }
+                   ]                    
+                },
+                {
+                    "cat": "Internet and office",
+                    "catOffers": [
+                        { "logo": "Wifi", "about": "Fast wifi – 235 Mbps", "more": "Verified by speed test. Stream 4K videos and join video calls on multiple devices." }
+                   ]                    
+                },
+                {
+                    "cat": "Kitchen and dining",
+                    "catOffers": [
+                        { "logo": "Kitchen", "about": "Kitchen", "more": "Space where guests can cook their own meals" },
+                        { "logo": "Refrigerator", "about": "Refrigerator", "more": "" },
+                        { "logo": "Microwave", "about": "Microwave", "more": "" },
+                        { "logo": "Kitchen", "about": "Cooking basics", "more": "Pots and pans, oil, salt and pepper" },
+                        { "logo": "Dishes", "about": "Dishes and silverware", "more": "Bowls, chopsticks, plates, cups, etc." },
+                        { "logo": "Refrigerator", "about": "Freezer", "more": "" },
+                        { "logo": "Dishwasher", "about": "Dishwasher", "more": "" },
+                        { "logo": "Stove", "about": "Stove", "more": "" },
+                        { "logo": "Microwave", "about": "Oven", "more": "" },
+                        { "logo": "kettle", "about": "Hot water kettle", "more": "" },
+                        { "logo": "Coffee", "about": "Coffee maker", "more": "" },
+                        { "logo": "wine", "about": "Wine glasses", "more": "" },
+                        { "logo": "Toaster", "about": "Toaster", "more": "" },                        
+                        { "logo": "Barbecue", "about": "Barbecue utensils", "more": "Grill, charcoal, bamboo skewers/iron skewers, etc." },
+                        { "logo": "Coffee", "about": "Coffee", "more": "" },
+                        { "logo": "Dining", "about": "Dining table", "more": "" }
+                   ]                    
+                },
+                {
+                    "cat": "Location features",
+                    "catOffers": [
+                        { "logo": "Lake view", "about": "Waterfront", "more": "Right next to a body of water" },
+                        { "logo": "Beach view", "about": "Beach access", "more": "Guests can enjoy a nearby beach" },
+                        { "logo": "Lake view", "about": "Lake access", "more": "Guests can get to a lake using a path or dock" }
+                   ]                    
+                },
+                {
+                    "cat": "Outdoor",
+                    "catOffers": [
+                        { "logo": "patio", "about": "Private patio or balcony", "more": "" },
+                        { "logo": "backyard", "about": "Private backyard – Not fully fenced", "more": "An open space on the property usually covered in grass" },
+                        { "logo": "furniture", "about": "Outdoor furniture", "more": "" },
+                        { "logo": "furniture", "about": "Outdoor dining area", "more": "" },
+                        { "logo": "Barbecue", "about": "BBQ grill: gas", "more": "" }
+                   ]                    
+                },
+                {
+                    "cat": "Parking and facilities",
+                    "catOffers": [
+                        { "logo": "Car", "about": "Free parking on premises", "more": "" },
+                        { "logo": "Car", "about": "Free street parking", "more": "" },
+                        { "logo": "Sauna", "about": "Sauna", "more": "" },
+                        { "logo": "EV", "about": "EV charger", "more": "Guests can charge their electric vehicles on the property." }
+                   ]                    
+                },
+                {
+                    "cat": "Services",
+                    "catOffers": [
+                        { "logo": "pets-steps", "about": "Pets allowed", "more": "Assistance animals are always allowed" },
+                        { "logo": "self-check-in", "about": "Self check-in", "more": "" },
+                        { "logo": "Sauna", "about": "Smart lock", "more": "" },
+                        { "logo": "Long term stays allowed", "about": "Long term stays allowed", "more": "Allow stay for 28 days or more" }
+                   ]                    
+                },
+                {
+                    "cat": "Not included",
+                    "catOffers": [
+                        { "logo": "EssentialsNot", "about": "Essentials", "more": "" },
+                        { "logo": "CONot", "about": "Carbon monoxide alarm", "more": "" },
+                        { "logo": "ShampooNot", "about": "Shampoo", "more": "" }
+                   ]                    
+                }
+            ],
+        }
+    }    
 ]

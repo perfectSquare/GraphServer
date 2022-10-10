@@ -5,6 +5,7 @@ export const typeDefs = gql`
     hello: String
     destination(id: ID!, type:String!): Destination!
     destinations(type: String!): [Destination!]!  
+    host(id: ID!): Host
   }
   type Destination {
     id: ID!    
@@ -14,22 +15,76 @@ export const typeDefs = gql`
     distance: String!
     checkIn: String!
     checkOut: String!
+    nightsLimit:Int!
     country: String!    
-    hostIntro: String!    
+    hostIntro: [String!]!    
     stars: Float
     rent: Int!
     description: String!        
+    moreDescription: [MoreDescription]
     hostID: ID!
-    host: Host
-    offers: Offers
-    offersSet: [String!]!
+    host: Host    
     serviceCharges: Int!
+    cleaningFee: Int!
     guestID: Int!
     guests: Guests!
     reviewsNum: Int
-    reviews: [Review!]!    
+    reviews(limit: Int!, offset:Int!): [Review!]!    
+    reviewsLength: [Review!]!    
     levelID: ID
     level: Level
+    rulesID: ID!
+    rules: Rules
+    cancelPolicy: String!
+    notes: [String!]!
+    bedrooms: [BedRoom!]!       
+    destinationIntro: [DestinationIntro]
+    offers: Offers!
+  }
+  type Offers {
+    offsLength:Int!
+    offersSet: [Offered]!
+    moreOffers: [OffersCat!]!
+  }
+  type Offered {
+    logo: String!
+    about: String!
+    more: String
+  }
+  type OffersCat {
+    cat: String!
+    catOffers: [Offered]!
+  }
+  type MoreDescription {
+    about: String!
+    desc: String!
+  }
+  type DestinationIntro {
+    logo: String!
+    about: String!
+    comment: String!
+  }  
+  type BedRoom {
+    num: Int!
+    bedType: String!
+    single: Int!
+    bedImage: String
+  }
+  type Rules {
+    id: ID!
+    inTime: String!
+    outTimeShow: Boolean!
+    outTime: String!
+    smokingShow: Boolean!
+    smoking: Boolean!
+    petsShow: Boolean!
+    pets: Boolean!
+    partiesShow: Boolean!
+    parties: Boolean!
+    suitableShow: Boolean!
+    suitable: Boolean!
+    selfCheckInShow: Boolean!
+    selfCheckIn: Boolean!
   }
   type Review {
     id:ID!        
@@ -37,6 +92,7 @@ export const typeDefs = gql`
     customer: String
     customerImage: String
     commentDate: String
+    joineDate: String
     comment: String    
   }
   type Level {
@@ -55,21 +111,8 @@ export const typeDefs = gql`
     infant: Int!
     pets: Int!
     description: String!
-  }
-  type Offers {
-    bedrooms: Int!
-    bedroomType: String!
-    beds: Int!
-    guests: Int!
-    bathroom: Bathroom
-  }  
-  type Bathroom {
-    bathrooms: Int!
-    hairDryer: Boolean
-    shampoo: Boolean
-    hotWater: Boolean
-    showerGel: Boolean
-  }
+  }    
+  
   type Host {
     id: ID!
     name: String!
@@ -79,7 +122,34 @@ export const typeDefs = gql`
     identity: Boolean!
     description: String!
     language: [String!]!
+    verified: [String!]!
     responseRate: Int!
     responseTime: String!
+    lives: String!
+    speaks: String!
+    work: String!
+    listing: [HostDestinationsList!]!    
+    hostReviews: HostReviews!
+  }
+  type HostReviews {
+    id: ID!
+    hostID: ID!
+    reviews: [ReviewForHost!]!
+  }
+  type ReviewForHost {
+    place: String!
+    placeLogo: String!
+    placeDate: String!
+    placeReviews: [Review!]!
+  }
+  type HostDestinationsList {
+    cat: String!
+    destinationID: ID!
+    image: String!
+    reviewsNum: Int!
+    about: String!
+    name: String!
+    stars: Float!
+    rent: Int!
   }
 `;
