@@ -1,4 +1,5 @@
 import { islands } from './db/islands.js';
+import { parks } from './db/parks.js';
 import { guests } from './db/added/guests.js';
 import { levels } from './db/added/levels.js';
 import { reviews } from './db/added/reviews.js';
@@ -11,9 +12,11 @@ export const resolvers = {
       hello: () => 'hi',
       destination: (_, {id, type}) => {
         if(type == 'islands') return islands.find(i => i.id === parseInt(id))
+        else if(type == 'parks') return parks.find(i => i.id === parseInt(id))
       },
       destinations: (_, {type}) => {
         if(type == 'islands') return islands
+        else if(type == 'parks') return parks
       },
       host: (_, {id}) => hosts.find(h => h.id == id)
     },
@@ -38,7 +41,11 @@ export const resolvers = {
         return rules.find(r => r.id === parent.rulesID)
       }
     },
-    Host: {
-      hostReviews: (parent) => hr.find(h => h.hostID === parent.id)      
+    Host: {      
+      hostReviews: (parent, {limit, offset}) => {
+        let all = hr.find(h => h.hostID === parent.id).reviews
+        return all.slice(offset, limit+2)
+      },
+      hostReviewsLen: (parent) => hr.find(h => h.hostID === parent.id).reviews
     }
   };

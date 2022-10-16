@@ -11,6 +11,8 @@ export const typeDefs = gql`
     id: ID!    
     name: String!
     nick: String!
+    latiude: Float!
+    longitude: Float!
     images: [String!]!
     distance: String!
     checkIn: String!
@@ -22,6 +24,8 @@ export const typeDefs = gql`
     rent: Int!
     description: String!        
     moreDescription: [MoreDescription]
+    descriptionOrignal: String!        
+    moreDescriptionOrignal: [MoreDescription]
     hostID: ID!
     host: Host    
     serviceCharges: Int!
@@ -36,7 +40,6 @@ export const typeDefs = gql`
     rulesID: ID!
     rules: Rules
     cancelPolicy: String!
-    notes: [String!]!
     bedrooms: [BedRoom!]!       
     destinationIntro: [DestinationIntro]
     offers: Offers!
@@ -72,19 +75,16 @@ export const typeDefs = gql`
   }
   type Rules {
     id: ID!
-    inTime: String!
-    outTimeShow: Boolean!
-    outTime: String!
-    smokingShow: Boolean!
-    smoking: Boolean!
-    petsShow: Boolean!
-    pets: Boolean!
-    partiesShow: Boolean!
-    parties: Boolean!
-    suitableShow: Boolean!
-    suitable: Boolean!
-    selfCheckInShow: Boolean!
-    selfCheckIn: Boolean!
+    additional: [String!]!
+    rules: [Offered!]!
+    safety: [Offered!]!
+    cancel:[CancelBy!]!
+  }
+  type CancelBy {
+    on: Boolean!
+    about: String!
+    policy: String!
+    days: String!
   }
   type Review {
     id:ID!        
@@ -119,8 +119,9 @@ export const typeDefs = gql`
     joinedDate: String!
     hostLogo: String!
     reviewsNum: Int!
-    identity: Boolean!
+    identity: String!
     description: String!
+    during: String!
     language: [String!]!
     verified: [String!]!
     responseRate: Int!
@@ -129,7 +130,8 @@ export const typeDefs = gql`
     speaks: String!
     work: String!
     listing: [HostDestinationsList!]!    
-    hostReviews: HostReviews!
+    hostReviewsLen: [ReviewForHost!]!
+    hostReviews(limit: Int!, offset: Int!): [ReviewForHost!]!
   }
   type HostReviews {
     id: ID!
@@ -150,6 +152,5 @@ export const typeDefs = gql`
     about: String!
     name: String!
     stars: Float!
-    rent: Int!
   }
 `;
