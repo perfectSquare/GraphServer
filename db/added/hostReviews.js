@@ -225,6 +225,231 @@ export const hr = [
 "commentDate": "Joined in 2019", "comment": "It’s a neat and clean property. Stay was good. One can book this property without hesitation. Value for money.",
 }]
 },
+]},
+
+{
+    "id":5,
+    "hostID": 7,
+"reviews": [
+{
+"place": "Blue Peacock Beach House", "placeLogo": "https://a0.muscache.com/im/pictures/37b61ebe-5dec-4732-b695-767752807e80.jpg?im_w=960", "placeDate":"May 2022",
+"placeReviews": [{
+"customer": "Bettina, Bern, Switzerland", "customerImage": "https://a0.muscache.com/im/pictures/user/9f197e90-7d98-4da0-91a9-c9b30cf89134.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2017", "comment": "The Beach House is located perfectly and the staff makes your stay unforgettable!",
+}]
+},
+{
+"place": "Temple House Villa *FREE BREAKFAST INCLUDED*", "placeLogo": "https://a0.muscache.com/im/pictures/a307786c-bc1b-45b1-8fbb-8f0bbc7a4950.jpg?im_w=960", "placeDate":"April 2022",
+"placeReviews": [{
+"customer": "Koen, Dubai, United Arab Emirates", "customerImage": "https://a0.muscache.com/im/pictures/user/6255ed1e-fef9-464e-bbd7-b80d7b316c23.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2014", "comment": "A beautiful paradise villa with a tropical garden and very friendly staff. The location is perfect for trips to hikkaduwa, gallle and the nearby beaches. The house is visibly very much taken care of by the owners which has its pros and cons. A recommendable place if you seek a relaxing base to explore the surroundings!",
+}]
+},
+{
+"place": "Temple House Villa *FREE BREAKFAST INCLUDED*", "placeLogo": "https://a0.muscache.com/im/pictures/a307786c-bc1b-45b1-8fbb-8f0bbc7a4950.jpg?im_w=960", "placeDate":"April 2022",
+"placeReviews": [{
+"customer": "Rex, Pilot Wilderness, Australia", "customerImage": "https://a0.muscache.com/im/pictures/user/b50557df-0b45-40dd-a8b0-116219827d9e.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2018", "comment": "The Temple House Villa is a fantastic villa for a family get together. It is accurately portrayed by the host. The house staff who are there to assist, provide meals, and deal with any issues, are exceptional. The villa is located in a small local neighbourhood away from the main tourist hub. Therefore expect the normal sounds associated with village life with the odd party from nearby Villas. The host was prompt in dealing with enquiries and extremely helpful in dealing with issues. They quickly arranged a generator to provide power during government imposed electricity blackout periods of over 5 hours per day. Although, the generators only have limited use. The power cuts will be ongoing for a while so check before booking as this will impact your stay. Hopefully, the host will disclose this on the booking site. I would highly recommend the villa for a quiet get together with friends or family. It is a short 10 minute tuk tuk ride to the main tourist precinct of Hikkaduwa.",
+}]
+},
+{
+"place": "Temple House Villa *FREE BREAKFAST INCLUDED*", "placeLogo": "https://a0.muscache.com/im/pictures/a307786c-bc1b-45b1-8fbb-8f0bbc7a4950.jpg?im_w=960", "placeDate":"March 2022",
+"placeReviews": [{
+"customer": "Евгений, Saint Petersburg, Russia", "customerImage": "https://a0.muscache.com/im/pictures/user/ae8969fe-4974-48e3-a17f-06df823d2525.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2019", "comment": "Всё понравилось. Мы ездили в середине марта 2022г. Из минусов: - Существуют проблемы с электричеством - его отключают два раза в деньв сумме от 3 до 5 часов. Это нужно учитывать. - Вилла с участком по фото кажется больше чем на самом деле. - Расположение виллы относительно далеко от инфраструктуры. Не смотря на минусы, вилла всё равно отличная, можно брать)",
+}]
+}
+]},
+
+{
+    "id":6,
+    "hostID": 8,
+"reviews": [
+{
+"place": "Ao Luek Panoramic room studio 3.", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-37587203/original/92196527-bfb2-4984-b86b-4c764b2d4f83.jpeg?aki_policy=small", "placeDate":"September 2022",
+"placeReviews": [{
+"customer": "Martin, Bruchsal, Germany", "customerImage": "https://a0.muscache.com/im/pictures/user/740dc8d0-6700-44b2-b649-b2972ed1e292.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2016", "comment": "Ist was a pleasure to stay there.",
+}]
+},
+{
+"place": "Ao Luek Panoramic room studio 3.", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-37587203/original/92196527-bfb2-4984-b86b-4c764b2d4f83.jpeg?aki_policy=small", "placeDate":"August 2022",
+"placeReviews": [{
+"customer": "Yuriy, Red Deer, Canada", "customerImage": "https://a0.muscache.com/im/pictures/user/1446ca4b-9296-41b1-a95b-145eb48f6ea5.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2019", "comment": "Outstanding experience at this Panoramic pool villa! Everything was super clean, well organized and the staff is very nice. If you happen to be in this area, this is a must stay!",
+}]
+},
+{
+"place": "Ao Luek Panoramic room studio 1.", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-37464820/original/bf91c71f-24b8-45d2-afe2-d17d02ae8e4d.jpeg?aki_policy=small", "placeDate":"August 2022",
+"placeReviews": [{
+"customer": "Sietske", "customerImage": "https://a0.muscache.com/im/pictures/user/88cac4d9-8ef9-4bf8-919e-7be577c46dcd.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2021", "comment": "We had a bad experience with this air bnb. The problems were stacked up during our stay. It started with the fact that we had to pay 1000 baht depositite which was not indicated in the advertisement. Furthermore, we had no privacy at all and all of a sudden both the host and the hostess were standing several times in our stay. Furthermore, we had been looking forward to the pool for at least 3 months and were only informed 2 weeks before our stay that the pool was not available. We would get a free trip for this with crabbing. This trip was not what we expected, the gentleman could not speak English and therefore was unable to contribute to us about fishing, he angry our food which was charged to us on our departure. Also, there is nothing near the air bnb and the only option as dinner is a seafood restaurant. We had ordered this food from the hostess, 180 and 150 baht for 2 dishes but later on our departure we were charged almost 500 baht.",
+}]
+},
+{
+"place": "Ao Luek Panoramic room studio 3.", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-37587203/original/92196527-bfb2-4984-b86b-4c764b2d4f83.jpeg?aki_policy=small", "placeDate":"March 2022",
+"placeReviews": [{
+"customer": "Michèle", "customerImage": "https://a0.muscache.com/im/pictures/user/46a5d7a4-2bbf-4248-b552-a541240e2e2f.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2020", "comment": "",
+}]
+},
+{
+"place": "Ao Luek Panoramic room studio2.", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-37585422/original/37c27ea3-305f-4295-a6ab-fa3da47188d1.jpeg?aki_policy=small", "placeDate":"February 2022",
+"placeReviews": [{
+"customer": "Anne & Björn, Lüneburg, Germany", "customerImage": "https://a0.muscache.com/im/pictures/user/ae0f95ac-d119-4c70-978e-24370c18f96b.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2014", "comment": "This house is just comfy and modern. It was the best bed I ever had in Thailand so far. The view is amazing and Richy is helping with everything and try to make every wish come true. ;-) They offered a breakfast as well and brought us some fresh coconuts. We really enjoyed our stay, even if its far away from everything. But its a great spot to chill and take some time off",
+}]
+},
+]},
+
+{
+    "id":7,
+    "hostID": 10,
+"reviews": [
+{
+"place": "Luxury Cottage with private lawn", "placeLogo": "https://a0.muscache.com/im/pictures/b25330c9-7e2e-4c9c-904b-8dfcd32d3312.jpg?aki_policy=small", "placeDate":"August 2022",
+"placeReviews": [{
+"customer": "Nauman, Peshawar, Pakistan", "customerImage": "https://a0.muscache.com/im/pictures/user/7eefd8c3-efe8-4f40-966b-1e729507a6f6.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2022", "comment": "I alongwith my wife stayed for a night at the place and had a great time. The whole place was very nice and clean, specially the lawn was very lovely. The owner i. e. Father of Ahmed, Dr Shokat sb lives on the upper floor of the house, which makes you feel safer during your stay. He is a very nice host. His hospitality really impressed us. we were offered fruits upon our arrival, tea with buiscuits in evening, and even breakfast in the morning. I will definitely prefer to stay again at the place",
+}]
+},
+{
+"place": "Luxury Cottage with private lawn", "placeLogo": "https://a0.muscache.com/im/pictures/b25330c9-7e2e-4c9c-904b-8dfcd32d3312.jpg?aki_policy=small", "placeDate":"July 2022",
+"placeReviews": [{
+"customer": "Farhan, Lahore, Pakistan", "customerImage": "https://a0.muscache.com/im/pictures/user/43b7f755-3c31-49d8-9078-26e174a6bc3b.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2018", "comment": "just as expected! recommended!",
+}]
+},
+{
+"place": "Luxury Cottage with private lawn", "placeLogo": "https://a0.muscache.com/im/pictures/b25330c9-7e2e-4c9c-904b-8dfcd32d3312.jpg?aki_policy=small", "placeDate":"June 2022",
+"placeReviews": [{
+"customer": "Abdul Fatah, Lahore, Pakistan", "customerImage": "",
+"commentDate": "Joined in 2022", "comment": "Great place to stay the host is very friendly however the surroundings are not exactly picturesque as there is construction going on.",
+}]
+},
+{
+"place": "Luxury Cottage with private lawn", "placeLogo": "https://a0.muscache.com/im/pictures/b25330c9-7e2e-4c9c-904b-8dfcd32d3312.jpg?aki_policy=small", "placeDate":"June 2022",
+"placeReviews": [{
+"customer": "Abdul Ahad, Islamabad, Pakistan", "customerImage": "",
+"commentDate": "Joined in 2014", "comment": "Hello! Had a great time at this place. It is right in access to all major landmarks and utilities. Very private and quiet. Very well maintained and the lawn is amazing to unwind and relax. Too bad it was too hot mid May, however with some cloud cover my stay would have been elevated. Highly recommended if you would like to unwind and enjoy the peace.",
+}]
+},
+{
+"place": "Luxury Cottage with private lawn", "placeLogo": "https://a0.muscache.com/im/pictures/b25330c9-7e2e-4c9c-904b-8dfcd32d3312.jpg?aki_policy=small", "placeDate":"June 2022",
+"placeReviews": [{
+"customer": "Imran, London, United Kingdom", "customerImage": "https://a0.muscache.com/im/pictures/user/3ff8f6ce-c2ea-45a3-ad65-526beae8236e.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2022", "comment": "Amazing stay.This place tick all the boxes for me it has all basic stuff u need in ur daily routine its clean its tidy much much better experience than staying in hotels. Lawn was my best part used to sit there for long time just to wind myself down & chill. Ahmed’s communication was 2nd to none which was very comforting met his Dad Dr Sahib an absolute gem,we had brilliant experience of 7 nights will definitely visit again.",
+}]
+},
+]},
+
+{
+    "id":8,
+    "hostID": 11,
+"reviews": [
+{
+"place": "Quinta da Santana- Luxury Country Villa 1", "placeLogo": "https://a0.muscache.com/im/pictures/2c9522b0-a7f1-4f37-9368-0d22cef9c2cb.jpg?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "John, Nashville, TN", "customerImage": "https://a0.muscache.com/im/pictures/user/f905009c-cf76-4dac-a4a5-072c207da99a.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2016", "comment": "Perfect place to get away in Goa. The outside is an oasis and wonderful for recharging. Cristovao is just awesome and resourceful. Strongly recommend.",
+}]
+},
+{
+"place": "Quinta Da Santana Luxury Villa : In-house kitchen", "placeLogo": "https://a0.muscache.com/im/pictures/4af87cc3-3d31-41c3-9b5e-f436535bf4e7.jpg?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Archis", "customerImage": "https://a0.muscache.com/im/pictures/user/65a6d502-059c-4c0c-90d9-76af7ff826bc.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2018", "comment": "amazing place!",
+}]
+},
+{
+"place": "Quinta Da Santana - Luxury Hill Cottage", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-16263530/original/7c9fbb58-2e66-42b3-ac24-191806423851.png?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Simran", "customerImage": "https://a0.muscache.com/im/pictures/user/baaa7b21-0758-49d2-9802-b58c52fb58f2.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2021", "comment": "Absolutely loved our stay at Quinta Da Santana. The property is exotic, serene, peaceful and everything beautiful. Amenities are great and you'll find mostly anything you need for a good trip there. The host was nice and cooperative, and we had a comfortable and hassle free stay.",
+}]
+},
+{
+"place": "Quinta Da Santana Luxury Villa : In-house kitchen", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-657011800148868945/original/d98481cd-55d7-430b-96f5-08d673ec8d92.jpeg?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Rinku, India", "customerImage": "https://a0.muscache.com/im/pictures/user/bf24613e-7dd9-42a6-acf6-82096573eb30.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2019", "comment": "I appreciate the a clear response from Cristovao. Villa 4 is tastefully done is neat well equipped and I thoroughly enjoyed my stay. The location is safe beautiful and away from city hustle it’s commutable to beach and one can soak in local life passing by at it’s beautiful pace.",
+}]
+},
+{
+"place": "Quinta da Santana- Luxury Country Villa 1", "placeLogo": "https://a0.muscache.com/im/pictures/2c9522b0-a7f1-4f37-9368-0d22cef9c2cb.jpg?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Tanushri, Mumbai, India", "customerImage": "https://a0.muscache.com/im/pictures/user/5664ab56-2561-400d-97db-3f3a2a979567.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2017", "comment": "The property was really good, very clean and well maintained. We thoroughly enjoyed our stay. Cristovao was a very hands on and helpful host. Plus, our caretaker, Reena, was also very helpful and sweet.",
+}]
+},
+]},
+
+{
+    "id":9,
+    "hostID": 12,
+"reviews": [
+{
+"place": "Private room in Villa", "placeLogo": "https://a0.muscache.com/im/pictures/289ab013-ae8c-4eab-a8eb-5609b60ec5da.jpg?aki_policy=small", "placeDate":"September 2022",
+"placeReviews": [{
+"customer": "Stephen, Chirnside Park, Australia", "customerImage": "https://a0.muscache.com/im/pictures/user/21d56570-efa4-47f4-b120-e0c12744fa81.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2013", "comment": "A really nice stay here in this place. A bit of quiet in the middle of a busy city. Recieved by a very warm welcome from the guy at the reception desk and had many good chats too with him. they really care about your welfare and time in Rishikesh. There is a nice place to dry your washing on the roof too and a beautiful view of Rishikesh. Wish I knew a bit earlier but hot tip for you all. Blessings and Hari om. I will be back perhaps when in Rishikesh",
+}]
+},
+{
+"place": "Private room in Villa", "placeLogo": "https://a0.muscache.com/im/pictures/25131ae5-c6b5-4e1f-aed6-db8b3fcb2ef8.jpg?aki_policy=small", "placeDate":"September 2022",
+"placeReviews": [{
+"customer": "Vaibhav", "customerImage": "",
+"commentDate": "Joined in 2021", "comment": "Breakfast is written in the listing but it was not provided. Everything else is perfect, thank you for the wonderful hosting.",
+}]
+},
+{
+"place": "YOGA VILLA - QUIET YOGA HUB", "placeLogo": "https://a0.muscache.com/im/pictures/f4cc37e4-167f-42a2-a1ef-a58af100bb75.jpg?aki_policy=small", "placeDate":"September 2022",
+"placeReviews": [{
+"customer": "Eulalia María", "customerImage": "https://a0.muscache.com/im/pictures/user/1e5a221b-a2e6-4613-ae91-4b2e06368c19.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2019", "comment": "Lugar maravilloso",
+}]
+},
+{
+"place": "Private room in Villa", "placeLogo": "https://a0.muscache.com/im/pictures/289ab013-ae8c-4eab-a8eb-5609b60ec5da.jpg?aki_policy=small", "placeDate":"August 2022",
+"placeReviews": [{
+"customer": "Sean, Seoul, South Korea", "customerImage": "https://a0.muscache.com/im/pictures/user/a1d39fe0-1338-476d-8404-599add5b4e75.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2016", "comment": "Very nice and friendly host family. When here had heavy rain they had power shortage which caused blackout nights without internet. Other than that were fine to stay a week :)",
+}]
+},
+{
+"place": "Private room in Villa", "placeLogo": "https://a0.muscache.com/im/pictures/25131ae5-c6b5-4e1f-aed6-db8b3fcb2ef8.jpg?aki_policy=small", "placeDate":"August 2022",
+"placeReviews": [{
+"customer": "Anuj", "customerImage": "https://a0.muscache.com/im/pictures/user/a7801d5f-8c29-4208-a6cc-16f86b7bfc2a.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2020", "comment": "Sarvesh was very helpful and friendly, he’s a super host!",
+}]
+},
+]},
+
+{
+    "id":10,
+    "hostID": 13,
+"reviews": [
+{
+"place": "", "placeLogo": "", "placeDate":"August 2022",
+"placeReviews": [{
+"customer": "Shehzad, Cincinnati, OH", "customerImage": "https://a0.muscache.com/im/pictures/user/16564af1-a705-4555-a8b9-e29eb7f084c5.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2017", "comment": "Excellent location. Renovated place is ideal for large families. If you want to stay away from typical tourist spots to enjoy weather and calm environment then this is a place to be. Onsite staff was very helpful as well. Will certainly recommend.",
+}]
+},
+{
+"place": "", "placeLogo": "", "placeDate":"June 2022",
+"placeReviews": [{
+"customer": "Saad, Islamabad, Pakistan", "customerImage": "https://a0.muscache.com/im/pictures/user/95dc4e09-9398-420a-9982-a9c0cef0c61d.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2019", "comment": "Great views of mountains, surrounded by pine trees. Complete privacy. Kids could easily play in fenced gardens. Would definitely recommend this place to families!",
+}]
+},
+{
+"place": "", "placeLogo": "", "placeDate":"May 2022",
+"placeReviews": [{
+"customer": "Mehreen", "customerImage": "",
+"commentDate": "Joined in 2014", "comment": "This is a great place to spend a vacation with the family. The kids had a really fun time, there was table tennis, board games and even an area to play cricket. The house is in a peaceful residential area, perfect for having a family vacation.",
+}]
+}
 ]}
 
 ]

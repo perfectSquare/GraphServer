@@ -326,6 +326,367 @@ export const reviews = [
         "joineDate": "June 2022",
         "comment": "Great location, wonderful hospitality and a very spacious and accessible home. The hosts truly opened their home and their hearts to the guests. We will absolutely go back each trip to Srinagar."
     },
+    {
+        "id":36,
+        "reviewFor": "Blue Peacock Beach House",
+        "customer": "Bettina",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/9f197e90-7d98-4da0-91a9-c9b30cf89134.jpg?im_w=240",
+        "commentDate": "May 2022",
+        "joineDate": "May 2022",
+        "comment": "The Beach House is located perfectly and the staff makes your stay unforgettable!"
+    },
+    {
+        "id":37,
+        "reviewFor": "Blue Peacock Beach House",
+        "customer": "Annika",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/996a02bd-9a67-41c0-a4cd-35725096d68b.jpg?im_w=240",
+        "commentDate": "March 2022",
+        "joineDate": "March 2022",
+        "comment": "We had wonderful days at the peacock house:)<br>If you stay here,try the bbq!<br>The staff was really amazing and helpful:)"
+    },
+    {
+        "id":38,
+        "reviewFor": "Blue Peacock Beach House",
+        "customer": "Anusha",
+        "customerImage": "",
+        "commentDate": "February 2022 - Family trip",
+        "joineDate": "February 2022 - Family trip",
+        "comment": "Peacock Beach House is truly spectacular. The pictures dont quite do it justice. We were there onlh for two nights but wished so much that we had more time there. Bedrooms were clean and the staff were there at hand to assist us with anything we required. The view of the sea and the sunsets is something I cant put a price on. I went with my huband and our two children plus my parents and all of us had a lovely time. Thank you to Patricia and Alwin."
+    },
+    {
+        "id":39,
+        "reviewFor": "Blue Peacock Beach House",
+        "customer": "Yevhenii",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/c08ff30a-acb8-487e-a6db-d14f240ac81d.jpg?im_w=240",
+        "commentDate": "February 2022",
+        "joineDate": "February 2022",
+        "comment": "Perfect and privat"
+    },
+    {
+        "id":40,
+        "reviewFor": "Blue Peacock Beach House",
+        "customer": "Zosia",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/f2d9b762-23e3-45b1-a0c6-e884999246f8.jpg?im_w=240",
+        "commentDate": "January 2022 - Family trip",
+        "joineDate": "January 2022 - Family trip",
+        "comment": "Everything went as planned. Really good spot for family with children."
+    },
+    {
+        "id":41,
+        "reviewFor": "Blue Peacock Beach House",
+        "customer": "Joseph",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/c5992c78-40af-4306-851f-1223000b9281.jpg?im_w=240",
+        "commentDate": "January 2022",
+        "joineDate": "January 2022",
+        "comment": "The Blue Peacock is in the perfect location on Hikkaduwa beach. The south side of the beach is a bit quieter and within minutes of of many restaurants, bars, and other activities. It feels as if you have the beach to yourself as the charming wooden fence leads right onto the sand. The amenities on the property are excellent (high speed wifi, hot water, etc). The host, Patricia, and building manager were responsive and more than willing to arrange any other needs during the stay.br><br>There is honesty not much that could be added to improve the experience we had during our stay. It was magical."
+    },
+    {
+        "id":42,
+        "reviewFor": "Blue Peacock Beach House",
+        "customer": "Sarah",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/b3f17f1e-3153-4cb2-8f5f-807b9f9ffee8.jpg?im_w=240",
+        "commentDate": "January 2022",
+        "joineDate": "January 2022",
+        "comment": "Blue Peacock House is a charming beach home, tastefully done, a few meters from the sea. The rooms are small (beds are super-comfy!) but the main feature of the house is the semi open sitting area, the poolside, lawn and the golden beach beyond them.br><br>The staff and hosts were helpful and accommodating. We hope we get to return someday!"
+    },
+    {
+        "id":43,
+        "reviewFor": "Blue Peacock Beach House",
+        "customer": "Veronika",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/a80dfb05-deb4-46b4-aa5d-3665a6f4cc09.jpg?im_w=240",
+        "commentDate": "December 2021 - Family trip",
+        "joineDate": "December 2021 - Family trip",
+        "comment": "Absolutely gorgeous accomodation, exactly as described and shown on pictures and even more! Right at the beach which isn't busy at this part and the seating terrace is such a great pleasure to have to watch the sea and sunset. Only tiny downside was cooker, if you'd plan on cooking plan simple meals as the gas supply isn't great and only one ring can be used and stoll takes quite long time to prep a meal.<br>But otherwise its very private, tucked away from busy road and just like true paradise with lovely staff looking after the place and pool.<br>Highly recommended and will definitely be back!"
+    },
 
+    {
+        "id":44,
+        "reviewFor": "Ao Luek Panoramic room studio2.",
+        "customer": "Anne & Björn",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/ae0f95ac-d119-4c70-978e-24370c18f96b.jpg?im_w=240",
+        "commentDate": "February 2022",
+        "joineDate": "February 2022",
+        "comment": "This house is just comfy and modern. It was the best bed I ever had in Thailand so far. The view is amazing and Richy is helping with everything and try to make every wish come true"
+    },
+    {
+        "id":45,
+        "reviewFor": "Ao Luek Panoramic room studio2.",
+        "customer": "Martina",
+        "customerImage": "https://a0.muscache.com/im/users/40716762/profile_pic/1438888920/original.jpg?im_w=240",
+        "commentDate": "September 2021",
+        "joineDate": "September 2021",
+        "comment": "beautiful place and a breathtaking view!"
+    },
+    {
+        "id":46,
+        "reviewFor": "Ao Luek Panoramic room studio2.",
+        "customer": "Joe",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/14d7f6c8-8e92-4de1-9e7b-ceb214388678.jpg?im_w=240",
+        "commentDate": "March 2020",
+        "joineDate": "March 2020",
+        "comment": "The most beautiful place, with the best people! Richy and Fah are the best and most accommodating hosts we’ve ever had!<br><br>The trip started with an transfer to the AirBnb where we found 3 motorbikes that we requested (all prearranged by Richy). The place was spotless, the view was amazing, and the pool and air conditioning were a great touch! We are very independent travelers, so Richy was very respectful of our space in the first two days.<br><br>On our second day we had one traveler crash the motorbike, and Richy and Fah dropped everything to pick us up and take us to the emergency room. They stayed with us the entire time to ensure our safety and bring us back. These are truly genuine and caring people!<br><br>Finally, after an injury changed our plans, Richy and Fah designed an entire third day for us that included a private boating tour through the islands (highlight of the entire two week trip through Thailand, and the captain Bang Don was an equally impressive and caring individual), followed by an amazing sunset dinner!"
+    },
+    {
+        "id":47,
+        "reviewFor": "Ao Luek Panoramic room studio2.",
+        "customer": "Jeeranun",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/76ce2672-1b5b-4f92-a27b-0e395addfd2b.jpg?im_w=240",
+        "commentDate": "September 2019",
+        "joineDate": "September 2019",
+        "comment": "Thank you for your service and breakfast. We will come back again "
+    },
+    {
+        "id":48,
+        "reviewFor": "Luxury Cottage with private lawn",
+        "customer": "Nauman",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/7eefd8c3-efe8-4f40-966b-1e729507a6f6.jpg?im_w=240",
+        "commentDate": "August 2022",
+        "joineDate": "August 2022",
+        "comment": "I alongwith my wife stayed for a night at the place and had a great time. The whole place was very nice and clean, specially the lawn was very lovely.<br>The owner i. e. Father of Ahmed, Dr Shokat sb lives on the upper floor of the house, which makes you feel safer during your stay.<br>He is a very nice host. His hospitality really impressed us. we were offered fruits upon our arrival, tea with buiscuits in evening, and even breakfast in the morning.<br>I will definitely prefer to stay again at the place"
+    },
+    {
+        "id":49,
+        "reviewFor": "Luxury Cottage with private lawn",
+        "customer": "Farhan",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/43b7f755-3c31-49d8-9078-26e174a6bc3b.jpg?im_w=240",
+        "commentDate": "July 2022",
+        "joineDate": "July 2022",
+        "comment": "just as expected! recommended!"
+    },
+    {
+        "id":50,
+        "reviewFor": "Luxury Cottage with private lawn",
+        "customer": "Abdul Fatah",
+        "customerImage": "",
+        "commentDate": "June 2022",
+        "joineDate": "June 2022",
+        "comment": "Great place to stay the host is very friendly however the surroundings are not exactly picturesque as there is construction going on."
+    },
+    {
+        "id":51,
+        "reviewFor": "Luxury Cottage with private lawn",
+        "customer": "Abdul Ahad",
+        "customerImage": "",
+        "commentDate": "May 2022",
+        "joineDate": "May 2022",
+        "comment": "Hello! Had a great time at this place. It is right in access to all major landmarks and utilities. Very private and quiet. Very well maintained and the lawn is amazing to unwind and relax.<br>Too bad it was too hot mid May, however with some cloud cover my stay would have been elevated. Highly recommended if you would like to unwind and enjoy the peace."
+    },
+    {
+        "id":52,
+        "reviewFor": "Luxury Cottage with private lawn",
+        "customer": "Imran",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/3ff8f6ce-c2ea-45a3-ad65-526beae8236e.jpg?im_w=240",
+        "commentDate": "May 2022",
+        "joineDate": "May 2022",
+        "comment": "Amazing stay.This place tick all the boxes for me it has all basic stuff u need in ur daily routine its clean its tidy much much better experience than staying in hotels.<br>Lawn was my best part used to sit there for long time just to wind myself down & chill.<br>Ahmed’s communication was 2nd to none which was very comforting met his Dad Dr Sahib an absolute gem,we had brilliant experience of 7 nights will definitely visit again."
+    },
+    {
+        "id":53,
+        "reviewFor": "Luxury Cottage with private lawn",
+        "customer": "Usman",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/7f65ba77-1d6e-45d5-afd4-86f3c61bd7bd.jpg?im_w=240",
+        "commentDate": "April 2022",
+        "joineDate": "April 2022",
+        "comment": "Absolutely phenomenal place and a truly wonderful host.I had such an incredible stay that I barely ever left the house.I would highly recommend this place to everyone!"
+    },
+    {
+        "id":54,
+        "reviewFor": "Luxury Cottage with private lawn",
+        "customer": "Sawan",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/9e3f21af-8c69-484a-a730-8ee5160b01c9.jpg?im_w=240",
+        "commentDate": "March 2022",
+        "joineDate": "March 2022",
+        "comment": "Ahmad’s a super host because of valid reasons! We were very comfortable at his place! Highly recommended!"
+    },
+    {
+        "id":55,
+        "reviewFor": "Luxury Cottage with private lawn",
+        "customer": "Sarah",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/09306ccf-e00b-4c17-9824-8b52174b4c58.jpg?im_w=240",
+        "commentDate": "February 2022",
+        "joineDate": "February 2022",
+        "comment": "Ahmed has been a wonderful host. He always has been straightforward about the Cottage and he answered all our questions. We had some personal problems and Ahmed has been very understanding.<br>We have been to many Airbnbs and we always had bad surprises. Except for Ahmed's cottage, it is a real gem. Everything is according the description and the pictures.<br>Thanks again Ahmed!"
+    },
+    {
+        "id":56,
+        "reviewFor": "Luxury Cottage with private lawn",
+        "customer": "Audrey",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/80362f7a-db32-4de2-86f4-db58b3a64da9.jpg?im_w=240",
+        "commentDate": "January 2022",
+        "joineDate": "January 2022",
+        "comment": "Amazing stay. Ahmed sb is very upfront and clear about everything and there were no surprises. The location was beautiful and we had an amazing, quiet, private time as a family. We will definitely come back and recommend it."
+    },
+    {
+        "id":57,
+        "reviewFor": "Luxury Cottage with private lawn",
+        "customer": "Wahab",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/e7efa446-381b-40fb-b1f2-00558cff27f5.jpg?im_w=240",
+        "commentDate": "December 2021",
+        "joineDate": "December 2021",
+        "comment": "Pictures on the internet do not do this property justice. Location was fab. Quiet but close to shops and all the beautiful places around. Shaukat uncle is a wonderful human being and was always making sure that we have everything we need at the cottage, super hospitable. Very comfortable, would definitely recommend!"
+    },
+
+    {
+        "id":58,
+        "reviewFor": "Quinta Da Santana Luxury Villa : In-house kitchen",
+        "customer": "Rinku",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/bf24613e-7dd9-42a6-acf6-82096573eb30.jpg?im_w=240",
+        "commentDate": "October 2022",
+        "joineDate": "October 2022",
+        "comment": "I appreciate the a clear response from Cristovao.<br>Villa 4 is tastefully done is neat well equipped and I thoroughly enjoyed my stay. The location is safe beautiful and away from city hustle it’s commutable to beach and one can soak in local life passing by at it’s beautiful pace."
+    },
+    {
+        "id":59,
+        "reviewFor": "Quinta Da Santana Luxury Villa : In-house kitchen",
+        "customer": "Balkrishna",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/5b7fa412-0c67-41b1-b826-b6e188752308.jpg?im_w=240",
+        "commentDate": "September 2022",
+        "joineDate": "September 2022",
+        "comment": "It was a pleasant stay. the host was super helpful. He managed us transport in no time. please visit for luxurious comfortable stay in the nature's lap."
+    },
+    {
+        "id":60,
+        "reviewFor": "Quinta Da Santana Luxury Villa : In-house kitchen",
+        "customer": "Aishwarya",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/4c448b3e-870f-431d-b992-694f01bbe366.jpg?im_w=240",
+        "commentDate": "September 2022",
+        "joineDate": "September 2022",
+        "comment": "If you want a romantic getaway which is perfectly secluded, this is the place to be. In short, this property is Bali in Goa.<br>Cristovao was an amazing host, ofcourse who just randomly sent us slices of cake and came over to say hi :) he responded to all our queries extremely patiently and was of great help! Would highly recommend !"
+    },
+    {
+        "id":61,
+        "reviewFor": "Quinta Da Santana Luxury Villa : In-house kitchen",
+        "customer": "Neeraj",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/0f4880f0-da41-43ad-a188-e80bd711d80f.jpg?im_w=240",
+        "commentDate": "September 2022",
+        "joineDate": "September 2022",
+        "comment": "It was a cosy stay. One must try to look for exploring outer Goa and can have a super stay in the farm"
+    },
+    {
+        "id":62,
+        "reviewFor": "Quinta Da Santana Luxury Villa : In-house kitchen",
+        "customer": "Siddhartha",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/7d6192bb-280d-4e6e-afef-594514309e86.jpg?im_w=240",
+        "commentDate": "August 2022",
+        "joineDate": "August 2022",
+        "comment": "We had a really nice time at Quinta Da Santana, the villas and space around are really well designed and maintained, a slice of paradise within paradise is very rare to find, and that's what comes to my mind when i think of our time there."
+    },
+    {
+        "id":63,
+        "reviewFor": "Quinta Da Santana Luxury Villa : In-house kitchen",
+        "customer": "Siddharth",
+        "customerImage": "",
+        "commentDate": "July 2022",
+        "joineDate": "July 2022",
+        "comment": "It is a beautiful property tucked away in the heart of South Goa. Rooms were pretty clean and comfortable, made us feel at home. Amenities were well taken care of and the staff were polite and courteous. Moderately well connected to majority of the attractions in South Goa."
+    },
+    {
+        "id":63,
+        "reviewFor": "Private room in Villa",
+        "customer": "Vaibhav",
+        "customerImage": "",
+        "commentDate": "September 2022 - Last minute trip",
+        "joineDate": "September 2022 - Last minute trip",
+        "comment": "Breakfast is written in the listing but it was not provided. Everything else is perfect, thank you for the wonderful hosting."
+    },
+    {
+        "id":64,
+        "reviewFor": "Private room in Villa",
+        "customer": "Anuj",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/a7801d5f-8c29-4208-a6cc-16f86b7bfc2a.jpg?im_w=240",
+        "commentDate": "July 2022 - Last minute trip",
+        "joineDate": "July 2022 - Last minute trip",
+        "comment": "Sarvesh was very helpful and friendly, he’s a super host!"
+    },
+    {
+        "id":65,
+        "reviewFor": "Private room in Villa",
+        "customer": "Yogendra",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/dfe1cd07-0b76-4997-8818-1d0bf470a185.jpg?im_w=240",
+        "commentDate": "July 2022",
+        "joineDate": "July 2022",
+        "comment": "Comfortable stay."
+    },
+    {
+        "id":66,
+        "reviewFor": "Private room in Villa",
+        "customer": "Gaurav",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/e36cfeab-adba-40ea-88f1-943340added2.jpg?im_w=240",
+        "commentDate": "June 2022",
+        "joineDate": "June 2022",
+        "comment": "very nice person.everything what you want just tell him.environment life a (Website hidden by Airbnb) experience amazing.."
+    },
+    {
+        "id":67,
+        "reviewFor": "Private room in Villa",
+        "customer": "Mukta",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/bdfe8102-5392-4aa5-a661-31f5d73b5cc7.jpg?im_w=240",
+        "commentDate": "June 2022",
+        "joineDate": "June 2022",
+        "comment": "The private room was clean and comfortable, in a good quiet property. Not a luxury place, but good if you're on a budge trip (for two). We enjoyed the calm on this side of Rishikesh after having spent one night in Tapovan, which was quite loud and busy.Overall a good stay!"
+    },
+    {
+        "id":68,
+        "reviewFor": "Private room in Villa",
+        "customer": "Anand",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/36050de2-9e3e-4956-9d38-edffb2c9e300.jpg?im_w=240",
+        "commentDate": "April 2022",
+        "joineDate": "April 2022",
+        "comment": "The place is walking distance from Ram Jhoola. very convenient for food, taking dip at ganga or going for water rafting. The staff is friendly. This place is value for Money."
+    },
+    {
+        "id":69,
+        "reviewFor": "Private room in Villa",
+        "customer": "Ashish",
+        "customerImage": "",
+        "commentDate": "April 2022",
+        "joineDate": "April 2022",
+        "comment": "The stay was wonderful. It is at walking distance from the Ram Jhula and the ghats so you can enjoy fresh breeze whenever you like at the ghats. Also host is very helpful, and food at villa is tasty and healthy."
+    },
+    {
+        "id":70,
+        "reviewFor": "Private room in Villa",
+        "customer": "Shashank",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/e0a85638-66a5-4466-9e33-e616c59ecf17.jpg?im_w=240",
+        "commentDate": "April 2022",
+        "joineDate": "April 2022",
+        "comment": "I had a great time at Sarvesh's property.The hotel staff was very accommodating and very quick to respond with any questions. They were also flexible with check-in and check-out time, which was extremely helpful. Also he came on his bike to pick up my grandfather which was an amazing gesture. The place was very clean and had all of the necessities. The communication was super easy and quick and the place looks exactly like it does on the pictures. The food was also amazing. The neighborhood is very conveniently located and the listing is very quiet and peaceful! I would absolutely recommend staying there."
+    },
+    {
+        "id":71,
+        "reviewFor": "Private room in Villa",
+        "customer": "Subrajit",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/38b14be2-30c8-4bf0-87aa-239f3c77e46f.jpg?im_w=240",
+        "commentDate": "April 2021",
+        "joineDate": "April 2021",
+        "comment": "Nice and quiet place!<br>And the hosts are humble and very professional!"
+    },
+    {
+        "id":72,
+        "reviewFor": "Mountain Terrace - A 4 BR Villa with Scenic Views",
+        "customer": "Shehzad",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/16564af1-a705-4555-a8b9-e29eb7f084c5.jpg?im_w=240",
+        "commentDate": "August 2022",
+        "joineDate": "August 2022",
+        "comment": "Excellent location. Renovated place is ideal for large families. If you want to stay away from typical tourist spots to enjoy weather and calm environment then this is a place to be. Onsite staff was very helpful as well. Will certainly recommend."
+    },
+    {
+        "id":73,
+        "reviewFor": "Mountain Terrace - A 4 BR Villa with Scenic Views",
+        "customer": "Saad",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/95dc4e09-9398-420a-9982-a9c0cef0c61d.jpg?im_w=240",
+        "commentDate": "June 2022",
+        "joineDate": "June 2022",
+        "comment": "Great views of mountains, surrounded by pine trees. Complete privacy. Kids could easily play in fenced gardens. Would definitely recommend this place to families!"
+    },
+    {
+        "id":74,
+        "reviewFor": "Mountain Terrace - A 4 BR Villa with Scenic Views",
+        "customer": "Mehreen",
+        "customerImage": "",
+        "commentDate": "May 2022 - Last minute trip",
+        "joineDate": "May 2022 - Last minute trip",
+        "comment": "This is a great place to spend a vacation with the family. The kids had a really fun time, there was table tennis, board games and even an area to play cricket. The house is in a peaceful residential area, perfect for having a family vacation."
+    },
 
 ]

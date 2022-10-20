@@ -1,5 +1,8 @@
 export const hosts = [
     {
+        "id": 0,
+    },
+    {
         "id": 1,
         "name": "LookBook",
         "joinedDate": "October 2015",
@@ -208,6 +211,250 @@ export const hosts = [
  "about": "Private room / Bed and breakfast", "stars": 4.90
 },
         ]
-    }                            
+    },
+
+//////////////////////// 7
+    {
+        "id": 7,
+        "name": "Patricia",
+        "joinedDate": "2017",
+        "reviewsNum": 91,
+        "identity": "super",
+        "description": "Hello I am Patricia, I am Dutch, 55 years old and married to Alwin. We live in a small village in the eastern part of the Netherlands. Together we have 3 children which are at university so they live in different cities. We love to travel and experience different cultures. Our goal in life is “ Create a life where you don’t need a vacation from”",
+        "during": "The beach house is staffed with a part-time property manager, housekeeper and nightwatch. We want you to relax and fully enjoy your holiday, so unless you contact us we will leave you in peace. We will be in contact with our manager to ensure you are comfortable and be contactable if you need to speak to us.",
+        "language": ["Nederlands", "English", "Deutsch"],
+        "verified": ["Identity", "Email address", "Phone number"],
+        "responseRate": 100,
+        "responseTime": "within a few hours",
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/e10be6b7-a518-4780-91e2-c5d00b1f091b.jpg?aki_policy=profile_large",
+        "lives": "Lives in Losser, Netherlands",
+        "speaks": "Speaks Deutsch, English, Nederlands",
+        "work": "",
+        "listing": [
+{
+ "cat":"parks", "destinationID":1, 
+ "image": "https://a0.muscache.com/im/pictures/c98c7be5-53ce-43bd-9c9b-5ddfd28b8b9c.jpg?im_w=960",
+ "reviewsNum": 52, "name": "Blue Peacock Beach House",
+ "about": "Entire home/apt. Bunglow", "stars": 4.81
+},
+{
+ "cat":"", "destinationID":0, 
+ "image": "https://a0.muscache.com/im/pictures/a307786c-bc1b-45b1-8fbb-8f0bbc7a4950.jpg?im_w=960",
+ "reviewsNum": 29, "name": "Temple House Villa *FREE BREAKFAST INCLUDED*",
+ "about": "Entire home/apt. Bunglow", "stars": 4.79
+},
+        ]
+    },
+//////////////////////// 8
+    {
+        "id": 8,
+        "name": "Richy",
+        "joinedDate": "2019",
+        "reviewsNum": 30,
+        "identity": "verified",
+        "description": "",
+        "during": "There are employees with you at all times, day and night.<br>Response rate: 100%<br>Response time: within an hour",
+        "language": [],
+        "verified": ["Email address", "Phone number"],
+        "responseRate": 100,
+        "responseTime": "within an hour",
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/29e25807-b49a-46cc-b813-c02379cc2aaf.jpg?aki_policy=profile_large",
+        "lives": "",
+        "speaks": "",
+        "work": "",
+        "listing": [
+{
+ "cat":"", "destinationID":0, 
+ "image": "https://a0.muscache.com/im/pictures/miso/Hosting-37587203/original/92196527-bfb2-4984-b86b-4c764b2d4f83.jpeg?im_w=960",
+ "reviewsNum": 13, "name": "Ao Luek Panoramic room studio 3.",
+ "about": "Entire home/apt. Villa", "stars": 5.0
+},
+{
+ "cat":"", "destinationID":0, 
+ "image": "https://a0.muscache.com/im/pictures/miso/Hosting-37464820/original/bf91c71f-24b8-45d2-afe2-d17d02ae8e4d.jpeg?im_w=960",
+ "reviewsNum": 13, "name": "Ao Luek Panoramic room studio 1.",
+ "about": "Entire home/apt. House", "stars": 4.54
+},
+{
+ "cat":"", "destinationID":0, 
+ "image": "https://a0.muscache.com/im/pictures/miso/Hosting-37464820/original/bf91c71f-24b8-45d2-afe2-d17d02ae8e4d.jpeg?im_w=960",
+ "reviewsNum": 13, "name": "Ao Luek Panoramic room studio 1.",
+ "about": "Entire home/apt. House", "stars": 4.54
+},
+{
+ "cat":"parks", "destinationID":3, 
+ "image": "https://a0.muscache.com/im/pictures/miso/Hosting-37585422/original/37c27ea3-305f-4295-a6ab-fa3da47188d1.jpeg?im_w=960",
+ "reviewsNum": 4, "name": "Ao Luek Panoramic room studio 2.",
+ "about": "Entire home/apt. House", "stars": 5.0
+},
+        ]
+    },
+//////////////////////// 9
+    {
+        "id": 9,
+        "name": "AltiHut",
+        "joinedDate": "2019",
+        "reviewsNum": 0,
+        "identity": "",
+        "description": "",
+        "during": "",
+        "language": [],
+        "verified": ["Email address", "Phone number"],
+        "responseRate": 0,
+        "responseTime": "",
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/2ace3a2a-98ec-4cde-bf29-36b17f2f85c9.jpg?aki_policy=profile_large",
+        "lives": "",
+        "speaks": "",
+        "work": "",
+        "listing": [
+{
+ "cat":"parks", "destinationID":4, 
+ "image": "https://a0.muscache.com/im/pictures/80500e6d-b4bb-4b3a-8582-3c86b69342d2.jpg?im_w=960",
+ "reviewsNum": -1, "name": "AltiHut 3014",
+ "about": "Shared room - Hut", "stars": 0
+},
+        ]
+    },
+//////////////////////// 10
+    {
+        "id": 10,
+        "name": "Ahmed",
+        "joinedDate": "2018",
+        "reviewsNum": 82,
+        "identity": "super",
+        "description": "Traveller, photographer and artist",
+        "during": "",
+        "language": [],
+        "verified": ["Email address", "Phone number"],
+        "responseRate": 96,
+        "responseTime": "within a few hours",
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/002e4bfe-c62e-441f-8eaa-8c2f29430a5f.jpg?aki_policy=profile_large",
+        "lives": "Lives in Rawalpindi, Pakistan",
+        "speaks": "",
+        "work": "",
+        "listing": [
+{
+ "cat":"parks", "destinationID":5, 
+ "image": "https://a0.muscache.com/im/pictures/e3846ae1-3aac-4a6b-805e-1221025e6b48.jpg?im_w=960",
+ "reviewsNum": 82, "name": "Luxury Cottage with private lawn",
+ "about": "Entire home/apt - Cottage", "stars": 4.82
+},
+{
+ "cat":"", "destinationID":0, 
+ "image": "https://a0.muscache.com/im/pictures/miso/Hosting-53510396/original/33c66f4f-1a9d-425f-b582-291c04ff5edc.jpeg?im_w=960",
+ "reviewsNum": -1, "name": "Luxury Condo in Bhurban",
+ "about": "Entire home/apt - Condominium", "stars": 0
+},
+        ]
+    },
+
+//////////////////////// 11
+    {
+        "id": 11,
+        "name": "Cristovao",
+        "joinedDate": "2016",
+        "reviewsNum": 622,
+        "identity": "super",
+        "description": "My name is Cristovao Francisco Das Merces Vas Falcao in Portuguese, in short Christopher or Chris in English. I am an Educationist having started various primary schools in South Goa. Presently I am Chairman/managing trustee of St Anne's educational Trust which manages and runs The St Anne's group of Educational Institutions having its registered office at Fatorda - Margao - Goa.<br>Beside education my passion and hobbies include collecting and restoring vintage and classic cars which can be viewed and admired at my farm, Quinta Da Santana, situated in the beautiful village of Raia in South - Goa. Quinta Da Santana has a Manor farm house surrounded by nature and cradled in the midst of hills and valleys in a wooded serene environment - a nature lovers paradise - and it is here that I spend all of my free time. My hobbies also include travelling, meeting people from different countries, reading and sipping Single Malt Scotch Whisky.<br>Its been a few months now that The Manor House at Quinta Da Santana has been opened for guests to come and stay and enjoy the beauty of the place. To play host to these guests remains my favourite pass time",
+        "during": "",
+        "language": [],
+        "verified": ["Identity", "Email address", "Phone number"],
+        "responseRate": 100,
+        "responseTime": "within an hour",
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/4b38cda0-404a-4eb1-bba3-6cb654cc677e.jpg?aki_policy=profile_large",
+        "lives": "Lives in India",
+        "speaks": "",
+        "work": "",
+        "listing": [
+{
+ "cat":"", "destinationID":0, 
+ "image": "https://a0.muscache.com/im/pictures/4af87cc3-3d31-41c3-9b5e-f436535bf4e7.jpg?im_w=960",
+ "reviewsNum": 51, "name": "Quinta Da Santana Luxury Villa : In-house kitchen",
+ "about": "Entire home/apt - Guest House", "stars": 4.84 
+},
+{
+ "cat":"parks", "destinationID":6, 
+ "image": "https://a0.muscache.com/im/pictures/miso/Hosting-53510396/original/33c66f4f-1a9d-425f-b582-291c04ff5edc.jpeg?im_w=960",
+ "reviewsNum": 10, "name": "Quinta Da Santana Luxury Villa : In-house kitchen",
+ "about": "Entire home/apt - Viila", "stars": 5.0
+},
+{
+ "cat":"", "destinationID":0, 
+ "image": "https://a0.muscache.com/im/pictures/miso/Hosting-16263530/original/7c9fbb58-2e66-42b3-ac24-191806423851.png?im_w=960",
+ "reviewsNum": 93, "name": "Quinta Da Santana - Luxury Hill Cottage",
+ "about": "Entire home/apt - Guest House", "stars": 4.78
+},
+{
+ "cat":"", "destinationID":0, 
+ "image": "https://a0.muscache.com/im/pictures/2c9522b0-a7f1-4f37-9368-0d22cef9c2cb.jpg?im_w=960",
+ "reviewsNum": 189, "name": "Quinta da Santana- Luxury Country Villa 1",
+ "about": "Entire home/apt - Viila", "stars": 4.89
+}
+        ]
+    },
+//////////////////////// 12
+    {
+        "id": 12,
+        "name": "Sarvesh",
+        "joinedDate": "December 2015",
+        "reviewsNum": 210,
+        "identity": "super",
+        "description": "Hi I’m Sarvesh and I’m living in Rishikesh with my family. I am running my place Yoga Villa.",
+        "during": "My home is just next to the place me and my family always available for any help.",
+        "language": ["English", "हिन्दी"],
+        "verified": ["Identity", "Email address", "Phone number"],
+        "responseRate": 100,
+        "responseTime": "within an hour",
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/fae6ad7f-c9c9-4854-9847-c9f699d52da0.jpg?aki_policy=profile_large",
+        "lives": "Lives in Rishikesh, India",
+        "speaks": "Speaks English, Hindi",
+        "work": "",
+        "listing": [
+{
+ "cat":"", "destinationID":0, 
+ "image": "https://a0.muscache.com/im/pictures/289ab013-ae8c-4eab-a8eb-5609b60ec5da.jpg?im_w=960",
+ "reviewsNum": 64, "name": "Private room in Villa",
+ "about": "Private room - Guest House", "stars": 4.84 
+},
+{
+ "cat":"parks", "destinationID":6, 
+ "image": "https://a0.muscache.com/im/pictures/25131ae5-c6b5-4e1f-aed6-db8b3fcb2ef8.jpg?im_w=960",
+ "reviewsNum": 36, "name": "Private room in Villa",
+ "about": "Entire home/apt - Viila", "stars": 4.56
+},
+{
+ "cat":"", "destinationID":0, 
+ "image": "https://a0.muscache.com/im/pictures/a3f4a28d-0580-4e2b-90b8-82c306e3942c.jpg?im_w=960",
+ "reviewsNum": 21, "name": "Private room in Villa - 1",
+ "about": "Entire home/apt - Viila 1", "stars": 4.86
+}
+        ]
+    },
+//////////////////////// 13
+    {
+        "id": 13,
+        "name": "Paramount",
+        "joinedDate": "2022",
+        "reviewsNum": 3,
+        "identity": "verified",
+        "description": "Paramount Hospitality Group is your premier hospitality partner. We ensure you always get the best-in-class experience for your stays with us.<br>Our properties are designed and furnished to give you a 5-star experience so that you and your loved ones can have a carefree vacation when choosing us as your hospitality partner!<br>To ensure the health and safety of all our guests, we follow very high standards of hygiene and cleanliness in all of our properties.",
+        "during": "We will be accessible to guests 24/7 through mobile/watsapp. At least one staff member will be available at property at all times.",
+        "language": [],
+        "verified": ["Identity", "Email address", "Phone number"],
+        "responseRate": 100,
+        "responseTime": "within an hour",
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/6189d69c-2212-40fc-84fc-af1906f28e58.jpg?aki_policy=profile_large",
+        "lives": "",
+        "speaks": "",
+        "work": "",
+        "listing": [
+{
+ "cat":"parks", "destinationID":8, 
+ "image": "https://a0.muscache.com/im/pictures/miso/Hosting-575150680411235264/original/ec14c95a-db66-4e99-867b-bbde1ff09c26.jpeg?im_w=960",
+ "reviewsNum": 3, "name": "Mountain Terrace - A 4 BR Villa with Scenic Views",
+ "about": "Entire home/apt - Vaccation home", "stars": 5.0
+},
+        ]
+    }            
 
 ]

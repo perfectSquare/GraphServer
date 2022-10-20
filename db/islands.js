@@ -1,9 +1,12 @@
 export const islands = [
     {
         "id": 1,
-        "name": "Adaaran Club Rannalhi, Maldives, Water Bungalows",
+        "name": "Adaaran Club Rannalhi, Maldives, Water Bungalows",        
         "nick": "MV, Maldives",
-        "latiude": 3.9036,
+        "luxi": false,
+        "luxIncluded": [],
+        "luxServices": [],
+        "latitude": 3.9036,
         "longitude": 73.3580,
         "images": [
             "https://a0.muscache.com/im/pictures/373443ec-b377-4181-b753-3a2f3508c2b3.jpg?im_w=720",
@@ -49,12 +52,7 @@ export const islands = [
         "rulesID":2,
         "cancelPolicy": "This reservation is non-refundable.",        
         "bedrooms": [
-            {
-                "num": 1,
-                "bedType": "1 double bed",
-                "single": 1,
-                "bedImage": ""
-            }
+{ "roomType": 'Bedroom', "bedType": "1 double bed", "logo": ["bed"], "bedImage": "" }        
         ],
         "destinationIntro":[
             {
@@ -76,6 +74,8 @@ export const islands = [
         "moreDescriptionOrignal": [],
         "hostID": 1,
         "serviceCharges":0,
+        "hospitalityFee":0,
+        "weekDiscount": 0,
         "cleaningFee":0,
         "offers": {
             "offsLength":14,
@@ -159,7 +159,10 @@ export const islands = [
         "id": 2,
         "name": "Linnéaholmen: Private island reached by footbridge",
         "nick": "Ytteran, Sweeden",
-        "latiude": 60.1282,
+        "luxi": false,
+        "luxIncluded": [],
+        "luxServices": [],
+        "latitude": 60.1282,
         "longitude": 18.6435,
         "images": [
             "https://a0.muscache.com/im/pictures/c0e10c8f-d0c3-4875-bae8-0f664a55bbc6.jpg?im_w=1200",
@@ -217,30 +220,10 @@ export const islands = [
         "rulesID":2,
         "cancelPolicy": "Free cancellation for 48 hours.",        
         "bedrooms": [
-            {
-                "num": 1,
-                "bedType": "1 king bed",
-                "single": 1,
-                "bedImage": "https://a0.muscache.com/im/pictures/3edb6652-b953-49b5-8083-b83d4422b10c.jpg?im_w=320"
-            },
-            {
-                "num": 2,
-                "bedType": "1 single bed",
-                "single": 1,
-                "bedImage": "https://a0.muscache.com/im/pictures/9ba86f91-b0e0-4c08-948a-a1be3dece9ea.jpg?im_w=320"
-            },
-            {
-                "num": 3,
-                "bedType": "1 single bed",
-                "single": 1,
-                "bedImage": "https://a0.muscache.com/im/pictures/89de9a4f-28d6-477e-913a-89c1cb0dc33c.jpg?im_w=320"
-            },
-            {
-                "num": 1,
-                "bedType": "1 small double bed",
-                "single": 2,
-                "bedImage": "https://a0.muscache.com/im/pictures/2314636d-4c74-4e12-a8f2-1847b4561d86.jpg?im_w=320"
-            }
+{ "roomType": 'Bedroom 1', "bedType": "1 king bed", "logo": ["bed"], "bedImage": "https://a0.muscache.com/im/pictures/3edb6652-b953-49b5-8083-b83d4422b10c.jpg?im_w=320" },
+{ "roomType": 'Bedroom 2', "bedType": "1 single bed", "logo": ["bed"], "bedImage": "https://a0.muscache.com/im/pictures/9ba86f91-b0e0-4c08-948a-a1be3dece9ea.jpg?im_w=320" },        
+{ "roomType": 'Bedroom 3', "bedType": "1 single bed", "logo": ["bed"], "bedImage": "https://a0.muscache.com/im/pictures/89de9a4f-28d6-477e-913a-89c1cb0dc33c.jpg?im_w=320" },
+{ "roomType": 'Bedroom 4', "bedType": "1 small double bed", "logo": ["bed"], "bedImage": "https://a0.muscache.com/im/pictures/2314636d-4c74-4e12-a8f2-1847b4561d86.jpg?im_w=320" }
         ],
         "destinationIntro":[
             {
@@ -280,6 +263,8 @@ export const islands = [
         "moreDescriptionOrignal": [],
         "hostID": 2,
         "serviceCharges":219,
+        "hospitalityFee":0,
+        "weekDiscount": 0,
         "cleaningFee":174,        
         "offers": {
             "offsLength":52,
@@ -427,7 +412,10 @@ export const islands = [
         "id": 3,
         "name": "An island a few minutes from the mainland",
         "nick": "Södertälje SO, Sweden",
-        "latiude": 59.1978,
+        "luxi": false,
+        "luxIncluded": [],
+        "luxServices": [],
+        "latitude": 59.1978,
         "longitude": 17.6202,
         "images": [
             "https://a0.muscache.com/im/pictures/ebfed8d1-2760-4d39-a440-e2fac4c96dd5.jpg?im_w=1200",
@@ -491,10 +479,10 @@ export const islands = [
         "rulesID":3,
         "cancelPolicy": "This reservation is non-refundable.",        
         "bedrooms": [
-{ "num": 1, "bedType": "1 double bed", "single": 1, "bedImage": ""  },
-{ "num": 2, "bedType": "1 queen bed", "single": 1,  "bedImage": ""  },
-{ "num": 3, "bedType": "1 queen bed", "single": 1,  "bedImage": ""  },
-{ "num": 4, "bedType": "2 single beds", "single": 2, "bedImage": ""  }
+{ "roomType": 'Bedroom 1', "bedType": "1 double bed", "logo": ["bed"], "bedImage": "" },
+{ "roomType": 'Bedroom 2', "bedType": "1 queen bed", "logo": ["bed"], "bedImage": "" },
+{ "roomType": 'Bedroom 3', "bedType": "1 queen bed", "logo": ["bed"], "bedImage": "" },
+{ "roomType": 'Bedroom 4', "bedType": "2 single beds", "logo": ["bed", "bed"], "bedImage": "" }
         ],
         "destinationIntro":[            
 {"logo": "self-check-in", "about": "Self check-in", "comment": "Check yourself in with the lockbox."  },
@@ -543,6 +531,8 @@ export const islands = [
         ],        
         "hostID": 3,
         "serviceCharges":378,
+        "hospitalityFee":0,
+        "weekDiscount": 0,
         "cleaningFee":190,        
         "offers": {
             "offsLength":51,
@@ -688,7 +678,10 @@ export const islands = [
         "id": 4,
         "name": "Luxury seafront Villa Lighthouse Ligero on Host is",
         "nick": "Vis, Croatia",
-        "latiude": 43.0459,
+        "luxi": false,
+        "luxIncluded": [],
+        "luxServices": [],
+        "latitude": 43.0459,
         "longitude": 16.1541,
         "images": [
             "https://a0.muscache.com/im/pictures/prohost-api/Hosting-48729525/original/f62e1b1a-d6af-438b-82ce-95c51a4e0ca1.jpeg?im_w=1200",
@@ -748,11 +741,10 @@ export const islands = [
         "rulesID":4,
         "cancelPolicy": "This reservation is non-refundable.",        
         "bedrooms": [
-{ "num": 1, "bedType": "1 king bed, 1 crib", "single": 1, "bedImage": ""  },
-{ "num": 2, "bedType": "1 king bed, 1 crib", "single": 1,  "bedImage": ""  },
-{ "num": -1, "bedType": "1 sofa bed", "single": 1, "bedImage": ""  },
-{ "num": 3, "bedType": "1 king bed", "single": 1,  "bedImage": ""  }
-//////////////// -1 -> living room
+{ "roomType": 'Bedroom 1', "bedType": "1 king bed, 1 crib", "logo": ["bed", "crib"], "bedImage": "" },
+{ "roomType": 'Bedroom 2', "bedType": "1 king bed, 1 crib", "logo": ["bed", "crib"], "bedImage": "" },        
+{ "roomType": 'Living Room', "bedType": "1 sofa bed", "logo": ["bed", "sofa"], "bedImage": "" },
+{ "roomType": 'Bedroom 3', "bedType": "1 king beds", "logo": ["bed"], "bedImage": "" }
         ],
         "destinationIntro":[            
 {"logo": "pets-steps", "about": "Furry friends welcome", "comment": "Bring your pets along for the stay."  },
@@ -775,6 +767,8 @@ export const islands = [
         "moreDescriptionOrignal": [],
         "hostID": 4,
         "serviceCharges":0,
+        "hospitalityFee":0,
+        "weekDiscount": 0,
         "cleaningFee":0,        
         "offers": {
             "offsLength":13,
@@ -858,7 +852,10 @@ export const islands = [
         "id": 5,
         "name": "Privaatti saari / Private island",
         "nick": "Uusikaupunki, Finland",
-        "latiude": 60.8076,
+        "luxi": false,
+        "luxIncluded": [],
+        "luxServices": [],
+        "latitude": 60.8076,
         "longitude": 21.4027,
         "images": [
             "https://a0.muscache.com/im/pictures/177ed8a7-557b-480f-8319-4f8330e2c692.jpg?im_w=1200",
@@ -891,10 +888,10 @@ export const islands = [
         "rulesID":5,
         "cancelPolicy": "This reservation is non-refundable.",        
         "bedrooms": [
-{ "num": 1, "bedType": "1 bunk bed", "single": 1, "bedImage": ""  },
-{ "num": 2, "bedType": "1 double bed", "single": 1,  "bedImage": ""  },
-{ "num": 3, "bedType": "3 single beds", "single": 3,  "bedImage": ""  },
-{ "num": -1, "bedType": "1 sofa bed", "single": 1, "bedImage": ""  }
+{ "roomType": 'Bedroom 1', "bedType": "1 bunk bed", "logo": ["bunk"], "bedImage": "" },
+{ "roomType": 'Bedroom 2', "bedType": "1 double bed", "logo": ["bed"], "bedImage": "" },        
+{ "roomType": 'Bedroom 3', "bedType": "3 single beds", "logo": ["bed", "bed", "bed"], "bedImage": "" },
+{ "roomType": 'Living Room', "bedType": "1 sofa bed", "logo": ["sofa"], "bedImage": "" }
         ],
         "destinationIntro":[            
 {"logo": "great", "about": "Great location", "comment": "100% of recent guests gave the location a 5-star rating."  },
@@ -942,6 +939,8 @@ export const islands = [
         ],
         "hostID": 5,
         "serviceCharges":165,
+        "hospitalityFee":0,
+        "weekDiscount": 0,
         "cleaningFee":0,        
         "offers": {
             "offsLength":46,

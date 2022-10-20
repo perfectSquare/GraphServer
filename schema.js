@@ -10,10 +10,14 @@ export const typeDefs = gql`
   type Destination {
     id: ID!    
     name: String!
+    luxi: Boolean!
+    luxIncluded: [LuxItem!]!
+    luxServices: [LuxItem!]!
     nick: String!
-    latiude: Float!
+    latitude: Float!
     longitude: Float!
     images: [String!]!
+    luxImages: [LuxImages!]!
     distance: String!
     checkIn: String!
     checkOut: String!
@@ -29,6 +33,8 @@ export const typeDefs = gql`
     hostID: ID!
     host: Host    
     serviceCharges: Int!
+    hospitalityFee: Int!
+    weekDiscount: Int!
     cleaningFee: Int!
     guestID: Int!
     guests: Guests!
@@ -43,6 +49,15 @@ export const typeDefs = gql`
     bedrooms: [BedRoom!]!       
     destinationIntro: [DestinationIntro]
     offers: Offers!
+  }
+  type LuxImages {
+    cat: String!
+    images: [String!]!
+    id:String!
+  }
+  type LuxItem {
+    image: String!
+    about: String!
   }
   type Offers {
     offsLength:Int!
@@ -68,10 +83,10 @@ export const typeDefs = gql`
     comment: String!
   }  
   type BedRoom {
-    num: Int!
+    roomType: String!
     bedType: String!
-    single: Int!
     bedImage: String
+    logo: [String!]!
   }
   type Rules {
     id: ID!
