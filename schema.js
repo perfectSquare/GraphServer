@@ -21,6 +21,7 @@ export const typeDefs = gql`
     distance: String!
     checkIn: String!
     checkOut: String!
+    freeCancelDaysBefore: Int!
     nightsLimit:Int!
     country: String!    
     hostIntro: [String!]!    
@@ -49,6 +50,13 @@ export const typeDefs = gql`
     bedrooms: [BedRoom!]!       
     destinationIntro: [DestinationIntro]
     offers: Offers!
+    ask: Ask!
+  }
+  type Ask {
+    gettingThere: [String]
+    house: [String]
+    available: [String]
+    image: String!
   }
   type LuxImages {
     cat: String!
@@ -107,7 +115,6 @@ export const typeDefs = gql`
     customer: String
     customerImage: String
     commentDate: String
-    joineDate: String
     comment: String    
   }
   type Level {

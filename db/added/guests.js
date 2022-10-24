@@ -78,6 +78,22 @@ export const guests = [
         "infant": 5,
         "pets": 0,
         description: "This place has a maximum of 12 guests, not including infants. Pets aren't allowed."
+    },
+    {
+        "id": 11,
+        "adults": 11,
+        "child": 10,
+        "infant": 5,
+        "pets": 0,
+        description: "This place has a maximum of 11 guests, not including infants. Pets aren't allowed."
+    },
+    {
+        "id": 12,
+        "adults": 16,
+        "child": 15,
+        "infant": 5,
+        "pets": 5,
+        description: "This place has a maximum of 16 guests, not including infants. If you're bringing more than 2 pets, please let your host know."
     }
 ]
 

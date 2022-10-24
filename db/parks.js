@@ -42,6 +42,7 @@ export const parks = [
         "distance": "Dachigam National Park",
         "checkIn": "Nov 04 2022",
         "checkOut": "Nov 09 2022",
+        "freeCancelDaysBefore": 0,
         "nightsLimit": 0,
         "country": "India",
         "stars": 4.9,
@@ -79,6 +80,12 @@ export const parks = [
         ],
         "moreDescriptionOrignal": [],        
         "hostID": 6,
+        "ask":{
+            "gettingThere": ["checkIn", "3:00 PM"],
+            "house": ["No smoking"],
+            "available": ["available"],
+            "image": "https://a0.muscache.com/im/pictures/miso/Hosting-616766144193748093/original/d25ae701-8bc7-43e3-89f6-0fd89bb0af01.jpeg?im_w=960"
+        },
         "serviceCharges":46,
         "hospitalityFee":0,
         "weekDiscount": 0,
@@ -237,6 +244,7 @@ export const parks = [
         "distance": "",
         "checkIn": "Nov 08 2022",
         "checkOut": "Nov 17 2022",
+        "freeCancelDaysBefore": 0,
         "nightsLimit": 3,
         "country": "Sri Lanka",
         "stars": 4.81,
@@ -278,6 +286,12 @@ export const parks = [
         ],
         "moreDescriptionOrignal": [],        
         "hostID": 7,
+        "ask":{
+            "gettingThere": ["checkIn", "2:00 PM", "checkOut", "10:00 AM"],
+            "house": ["No smoking", "No parties or events"],
+            "available": ["available"],
+            "image": "https://a0.muscache.com/im/pictures/c98c7be5-53ce-43bd-9c9b-5ddfd28b8b9c.jpg?im_w=1200"
+        },
         "serviceCharges":217,
         "hospitalityFee":0,
         "weekDiscount": 81,
@@ -473,6 +487,7 @@ export const parks = [
         "distance": "Than Bok Khorani National Park",
         "checkIn": "Oct 27 2022",
         "checkOut": "Nov 03 2022",
+        "freeCancelDaysBefore": 1,
         "nightsLimit": 0,
         "country": "Thailand",
         "stars": 5.0,
@@ -480,14 +495,14 @@ export const parks = [
         "guestID":6,
         "levelID":6,
         "rulesID":8,
-        "cancelPolicy": "Free cancellation before Oct 26.",
+        "cancelPolicy": "Free cancellation",
         "bedrooms": [
 { "roomType": 'Bedroom', "bedType": "1 king bed, 1 sofa bed, 1 crib", "logo": ["bed", "sofa", "crib"], "bedImage": "https://a0.muscache.com/im/pictures/97536095-44d5-464f-88c1-2242e2081168.jpg?im_w=320" },                
         ],
         "destinationIntro":[            
 {"logo": "Pool", "about": "Dive right in", "comment": "This is one of the few places in the area with a pool."  },        
 {"logo": "star_white", "about": "Experienced host", "comment": "Richy has 26 reviews for other places."  },
-{"logo": "Long term stays allowed", "about": "Free cancellation before Oct 26.", "comment": ""  }
+{"logo": "Long term stays allowed", "about": "Free cancellation", "comment": "Free cancellation before Oct 26."  }
         ],
         "hostIntro": ["","Private room in home hosted by Richy", "3 guests", "1 bedroom", "2 beds1", "5 baths"],
         "rent": 130,
@@ -513,6 +528,12 @@ export const parks = [
         ],
         "moreDescriptionOrignal": [],        
         "hostID": 8,
+        "ask":{
+            "gettingThere": ["checkIn", "3:00 PM - 8:00 PM", "checkOut", "12:00 PM"],
+            "house": ["Smoking is allowed", "No parties or events"],
+            "available": ["available"],
+            "image": "https://a0.muscache.com/im/pictures/14e2f3fb-0b44-440e-a785-4817f5f2e877.jpg?im_w=1200"
+        },
         "serviceCharges":20,
         "hospitalityFee":0,
         "weekDiscount": 0,
@@ -671,6 +692,7 @@ export const parks = [
         "distance": "Kezbegi National Park",
         "checkIn": "Oct 24 2022",
         "checkOut": "Oct 29 2022",
+        "freeCancelDaysBefore": 0,
         "nightsLimit": 0,
         "country": "Georgia",
         "stars": 0,
@@ -690,6 +712,12 @@ export const parks = [
         "moreDescription": [],
         "moreDescriptionOrignal": [],        
         "hostID": 9,
+        "ask":{
+            "gettingThere": ["checkIn", "12:00 PM - 2:00 AM"],
+            "house": ["No smoking", "Not suitable for infants (under 2 years)"],
+            "available": ["available"],
+            "image": "https://a0.muscache.com/im/pictures/4cceb449-90d5-44d5-a3cc-832ed60eb3e1.jpg?im_w=1200"
+        },
         "serviceCharges":60,
         "hospitalityFee":0,
         "weekDiscount": 0,
@@ -821,6 +849,7 @@ export const parks = [
         "distance": "Ocha, Khyber Pakhtunkhwa",
         "checkIn": "Oct 23 2022",
         "checkOut": "Oct 27 2022",
+        "freeCancelDaysBefore": 5,
         "nightsLimit": 0,
         "country": "Pakistan",
         "stars": 4.82,
@@ -828,14 +857,14 @@ export const parks = [
         "guestID":8,
         "levelID":7,
         "rulesID":10,
-        "cancelPolicy": "Free cancellation before 3:00 PM on Oct 18.",
+        "cancelPolicy": "Free cancellation",
         "bedrooms": [
 { "roomType": 'Bedroom', "bedType": "1 double bed, 1 sofa bed, 1 floor mattress", "logo": ["bed", "sofa", "mattress"], "bedImage": "" },
 { "roomType": 'Living room', "bedType": "1 queen bed, 1 sofa bed, 1 couch, 2 floor mattresses", "logo": ["bed", "sofa", "couch", "mattress", "mattress"], "bedImage": "" }
         ],
         "destinationIntro":[            
 {"logo": "self-check-in", "about": "Great check-in experience", "comment": "93% of recent guests gave the check-in process a 5-star rating."  },
-{"logo": "Long term stays allowed", "about": "Free cancellation before 3:00 PM on Oct 18.", "comment": ""  }
+{"logo": "Long term stays allowed", "about": "Free cancellation", "comment": ""  }
         ],
         "hostIntro": ["super","Entire cottage hosted by Ahmed", "5 guests",  "1 bedroom", "4 beds", "1 bath"],
         "rent": 49,
@@ -861,6 +890,12 @@ export const parks = [
         ],
         "moreDescriptionOrignal": [],        
         "hostID": 10,
+        "ask":{
+            "gettingThere": ["checkIn", "3:00 PM - 10:00 PM", "checkOut", "12:00 PM"],
+            "house": ["No smoking", "No parties or events"],
+            "available": ["available"],
+            "image": "https://a0.muscache.com/im/pictures/e3846ae1-3aac-4a6b-805e-1221025e6b48.jpg?im_w=1200"
+        },
         "serviceCharges":60,
         "hospitalityFee":0,
         "weekDiscount": 0,
@@ -998,6 +1033,7 @@ export const parks = [
         "distance": "National Park",
         "checkIn": "Nov 18 2022",
         "checkOut": "Nov 23 2022",
+        "freeCancelDaysBefore": 25,
         "nightsLimit": 2,
         "country": "India",
         "stars": 5.0,
@@ -1005,11 +1041,11 @@ export const parks = [
         "guestID":9,
         "levelID":8,
         "rulesID":11,
-        "cancelPolicy": "Free cancellation before Oct 22.",
+        "cancelPolicy": "Free cancellation",
         "bedrooms": [],
         "destinationIntro":[            
 {"logo": "self-check-in", "about": "Self check-in", "comment": "You can check in with the doorman."  },
-{"logo": "Long term stays allowed", "about": "Free cancellation before Oct 22.", "comment": ""  }
+{"logo": "Long term stays allowed", "about": "Free cancellation", "comment": ""  }
         ],
         "hostIntro": ["super","Entire villa hosted by Cristovao", "2 guests", "1 bedroom", "1 bed", "1 bath"],
         "rent": 46,
@@ -1035,6 +1071,12 @@ export const parks = [
         ],
         "moreDescriptionOrignal": [],        
         "hostID": 11,
+        "ask":{
+            "gettingThere": ["checkIn", "2:00 PM - 6:00 PM", "checkOut", "11:00 AM"],
+            "house": ["No smoking", "No parties or events"],
+            "available": ["available"],
+            "image": "https://a0.muscache.com/im/pictures/miso/Hosting-657011800148868945/original/d98481cd-55d7-430b-96f5-08d673ec8d92.jpeg?im_w=1200"
+        },
         "serviceCharges":20,
         "hospitalityFee":0,
         "weekDiscount": 0,
@@ -1164,6 +1206,7 @@ export const parks = [
         "distance": "Rajaji National Park",
         "checkIn": "Oct 18 2022",
         "checkOut": "Oct 23 2022",
+        "freeCancelDaysBefore": 0,
         "nightsLimit": 0,
         "country": "India",
         "stars": 4.56,
@@ -1202,6 +1245,12 @@ export const parks = [
         ],
         "moreDescriptionOrignal": [],        
         "hostID": 12,
+        "ask":{
+            "gettingThere": [],
+            "house": ["No smoking", "No parties or events"],
+            "available": ["available"],
+            "image": "https://a0.muscache.com/im/pictures/miso/Hosting-23961396/original/dcd39baa-0440-479a-ab4f-0f8acbcaf8e0.jpeg?im_w=1200"
+        },
         "serviceCharges":7,
         "hospitalityFee":0,
         "weekDiscount": 0,
@@ -1320,6 +1369,7 @@ export const parks = [
         "distance": "National Park",
         "checkIn": "Oct 20 2022",
         "checkOut": "Oct 25 2022",
+        "freeCancelDaysBefore": 0,
         "nightsLimit": 0,
         "country": "Pakistan",
         "stars": 5.0,
@@ -1363,6 +1413,12 @@ export const parks = [
         ],
         "moreDescriptionOrignal": [],        
         "hostID": 13,
+        "ask":{
+            "gettingThere": ["checkIn", "12:00 PM"],
+            "house": ["No smoking", "No parties or events"],
+            "available": ["available"],
+            "image": "https://a0.muscache.com/im/pictures/miso/Hosting-575150680411235264/original/ec14c95a-db66-4e99-867b-bbde1ff09c26.jpeg?im_w=1200"
+        },
         "serviceCharges":38,
         "hospitalityFee":0,
         "weekDiscount": 0,

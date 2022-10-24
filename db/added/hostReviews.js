@@ -450,6 +450,115 @@ export const hr = [
 "commentDate": "Joined in 2014", "comment": "This is a great place to spend a vacation with the family. The kids had a really fun time, there was table tennis, board games and even an area to play cricket. The house is in a peaceful residential area, perfect for having a family vacation.",
 }]
 }
+]},
+
+{
+    "id":11,
+    "hostID": 14,
+"reviews": [
+{
+"place": "", "placeLogo": "", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Tom, London, United Kingdom", "customerImage": "https://a0.muscache.com/im/pictures/user/aa5dd017-a959-4af2-8339-18e937d95952.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2014", "comment": "Matt and Jamie hosted a large group of us (19 in total) over an absolutely magical weekend. The suites were gorgeous with plenty of space and beautiful furnishings, the drawing rooms, towers and dining rooms were perfect places to gather and relax. We LOVED the wines in the basement available. When we arrived the place was lit with gorgeous candles everywhere that created this amazing atmosphere. Oh and the sauna and gym room were so great. We honestly just want to move in. It was hard to leave.",
+}]
+},
+{
+"place": "", "placeLogo": "", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Tyler, Pensacola, FL", "customerImage": "https://a0.muscache.com/im/pictures/user/01a0becc-cac8-429d-af79-c7505225413f.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2014", "comment": "My best stay to date. What an unforgettable place. Everything was perfect!",
+}]
+},
+{
+"place": "", "placeLogo": "", "placeDate":"July 2022",
+"placeReviews": [{
+"customer": "Theres, Bremen, Germany", "customerImage": "https://a0.muscache.com/im/pictures/user/196013f1-1eb4-48b8-9c1a-8dfd1868f0d3.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2017", "comment": "We stayed at Matt and Jamie's place for a wedding weekend. It couldn't have been nicer. The palace is lovingly decorated and furnished. Matt and Jamie's hosting skills are unparalleled. We and our 25 guests had a wonderful weekend and a beautiful wedding with free wedding. All the wishes and performances have been exceeded in every way and we are simply grateful to have found this unique place. Jamie and Matt also took over the catering for the entire weekend, which was excellent and individual, fresh and regional. It's hard to put in words how grateful I am for everything.",
+}]
+},
+{
+"place": "", "placeLogo": "", "placeDate":"November 2021",
+"placeReviews": [{
+"customer": "Frederik, Hamburg, Germany", "customerImage": "https://a0.muscache.com/im/pictures/user/32fb4f99-cd41-42c7-846e-62269c3eec07.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2017", "comment": "THANK YOU SO MUCH for everything! We had such a nice time in this wonderful location. We will definitely come back. ",
+}]
+},
+]},
+
+{
+    "id":12,
+    "hostID": 15,
+"reviews": [
+{
+"place": "Castello di Galbino", "placeLogo": "https://a0.muscache.com/im/pictures/7db51ae5-3848-4f8e-87fa-3ec70c341e33.jpg?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Andrea", "customerImage": "https://a0.muscache.com/im/pictures/user/c3f2926a-93cc-4541-aeb4-c942333d2e5e.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2022", "comment": "O castelo é lindo e aconchegante e o proprietário é muito atencioso.....tudo perfeito!!!",
+}]
+},
+{
+"place": "Castello di Galbino", "placeLogo": "https://a0.muscache.com/im/pictures/7db51ae5-3848-4f8e-87fa-3ec70c341e33.jpg?aki_policy=small", "placeDate":"September 2022",
+"placeReviews": [{
+"customer": "Jennifer", "customerImage": "https://a0.muscache.com/im/pictures/user/40d73809-d55d-4105-932c-3de828312dfa.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2022", "comment": "What an amazing, magical place to stay!! We had a wonderful stay. Stefano was and Nerella were wonderful hosts who made our stay incredible. Food was delicious and recommendations for restaurants and activities were spectacular! Thank you!",
+}]
+},
+{
+"place": "Castello di Galbino", "placeLogo": "https://a0.muscache.com/im/pictures/7db51ae5-3848-4f8e-87fa-3ec70c341e33.jpg?aki_policy=small", "placeDate":"August 2022",
+"placeReviews": [{
+"customer": "Victoria, New York, United States", "customerImage": "https://a0.muscache.com/im/pictures/user/986a1a20-b98f-4558-b261-dea0c92937af.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2014", "comment": "Everything about our stay at Castello di Galbino was amazing. Stefano and Arielle made our check in extremely easy and helped to answer all of our questions. Nerella was the best housekeeper and made us feel right at home. The castle itself is very historical and magical, the pool is perfect and it was more than enough space for our 14 guests. I highly recommend staying here for a truly authentic and beautiful vacation.",
+}]
+},
+{
+"place": "Charming Apartment in the heart of Milan", "placeLogo": "https://a0.muscache.com/im/pictures/efbbe7e9-5776-4efc-87cf-2c6bed9070f1.jpg?aki_policy=small", "placeDate":"June 2022",
+"placeReviews": [{
+"customer": "Caroline, Paris, France", "customerImage": "https://a0.muscache.com/im/pictures/user/05600347-2201-4301-ab28-a978afa2b072.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2019", "comment": "Stefano est un hôte très agréable, qui communique beaucoup et est très à l’écoute de vos besoins. L’appartement est très bien décoré, très propre et très bien situé. Si nous revenons à Milan, nous n’hésiterons pas à relouer son appartement .",
+}]
+},
+]},
+
+{
+    "id":13,
+    "hostID": 16,
+"reviews": [
+{
+"place": "Traumschloss bei Berlin für bis zu 8 Personen.", "placeLogo": "https://a0.muscache.com/im/pictures/79864660-01f3-4690-b55c-b1ae5ded1183.jpg?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Robin, Germany", "customerImage": "https://a0.muscache.com/im/pictures/user/942f241f-7084-4915-bba1-49e678afa91c.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2020", "comment": "Tolle Unterkunft, nur sehr hellhöhrig und alles ein wenig \"weniger\" als angepriesen; da merkt man die Marketingsprache. Sonst aber voll in Ordnung.",
+}]
+},
+{
+"place": "Seelounge bei Brunnen: Gemütliches Chalet am See.", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-676769517356148014/original/f6033d9f-8640-4c61-9cdf-735839b28683.jpeg?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Ángel, Copenhagen, Denmark", "customerImage": "https://a0.muscache.com/im/pictures/user/35171e6a-d228-4909-bcc9-e117eacf1dc0.jpg?aki_policy=profile_x_medium",
+"commentDate": "October 2022", "comment": "Joined in 2015",
+}]
+},
+{
+"place": "Seelounge bei Brunnen: Gemütliches Chalet am See.", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-676769517356148014/original/f6033d9f-8640-4c61-9cdf-735839b28683.jpeg?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Andrea", "customerImage": "",
+"commentDate": "Joined in 2022", "comment": "Gemütliche Wohnung, lirbevoll eingerichtet. Wir haben uns wohl gefühlt.",
+}]
+},
+{
+"place": "Seelounge bei Brunnen: Gemütliches Chalet am See.", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-676769517356148014/original/f6033d9f-8640-4c61-9cdf-735839b28683.jpeg?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Susanne", "customerImage": "https://a0.muscache.com/im/pictures/user/022287a1-5490-4214-8fbc-a15b89ea54f6.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2017", "comment": "Oliver is a great host, with lots of tips and very quick responses. We very much enjoyed our stay at his apartment ☺️",
+}]
+},
+{
+"place": "Traumstrand Vitznau", "placeLogo": "https://a0.muscache.com/im/pictures/53a568a2-7fee-42da-a39b-72dc851045f0.jpg?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Véronique", "customerImage": "https://a0.muscache.com/im/pictures/user/3756e64e-db02-4f80-bb74-607592bcb5da.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2022", "comment": "Magnifique vue malgré une météo maussade. Procédure d'arrivée simplifiée mais excellente réacitivité du concièrge en cas de problèmes. Bonne situation entre Vitznau et Weggis, y compris en transports publics.",
+}]
+},
 ]}
 
 ]

@@ -1,6 +1,7 @@
 import { islands } from './db/islands.js';
 import { parks } from './db/parks.js';
 import { luxies } from './db/luxies.js';
+import { castles } from './db/castles.js';
 import { guests } from './db/added/guests.js';
 import { levels } from './db/added/levels.js';
 import { reviews } from './db/added/reviews.js';
@@ -15,11 +16,13 @@ export const resolvers = {
         if(type == 'islands') return islands.find(i => i.id === parseInt(id))
         else if(type == 'parks') return parks.find(i => i.id === parseInt(id))
         else if(type == 'luxies') return luxies.find(i => i.id === parseInt(id))
+        else if(type == 'castles') return castles.find(i => i.id === parseInt(id))
       },
       destinations: (_, {type}) => {
         if(type == 'islands') return islands
         else if(type == 'parks') return parks
         else if(type == 'luxies') return luxies
+        else if(type == 'castles') return castles
       },
       host: (_, {id}) => hosts.find(h => h.id == id)
     },

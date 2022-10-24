@@ -43,6 +43,7 @@ export const islands = [
         "distance": "3,313 kilometers",
         "checkIn": "Oct 22 2022",
         "checkOut": "Oct 27 2022",
+        "freeCancelDaysBefore": 0,
         "nightsLimit": 0,
         "country": "Maldives",
         "stars": 0,
@@ -72,6 +73,12 @@ export const islands = [
         "descriptionOrignal": "",
         "moreDescription": [],
         "moreDescriptionOrignal": [],
+        "ask":{
+            "gettingThere": [],
+            "house": [],
+            "available": ["available", "Full refund within limited period"],
+            "image": "https://a0.muscache.com/im/pictures/373443ec-b377-4181-b753-3a2f3508c2b3.jpg?im_w=720"
+        },
         "hostID": 1,
         "serviceCharges":0,
         "hospitalityFee":0,
@@ -211,6 +218,7 @@ export const islands = [
         "distance": "5172 kilometers away",
         "checkIn": "Jan 09 2023",
         "checkOut": " Jan 16 2023",
+        "freeCancelDaysBefore": 2,
         "nightsLimit": 7,
         "country": "Sweeden",
         "stars": 4.85,
@@ -261,6 +269,12 @@ export const islands = [
             }
         ],
         "moreDescriptionOrignal": [],
+        "ask":{
+            "gettingThere": ["checkIn", "", "Free parking on the premises"],
+            "house": ["No smoking", "No parties or events"],
+            "available": ["available", "Full refund within limited period"],
+            "image": "https://a0.muscache.com/im/pictures/c0e10c8f-d0c3-4875-bae8-0f664a55bbc6.jpg?im_w=240"
+        },
         "hostID": 2,
         "serviceCharges":219,
         "hospitalityFee":0,
@@ -470,6 +484,7 @@ export const islands = [
         "distance": "4904 kilometers away",
         "checkIn": "Oct 13 2022",
         "checkOut": "Oct 20 2022",
+        "freeCancelDaysBefore": 0,
         "nightsLimit": 2,
         "country": "Sweeden",
         "stars": 4.86,
@@ -529,6 +544,12 @@ export const islands = [
                 "desc": "Ön saknar anslutning till elnätet. På taket finns det en solpanel som laddar ett batteripaket med tre batterier. Denna likströmsel förser eluttag och belysning med 12V. Sedan finns det en spänningsomvandlare som omvandlar 12V-likspänning till 230 V-växelspänning. Denna kapacitet är dock begränsad.<br><br>Om man skulle vara i behov av större kapacitet så finns det ett bensindrivet elverk.<br><br>Ön är omgiven av vatten, men det finns inte någon färskvattenbrunn. Det innebär att man får ta med sig dricksvatten från fastlandet. Hyresvärden ser till att det finns ca 50 liter där ute vilket räcker för en vecka med normalförbrukning.<br><br>I vattenkranen i köket och på dass rinner de bräckt havsvatten.<br><br>Sedan finns det en 1000-liters vattencistern med uppsamlat regnvatten för vattning av växter och grönsaker."
             }
         ],        
+        "ask":{
+            "gettingThere": ["checkIn", "3:00 PM - 8:00 PM", "checkOut", "12:00 PM"],
+            "house": ["Pets allowed"],
+            "available": ["available", "This reservation is non-refundable"],
+            "image": ""
+        },
         "hostID": 3,
         "serviceCharges":378,
         "hospitalityFee":0,
@@ -730,8 +751,9 @@ export const islands = [
             "https://a0.muscache.com/im/pictures/prohost-api/Hosting-48729525/original/f29705ff-a9e8-4dbc-ba26-856887d124fc.jpeg?im_w=720",
         ],
         "distance": "4976 kilometers away",
-        "checkIn": "Oct 17 2022",
-        "checkOut": "Oct 20 2022",
+        "checkIn": "Nov 01 2022",
+        "checkOut": "Nov 06 2022",
+        "freeCancelDaysBefore": 0,
         "nightsLimit": 3,
         "country": "Croatia",
         "stars": 0,
@@ -765,6 +787,12 @@ export const islands = [
             },            
         ],
         "moreDescriptionOrignal": [],
+        "ask":{
+            "gettingThere": ["checkIn", "2:00 PM", "checkOut", "10:00 AM"],
+            "house": ["No smoking", "No parties or events"],
+            "available": ["available", "50% refund before 30 days prior to check in, minus service fees"],
+            "image": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-48729525/original/604ecd1b-87c4-4bc9-a976-4ba281a09ee5.jpeg?im_w=240"
+        },
         "hostID": 4,
         "serviceCharges":0,
         "hospitalityFee":0,
@@ -879,6 +907,7 @@ export const islands = [
         "distance": "4747 kilometers away",
         "checkIn": "Oct 16 2022",
         "checkOut": "Oct 21 2022",
+        "freeCancelDaysBefore": 0,
         "nightsLimit": 3,
         "country": "Finland",
         "stars": 4.95,
@@ -937,6 +966,12 @@ export const islands = [
                 "desc": "Kalliot ovat liukkaat vesirajassa ja sateella. Länsipuolella emme suosittele kahlaamista: mahdollisia lasinsiruja.<br>Merivedessä saattaa olla sinilevää kuumana aikana: vaarallista eläimille ja lapsille.<br>Punkkeja saaren itäosan ruohikoissa.<br>Ei sovellu liikuntaesteisille.<br>Vuokraaja vastaa loppusiivouksesta tai ostaa sen 80 euron hintaan. Ei sisällä tiskausta.<br>Pesu meri- ja sadevedellä: Kuivana kautena sadeveden käyttöä rajattava minimiin. Tämä ei ole luxuskohde kaikilla mukavuuksilla, mutta jos sinulla on seikkailu- ja erähenkeä, nautit taatusti lomastasi autiolla saarella!"
             }
         ],
+        "ask":{
+            "gettingThere": [],
+            "house": ["No smoking", "No parties or events"],
+            "available": ["available", "15% weekly price discount has been applied.", "Full refund for cancellations up to 30 days before check-in. If booked fewer than 30 days before check-in, full refund for cancellations made within 48 hours of booking and at least 14 days before check-in. After that, 50% refund up to 7 days before check-in. No refund after that."],
+            "image": "https://a0.muscache.com/im/pictures/177ed8a7-557b-480f-8319-4f8330e2c692.jpg?im_w=240"
+        },
         "hostID": 5,
         "serviceCharges":165,
         "hospitalityFee":0,

@@ -238,7 +238,7 @@ export const rules = [
             {"logo": "note", "about": "No Carbon monoxide alarm", "more": ""},
             {"logo": "note", "about": "No Smoke alarm", "more": ""}
        ],  
-        "additional": [""],
+        "additional": [],
         "cancel":[            
             {"about": "checkIn", "policy": "No refund", "on": true, "days": 0}
         ]
@@ -292,12 +292,165 @@ export const rules = [
             {"logo": "CO", "about": "Carbon monoxide alarm", "more": ""},
             {"logo": "smoke-alarm", "about": "Smoke alarm", "more": ""}
        ],  
-        "additional": ["AAll credit card holders must be aged 25 years and older at check-in."],
+        "additional": ["All credit card holders must be aged 25 years and older at check-in."],
         "cancel":[            
             {"about": "checkIn", "policy": "Refund of only the hospitality fee", "on": true, "days": 0}
         ]
     },            
-
-
+    {
+        "id": 17,
+        "rules": [
+            {"logo": "intime", "about": "Check-in: After 3:00 PM", "more": ""},
+            {"logo": "outTime", "about": "Checkout: 12:00 PM", "more": ""},
+            {"logo": "self-check-in", "about": "Self check-in with building staff", "more": ""}
+        ],  
+        "safety": [
+            {"logo": "CO", "about": "Carbon monoxide alarm", "more": ""},
+            {"logo": "smoke-alarm", "about": "Smoke alarm", "more": ""}
+       ],  
+        "additional": ["All credit card holders must be aged 25 years and older at check-in."],
+        "cancel":[            
+            {"about": "partial", "policy": "50% refund, minus the service fee", "on": true, "days": 60},
+            {"about": "checkIn", "policy": "Refund of only the hospitality fee", "on": true, "days": 0}
+        ]
+    },            
+    {
+        "id": 18,
+        "rules": [
+            {"logo": "intime", "about": "Check-in: After 4:00 PM", "more": ""},
+            {"logo": "outTime", "about": "Checkout: 10:00 PM", "more": ""},
+            {"logo": "smokingNot", "about": "No smoking", "more": ""},
+            {"logo": "petsNot", "about": "No pets", "more": ""},
+            {"logo": "baloonNot", "about": "No parties or events", "more": ""}
+        ],  
+        "safety": [
+            {"logo": "ques", "about": "Carbon monoxide alarm not reported", "more": ""},
+            {"logo": "note", "about": "Security camera/recording device", "more": ""},
+            {"logo": "note", "about": "Pool/hot tub without a gate or lock", "more": ""},
+            {"logo": "note", "about": "Nearby lake, river, other body of water", "more": ""}
+       ],  
+        "additional": ["All credit card holders must be aged 25 years and older at check-in.<br>Please note that daily housekeeping is offered with extra charge - 15 EUR per hour/per maid."],
+        "cancel":[            
+            {"about": "checkIn", "policy": "Refund of only the hospitality fee", "on": true, "days": 0}
+        ]
+    },
+    {
+        "id": 19,
+        "rules": [
+            {"logo": "intime", "about": "Check-in: After 4:00 PM", "more": ""},
+            {"logo": "outTime", "about": "Checkout: 10:00 AM", "more": ""},
+            {"logo": "smokingNot", "about": "No smoking", "more": ""},
+            {"logo": "petsNot", "about": "No pets", "more": ""},
+            {"logo": "baloonNot", "about": "No parties or events", "more": ""}
+        ],  
+        "safety": [
+            {"logo": "note", "about": "Security camera/recording device", "more": ""},
+            {"logo": "note", "about": "Pool/hot tub without a gate or lock", "more": ""},
+            {"logo": "CO", "about": "Carbon monoxide alarm", "more": ""},
+            {"logo": "smoke-alarm", "about": "Smoke alarm", "more": ""}
+       ],  
+        "additional": ["All credit card holders must be aged 25 years and older at check-in."],
+        "cancel":[            
+            {"about": "checkIn", "policy": "Refund of only the hospitality fee", "on": true, "days": 0}
+        ]
+    },
+    {
+        "id": 20,
+        "rules": [
+            {"logo": "intime", "about": "Check-in: After 5:00 PM", "more": ""},
+            {"logo": "outTime", "about": "Checkout: 10:00 AM", "more": ""},
+            {"logo": "smokingNot", "about": "No smoking", "more": ""},
+            {"logo": "petsNot", "about": "No pets", "more": ""},
+            {"logo": "baloonNot", "about": "No parties or events", "more": ""},
+        ],  
+        "safety": [
+            {"logo": "note", "about": "Security camera/recording device", "more": ""},
+            {"logo": "note", "about": "Pool/hot tub without a gate or lock", "more": ""},
+            {"logo": "note", "about": "Nearby lake, river, other body of water", "more": ""},
+            {"logo": "note", "about": "Heights without rails or protection", "more": ""}
+       ],  
+        "additional": [],
+        "cancel":[            
+            {"about": "checkIn", "policy": "Refund of only the hospitality fee", "on": true, "days": 0}
+        ]
+    },
+{
+        "id": 21,
+        "rules": [
+            {"logo": "intime", "about": "Check-in: 3:00 PM - 10:00 PM", "more": ""},
+            {"logo": "outTime", "about": "Checkout: 11:00 AM", "more": ""},
+            {"logo": "smokingNot", "about": "No smoking", "more": ""},
+            {"logo": "pets-steps", "about": "Pets are allowed", "more": ""}
+        ],  
+        "safety": [
+            {"logo": "ques", "about": "Carbon monoxide alarm not reported", "more": ""},
+            {"logo": "note", "about": "Nearby lake, river, other body of water", "more": ""},
+            {"logo": "smoke-alarm", "about": "Smoke alarm", "more": ""}
+       ],  
+        "additional": ["Outdoor Quiet time from 22:00<br>Private parties for overnight guests of the castle only may be possible i.e., birthday, wedding, VIP feast, etc- Please enquire to confirm if your intended event is OK"],
+        "cancel":[            
+            {"about": "checkIn", "policy": "No refund", "on": true, "days": 0}
+        ]
+    },    
+    {
+        "id": 22,
+        "rules": [
+            {"logo": "intime", "about": "Check-in: After 4:00 PM", "more": ""},
+            {"logo": "outTime", "about": "Checkout: 10:00 AM", "more": ""},
+            {"logo": "smokingNot", "about": "No smoking", "more": ""},
+            {"logo": "baloonNot", "about": "No parties or events", "more": ""},
+            {"logo": "pets-steps", "about": "Pets are allowed", "more": ""},
+        ],  
+        "safety": [
+            {"logo": "note", "about": "No smoke alarm", "more": ""},
+            {"logo": "note", "about": "Pool/hot tub without a gate or lock", "more": ""},
+            {"logo": "ques", "about": "Carbon monoxide detector not required", "more": ""},
+            {"logo": "", "about": "", "more": ""}
+       ],  
+        "additional": [],
+        "cancel":[            
+            {"about": "partial", "policy": "Full refund: Get back 100% of what you paid.", "on": true, "days": 30},
+            {"about": "checkIn", "policy": "Partial refund: Get back 50% of every night. Get back all service fees.", "on": true, "days": 0}
+        ]
+    },
+    {
+        "id": 23,
+        "rules": [
+            {"logo": "smokingNot", "about": "No smoking", "more": ""},
+            {"logo": "baloonNot", "about": "No parties or events", "more": ""}
+        ],  
+        "safety": [
+            {"logo": "note", "about": "Climbing or play structure", "more": ""},
+            {"logo": "CO", "about": "Carbon monoxide alarm", "more": ""},
+            {"logo": "smoke-alarm", "about": "Smoke alarm", "more": ""},
+       ],  
+        "additional": [],
+        "cancel":[            
+            {"about": "partial", "policy": "Full refund: Get back 100% of what you paid.", "on": true, "days": 5},
+            {"about": "checkIn", "policy": "Partial refund: Get back 50% of every night but the first one. No refund of the first night or the service fee.", "on": true, "days": 0}
+        ]
+    },
 
 ]
+
+// {
+//         "id": ,
+//         "rules": [
+//             {"logo": "intime", "about": "", "more": ""},
+//             {"logo": "", "about": "", "more": ""},
+//             {"logo": "", "about": "", "more": ""},
+//             {"logo": "", "about": "", "more": ""},
+//             {"logo": "", "about": "", "more": ""},
+//             {"logo": "", "about": "", "more": ""}
+//         ],  
+//         "safety": [
+//             {"logo": "", "about": "", "more": ""},
+//             {"logo": "", "about": "", "more": ""},
+//             {"logo": "", "about": "", "more": ""},
+//             {"logo": "", "about": "", "more": ""}
+//        ],  
+//         "additional": [""],
+//         "cancel":[            
+//             {"about": "", "policy": "", "on": true, "days": 0}
+//         ]
+//     },

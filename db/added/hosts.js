@@ -455,6 +455,82 @@ export const hosts = [
  "about": "Entire home/apt - Vaccation home", "stars": 5.0
 },
         ]
-    }            
+    },
+
+//////////////////////////// 14
+{
+        "id": 14,
+        "name": "Matt And Jamie",
+        "joinedDate": "2014",
+        "reviewsNum": 144,
+        "identity": "verified",
+        "description": "Hello/Czesc/Grüz Dich,<br><br>Matt and Jamie here.<br><br>Hailing from Canada, we moved to Germany and then Poland to immerse ourselves in the European joie de vivre.<br><br>We love experiencing new cultures, rich histories, and embarking on gastronomic adventures. We're foodies at heart and hospitality has always been important to us. We are often in-between wine tastings, consulting work, or preparing for the next guest stay at The Palace at Osowa Sien, our (formerly German) castle in the heart of the Western Polish countryside.<br><br>We look forward to welcoming you,<br><br>Matt & Jamie",
+        "during": "",
+        "language": ["English"],
+        "verified": ["Identity", "Email address", "Phone number"],
+        "responseRate": 100,
+        "responseTime": "within few hours",        
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/efa0932c-bc5a-49e6-9b79-8365d81fe801.jpg?aki_policy=profile_large",
+        "lives": "Lives in Osowa Sień, Poland",
+        "speaks": "Speaks English",
+        "work": "",
+        "listing": [
+{ "cat":"castle", "destinationID":1, "reviewsNum": 9, "name": "Private Group Stay in Exclusive Fairytale Castle", "about": "Entire home/apt - Castle",
+  "stars": 5.0,  "image": "https://a0.muscache.com/im/pictures/7efd9203-fa1a-431e-adbe-d52de73f1d16.jpg?im_w=960"    },
+        ]
+    },
+
+//////////////////////////// 15
+{
+        "id": 15,
+        "name": "Stefano",
+        "joinedDate": "2014",
+        "reviewsNum": 22,
+        "identity": "verified",
+        "description": "",
+        "during": "",
+        "language": ["English"],
+        "verified": ["Identity"],
+        "responseRate": 100,
+        "responseTime": "within a day",        
+        "hostLogo": "https://a0.muscache.com/im/users/12914311/profile_pic/1429303117/original.jpg?im_w=240",
+        "lives": "Lives in Milan, Italy",
+        "speaks": "Speaks English",
+        "work": "",
+        "listing": [
+{ "cat":"castles", "destinationID":2, "reviewsNum": 13, "name": "Galbino Castle", "about": "Entire home/apt - Viila",
+  "stars": 5.0,  "image": "https://a0.muscache.com/im/pictures/7db51ae5-3848-4f8e-87fa-3ec70c341e33.jpg?im_w=960"    },
+{ "cat":"", "destinationID":0, "reviewsNum": 0, "name": "Charming Apartment in the heart of Milan", "about": "Entire rom/apt - Apartment",
+  "stars": 0,  "image": "https://a0.muscache.com/im/pictures/efbbe7e9-5776-4efc-87cf-2c6bed9070f1.jpg?im_w=960"    },  
+        ]
+    },
+//////////////////////////// 16
+{
+        "id": 16,
+        "name": "Oliver",
+        "joinedDate": "2018",
+        "reviewsNum": 167,
+        "identity": "verified",
+        "description": "I am a lecturer, a TV producer and marketing stratege. I love my girlfriend and my 4 children. Three are already big and have a good job. Obviously, everything was done right. My sweet daughter lives with her mother and goes to primary school in Berlin. Respect and tolerance are important to me. I am probably a digital nomad because I live and work in four different countries. For the winter, I spend in Havana, and soon I'll probably be in Saigon for the first time. Praying is important to me. And positive thinking about what exams life has ready for me.",
+        "during": "Available at any time via phone and WhatsApp. There is a caretaker on site.",
+        "language": [],
+        "verified": ["Identity", "Email address", "Phone number"],
+        "responseRate": 100,
+        "responseTime": "within an hour",        
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/7fba8c51-014a-42c9-92a6-b045f5bfc0ad.jpg?aki_policy=profile_large",
+        "lives": "Lives in Lucerne, Switzerland",
+        "speaks": "",
+        "work": "",
+        "listing": [
+{ "cat":"castles", "destinationID":3, "reviewsNum": 47, "name": "Traumschloss bei Berlin für bis zu 8 Personen.", "about": "Entire home/apt - Castle",
+  "stars": 4.47,  "image": "https://a0.muscache.com/im/pictures/9e09f74c-1973-4de0-8ed5-618b5a9a4b63.jpg?im_w=1200"    },
+{ "cat":"", "destinationID":0, "reviewsNum": 9, "name": "Seelounge bei Brunnen: Gemütliches Chalet am See.", "about": "Entire home/apt - Apartment",
+  "stars": 4.44,  "image": "https://a0.muscache.com/im/pictures/miso/Hosting-676769517356148014/original/f6033d9f-8640-4c61-9cdf-735839b28683.jpeg?im_w=960"    },  
+{ "cat":"", "destinationID":0, "reviewsNum": 100, "name": "Traumstrand Vitznau", "about": "Entire home/apt - Apartment",
+  "stars": 4.70,  "image": "https://a0.muscache.com/im/pictures/53a568a2-7fee-42da-a39b-72dc851045f0.jpg?im_w=960"    },    
+        ]
+    },
+
 
 ]
+

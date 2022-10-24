@@ -88,5 +88,32 @@ export const levels = [
         "location": 5.0,
         "checkIn": 5.0,
         "val": 5.0
-    }
+    },
+    {
+        "id": 11,
+        "cleanliness": 5.0,
+        "accuracy": 5.0,
+        "communication": 5.0,
+        "location": 4.8,
+        "checkIn": 5.0,
+        "val": 5.0
+    },
+    {
+        "id": 12,
+        "cleanliness": 4.8,
+        "accuracy": 5.0,
+        "communication": 5.0,
+        "location": 4.9,
+        "checkIn": 5.0,
+        "val": 4.9
+    },
+    {
+        "id": 13,
+        "cleanliness": 4.4,
+        "accuracy": 4.7,
+        "communication": 4.9,
+        "location": 4.8,
+        "checkIn": 4.8,
+        "val": 4.8
+    },
 ]
