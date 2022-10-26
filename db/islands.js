@@ -1105,5 +1105,461 @@ export const islands = [
         }
     },        
 
+    ///////////////////////////////////////////// 6 
+    {
+        "id": 6,
+        "name": "Waterfront Heritage Villa",
+        "nick": "Kumarakom, India",
+        "luxi": false,
+        "luxIncluded": [],
+        "luxServices": [],
+        "latitude": 9.6175,
+        "longitude": 76.4301,
+        "images": [
+            "https://a0.muscache.com/im/pictures/887b3d72-d092-46ed-982f-5dd95fb90dac.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/71dc38d0-1355-4323-b289-b927021768b1.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/d02ddad6-afe6-4be7-83b1-1d2a44151f06.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/2aef2d28-2f95-4d64-b91a-9d95e4bf4e6d.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/e94455f1-192c-4de5-8213-03e82c1a41f3.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/7af9c0ef-32b7-41d7-9a4a-591e6e25546f.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/602c2cd4-059d-4561-8e16-ad075c65d298.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/671eb2cc-d180-4570-92f1-7ec6807eb900.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/5dbc3591-3e70-486c-963f-e936c19db1b6.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/e7aab653-43e4-4a11-ac83-e4b1fb3d4f9c.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/ced7cc21-0567-4dad-99ba-7961d718f831.jpg?im_w=720",
+        ],
+        "distance": "2693 kilometers away",
+        "checkIn": "Nov 01 2022",
+        "checkOut": "Nov 06 2022",
+        "freeCancelDaysBefore": 7,
+        "nightsLimit": 0,
+        "country": "India",
+        "stars": 0,
+        "reviewsNum": 0,
+        "guestID":9,
+        "levelID":0,
+        "rulesID":24,
+        "cancelPolicy": "Free cancellation",        
+        "bedrooms": [],
+        "destinationIntro":[            
+{"logo": "Car", "about": "Park for free", "comment": "This is one of the few places in the area with free parking."  },
+        ],
+        "hostIntro": ["","Entire villa hosted by Anu", "2 guests", "1 bedroom", "1 bed", "1 bath"],
+        "rent": 339,
+        "descriptionOrignal": "",
+        "description": "Our place is set on a beautiful, small farm island, which was actually reclaimed from the backwaters (Vembanad lake near Kumarakom) by the family. The farm is about 35 acres and is the largest farm on the island.<br>The island is a reclaimed property which was built in the early 1950’s by my husband’s grandfather. The island is called Puthankayal (‘Puthan’ means new) as it was the last island to have been reclaimed in the backwater region for agriculture..",
+        "moreDescription": [
+            {
+                "about": "About this space",
+                "desc": "Our place is set on a beautiful, small farm island, which was actually reclaimed from the backwaters (Vembanad lake near Kumarakom) by the family. The farm is about 35 acres and is the largest farm on the island.<br>The island is a reclaimed property which was built in the early 1950’s by my husband’s grandfather. The island is called Puthankayal (‘Puthan’ means new) as it was the last island to have been reclaimed in the backwater region for agriculture.."
+            },
+            {
+                "about": "The space",
+                "desc": "The Villa has a separate bedroom and a living room with spacious, independent and located on the outer dyke facing the peaceful backwaters. The villas are named after popular local flowering plants, trees and birds.<br>The villas are furnished with antiques, including some beautifully carved and crafted doors and windows, which were meticulously collected over a period of time. TV and a land-line telephone are available at our residence, whilst ceiling fans assure a cooling circulation of air at all times.<br>We have installed air-conditioners within the cottages for your comfort. An Internet facility through Wi-Fi is available free of cost to the guests. The signal can be best accessed from our porch area, the sitting room and the waterside jetty.<br>There is a refrigerator and an electric kettle in each room with tea and coffee making provisions. The villas are well furnished with two large single beds, wardrobe, cupboard, writing table, and chair, settees, and chairs in the ‘sit-out’. There is a clean, dry and spacious bathroom in each villa. Extra beds are available if needed, and there is also a generator to backup the electricity in case of a power failure. All windows are netted to check the entry of insects.<br>There are plenty of doors and windows in each villa (18 windows and 8 doors) which open on to the farm, garden and backwaters, allowing for excellent circulation of fresh breezes and fascinating views from within. This is in keeping with the tradition of typical backwater bungalows. The idea has been to make each villa an integral part of the surroundings so that by living in one you are not cut off from nature, but feel at one with the beautiful environment.<br>The floor is finished in rustic clay tiles and the ceiling in wood. There is also a small verandah finished in traditional red-oxide which runs around each villa.<br>To complement the villas, there is a beautiful thatched pavilion on stilts, overlooking the farm with views of the backwaters. The pavilion opens on to a small, neat courtyard under an old mango tree. Most communally served meals are served in this delightful setting. We are also delighted to announce the completion of our new ‘jetty’- a covered pavilion built on the quayside where you can sit, admire the stunning views, watch the occasional houseboat glide by or just relax and soak up your surroundings and feel the cooling breezes from the nearby lake.In designing the villas, we kept in mind all the traditional features, but also the fact that we were designing a house where you would feel at home, and not a typical hotel room with its sterile, uniform, contrived atmosphere. When all this is combined with the traditional, homely hospitality, you might just think that it is your second home."
+            },            
+            {
+                "about": "Guest access",
+                "desc": "Guest can access to Dining area, common living room, common lawn area, & Farm."
+            },
+            {
+                "about": "Other things to note",
+                "desc": "Food : All meals are included in the price<br><br><br>Food is definitely one of the highlights of staying at Philipkuttys farm. The cuisine is mostly local and cooked by my skillful mother-in-law. Being a traditional agrarian household, lavish meals are more or less the norm and pretty much a way of life. All meals are included in the price, including complementary bottled water in the cottages.<br>Meals are served communally, either in the family dining room or outdoors in the thatched pavilion. We are glad to cater for any special diets if needed and also provide for vegetarian options too. When time permits we also love to join you around the communal table.<br>We also cater for lunch parties for non resident guests but only by prior arrangement. We also offer cookery demonstrations for resident guests who are interested in learning the local cuisine, or we can always offer a more ‘hands-on’ experience if you prefer..<br>The cuisine is predominantly Syrian Christian with a strong backwater influence. Most of the dishes served are centered around fish, farm vegetables and fruits, duck, chicken and occasionally other meats, supplemented with rice and rice based local breads like appam, string hoppers etc. Some of our specialities are Karimeen (pearlspot), fish fry, fish molee, prawn and scampi preparations, duck roast and curry, and red hot Kerala fish curry to name a few.<br>Breakfast consists of several components. We serve toast with home-made jams, farm-made yoghurt with fresh fruits and local honey and eggs prepared to your preference are always available. There is also an Indian component which may be sweet or savoury, such as dhosas served with chutney, sweet or savoury pancakes and similar tasty delights.Desserts are usually puddings, fresh fruits and some local treats. Coffee and tea are served after breakfast and lunch."
+            }
+        ],
+        "moreDescriptionOrignal": [],
+        "ask":{
+            "gettingThere": ["checkIn", "12:00 PM", "checkOut", "11:00 AM"],
+            "house": ["No smoking", "No parties or events", "Free parking on the premises", "No pets"],
+            "available": ["available", "Get a 10% discount on stays longer than a week, or 15% on stays longer than a month", "Full refund within limited period"],
+            "image": "https://a0.muscache.com/im/pictures/71dc38d0-1355-4323-b289-b927021768b1.jpg?im_w=240"
+        },
+        "hostID": 17,
+        "serviceCharges":239,
+        "hospitalityFee":0,
+        "weekDiscount": 0,
+        "cleaningFee":0,        
+        "offers": {
+            "offsLength":11,
+            "offersSet":[
+                { "logo": "Wifi", "about": "Wifi", "more": "" },
+                { "logo": "Car", "about": "Free parking on premises", "more": "" },
+                { "logo": "Air conditioning", "about": "Air conditioning", "more": "" },                                
+                { "logo": "Hair dryer", "about": "Hair dryer", "more": "" },
+                { "logo": "Breakfast", "about": "Breakfast", "more": "" },                               
+                { "logo": "Long term stays allowed", "about": "Long term stays allowed", "more": "" },
+                { "logo": "CONot", "about": "Carbon monoxide alarm", "more": "" },
+                { "logo": "smokingNot", "about": "Smoke alarm", "more": "" }
+            ],
+            "moreOffers":[                
+                {
+                    "cat": "Bathroom",
+                    "catOffers": [
+                        { "logo": "Hair dryer", "about": "Hair dryer", "more": "" },
+                        { "logo": "Shampoo", "about": "Shampoo", "more": "" }                        
+                    ]                    
+                },                
+                {
+                    "cat": "Bedroom and laundry",
+                    "catOffers": [
+                        { "logo": "Essentials", "about": "Essentials", "more": "Towels, bed sheets, soap, and toilet paper" },
+                        { "logo": "hangers", "about": "Hangers", "more": "" },
+                    ]                    
+                },
+                {
+                    "cat": "Heating and cooling",
+                    "catOffers": [
+                        { "logo": "Air conditioning", "about": "Air conditioning", "more": "" },
+                   ]                    
+                },
+                {
+                    "cat": "Home safety",
+                    "catOffers": [                        
+                        { "logo": "extinguisher", "about": "Fire extinguisher", "more": "" },
+                        { "logo": "first-aid", "about": "First aid kit", "more": "" }
+                   ]                    
+                },
+                {
+                    "cat": "Internet and office",
+                    "catOffers": [
+                        { "logo": "Wifi", "about": "Wifi", "more": "" }
+                   ]                    
+                },
+                {
+                    "cat": "Parking and facilities",
+                    "catOffers": [
+                        { "logo": "Car", "about": "Free parking on premises", "more": "" },
+                   ]                    
+                },
+                {
+                    "cat": "Services",
+                    "catOffers": [
+                        { "logo": "Breakfast", "about": "Breakfast", "more": "Assistance animals are always allowed" },                        
+                        { "logo": "Long term stays allowed", "about": "Long term stays allowed", "more": "Allow stay for 28 days or more" }
+                   ]                    
+                },
+                {
+                    "cat": "Not included",
+                    "catOffers": [
+                        { "logo": "WasherNot", "about": "Washer", "more": "" },
+                        { "logo": "CONot", "about": "Carbon monoxide alarm", "more": "" },
+                        { "logo": "smokingNot", "about": "Smoke alarm", "more": "" },
+                   ]                    
+                }
+            ],
+        }
+    },        
+
+    ///////////////////////////////////////////// 7 
+    {
+        "id": 7,
+        "name": "The Island on Bolgoda by Amici Leisure",
+        "nick": "Piliyandala, Sri Lanka",
+        "luxi": false,
+        "luxIncluded": [],
+        "luxServices": [],
+        "latitude": 6.8018,
+        "longitude": 79.9227,
+        "images": [
+            "https://a0.muscache.com/im/pictures/d24bb679-2598-48b8-9c21-ac786c2853bd.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/a245f1c3-2b24-4fe4-83ed-8181327fa1a7.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/6560c7c0-22ef-4c7f-a7d7-051ba3a1476f.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/ca7a3ec7-b370-4446-a5a5-98240203c0d1.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/8844988a-0244-4741-b9d5-8eb13ccdee15.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/cbc4e3de-a5d6-455a-b6cf-baa0dd18c72c.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/334905b4-8af2-4ea5-abe9-4afaa75452b5.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/a59b5db4-5d91-4686-9367-06d70d154e4a.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/dbb896c6-143b-4919-b1c6-b65a507d8242.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/49f25297-35a2-4ade-9254-cb2a5a062744.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/68ea4f0e-d80a-4375-abd4-4fd0e02634fa.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/c496de66-fb6b-4f1d-a5ad-2132ae1b0c81.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/1824bdee-602b-464c-8b01-917d6a4d5bcd.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/44c709ad-03d3-4e6a-ab94-2084d3206be2.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/5b1e4b30-c643-42fe-a65e-cfe2b6310f54.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/99b8924f-3db9-4c2f-9d3c-2820eb6bcde0.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/90ed603f-41bc-44de-8a45-2bba19653796.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/032d1921-faad-47d1-81ed-d7f2e0b6f824.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/f0b4afaa-d43e-49d5-ba03-e24263677fc5.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/d9851b37-0112-4b56-8ae7-3979dd6d65d8.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/d045f07f-0c01-45dc-a8ca-663cca19fe54.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/2fd760c7-1b30-4927-96f9-637d5aa9867f.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/e33b40c7-9f1a-49d4-9cbd-7f059f86775d.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/b371bd5a-cf50-4ac7-8d37-ccaebbd430ef.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/860b9cb7-3622-40c5-85d7-ba5f939e436d.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/71ef194e-4afc-4279-b953-9af68ea00df4.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/4df56cde-3f59-4ea8-a3e2-edb0d4f22c0f.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/97d01758-c39b-4730-9653-b81fc5d0c3de.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/79441669-d93d-4791-9bd0-7da267e27af1.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/57d7b816-e2f3-4c86-b3c1-5d2304d3b974.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/a5782252-294f-4cd9-8858-a8638fcb1cb2.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/3bdb1a5b-44ab-4323-b24a-753df48fd44e.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/37310e75-b111-4ffe-a2fb-52b835b3a78b.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/c16902d1-ad8f-439f-93d8-f84381d98edd.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/7ec7340f-c708-49ce-a45a-e186c2ca94ad.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/4ec798c4-030a-4884-a83c-789641e7383d.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/2d4f3e90-b633-4dbd-add1-3039b511cdef.jpg?im_w=720",
+        ],
+        "distance": "3075 kilometers away",
+        "checkIn": "Nov 01 2022",
+        "checkOut": "Nov 06 2022",
+        "freeCancelDaysBefore": 5,
+        "nightsLimit": 0,
+        "country": "Sri Lanka",
+        "stars": 4.67,
+        "reviewsNum": 3,
+        "guestID":3,
+        "levelID":14,
+        "rulesID":25,
+        "cancelPolicy": "Free cancellation",        
+        "bedrooms": [
+{ "roomType": 'Bedroom 1', "bedType": "1 double bed, 1 single bed", "logo": [""], "bedImage": "https://a0.muscache.com/im/pictures/90ed603f-41bc-44de-8a45-2bba19653796.jpg?im_w=320" },
+{ "roomType": 'Bedroom 2', "bedType": "1 double bed", "logo": [""], "bedImage": "https://a0.muscache.com/im/pictures/032d1921-faad-47d1-81ed-d7f2e0b6f824.jpg?im_w=320" },        
+{ "roomType": 'Bedroom 3', "bedType": "1 double bed", "logo": [""], "bedImage": "https://a0.muscache.com/im/pictures/e33b40c7-9f1a-49d4-9cbd-7f059f86775d.jpg?im_w=320" },
+        ],
+        "destinationIntro":[            
+{"logo": "Pool", "about": "Dive right in", "comment": "This is one of the few places in the area with a pool."  },
+{"logo": "star_white", "about": "Experienced host", "comment": "Sherry has 25 reviews for other places."  },
+{"logo": "Long term stays allowed", "about": "Free cancellation", "comment": ""  },
+        ],
+        "hostIntro": ["","Island hosted by Sherry", "8 guests", "3 bedrooms", "4 beds", "3 baths"],
+        "rent": 300,
+        "descriptionOrignal": "",
+        "description": "The Island on Bolgoda is a three bedroom villa on an unique island on the Bolgoda lake.<br>Designed by famed architect Ulrik Plesner the villa Pays homage to iconic Srilankan architect Geoffrey Bawas design concepts.<br>The villa also has two members of staff on site. Meal options can be selected from the villa's menus or if dry rations are provided our staff can cater to your personal requirements.",
+        "moreDescription": [
+            {
+                "about": "About this space",
+                "desc": "The Island on Bolgoda is a three bedroom villa on an unique island on the Bolgoda lake.<br>Designed by famed architect Ulrik Plesner the villa Pays homage to iconic Srilankan architect Geoffrey Bawas design concepts.<br>The villa also has two members of staff on site. Meal options can be selected from the villa's menus or if dry rations are provided our staff can cater to your personal requirements."
+            },
+            {
+                "about": "The space",
+                "desc": "The villa comes with an infinity pool overlooking Bolgoda lake which offers spectacular views.<br>All bedrooms are well appointed and have ensuite facilities.<br>Enjoy nature at its best with birdsong and the gentle lake breezes while catching some spectacular sunsets at the island on Bolgoda."
+            },            
+        ],
+        "moreDescriptionOrignal": [],
+        "ask":{
+            "gettingThere": ["checkIn", "2:00 PM", "checkOut", "12:00 PM"],
+            "house": [],
+            "available": ["available", "Get a 10% discount on stays longer than a week, or 25% on stays longer than a month.", "Cancel up to 5 days before check-in and get a full refund. After that, cancel before check-in and get a 50% refund, minus the first night and service fee."],
+            "image": "https://a0.muscache.com/im/pictures/a245f1c3-2b24-4fe4-83ed-8181327fa1a7.jpg?im_w=240"
+        },
+        "hostID": 18,
+        "serviceCharges":212,
+        "hospitalityFee":0,
+        "weekDiscount": 0,
+        "cleaningFee":0,        
+        "offers": {
+            "offsLength":15,
+            "offersSet":[
+                { "logo": "Kitchen", "about": "Kitchen", "more": "" },
+                { "logo": "Pool", "about": "Pool", "more": "" },
+                { "logo": "Tv", "about": "TV", "more": "" },                                
+                { "logo": "Hair dryer", "about": "Hair dryer", "more": "" },
+                { "logo": "washer", "about": "Washer", "more": "" },                               
+                { "logo": "patio", "about": "Patio or balcony", "more": "" },                
+                { "logo": "backyard", "about": "Backyard", "more": "" },
+                { "logo": "Camera", "about": "Security cameras on property", "more": "" },
+                { "logo": "CONot", "about": "Carbon monoxide alarm", "more": "" },
+                { "logo": "smokingNot", "about": "Smoke alarm", "more": "" }
+            ],
+            "moreOffers":[                
+                {
+                    "cat": "Bathroom",
+                    "catOffers": [
+                        { "logo": "Hair dryer", "about": "Hair dryer", "more": "" },
+                    ]                    
+                },                
+                {
+                    "cat": "Bedroom and laundry",
+                    "catOffers": [
+                        { "logo": "Essentials", "about": "Essentials", "more": "Towels, bed sheets, soap, and toilet paper" },
+                        { "logo": "washer", "about": "Washer", "more": "" },
+                    ]                    
+                },
+                {
+                    "cat": "Entertainment",
+                    "catOffers": [
+                        { "logo": "Tv", "about": "TV", "more": "" },
+                   ]                    
+                },
+                {
+                    "cat": "Home safety",
+                    "catOffers": [                        
+                        { "logo": "Camera", "about": "Security cameras on property", "more": "Surveillance cameras only on the perimeters of the property" },
+                        { "logo": "extinguisher", "about": "Fire extinguisher", "more": "" },
+                        { "logo": "first-aid", "about": "First aid kit", "more": "" }
+                   ]                    
+                },
+                {
+                    "cat": "Outdoor",
+                    "catOffers": [
+                        { "logo": "patio", "about": "Patio or balcony", "more": "" },
+                        { "logo": "backyard", "about": "Backyard", "more": "An open space on the property usually covered in grass" }
+                   ]                    
+                },
+                {
+                    "cat": "Parking and facilities",
+                    "catOffers": [
+                        { "logo": "Pool", "about": "Pool", "more": "" },
+                   ]                    
+                },
+                {
+                    "cat": "Services",
+                    "catOffers": [
+                        { "logo": "Breakfast", "about": "Breakfast", "more": "Assistance animals are always allowed" },                        
+                        { "logo": "smoking", "about": "Smoking allowed", "more": "" },                        
+                        { "logo": "Long term stays allowed", "about": "Long term stays allowed", "more": "Allow stay for 28 days or more" }
+                   ]                    
+                },
+                {
+                    "cat": "Not included",
+                    "catOffers": [
+                        { "logo": "WifiNot", "about": "Wifi", "more": "" },
+                        { "logo": "CONot", "about": "Carbon monoxide alarm", "more": "" },
+                        { "logo": "smokingNot", "about": "Smoke alarm", "more": "" },
+                   ]                    
+                }
+            ],
+        }
+    },            
+
+    ///////////////////////////////////////////// 8 
+    {
+        "id": 8,
+        "name": "Samuka Island-Deluxe with Lake View",
+        "nick": "Jinja, Uganda",
+        "luxi": false,
+        "luxIncluded": [],
+        "luxServices": [],
+        "latitude": 0.4479,
+        "longitude": 33.2026,
+        "images": [
+            "https://a0.muscache.com/im/pictures/miso/Hosting-51420917/original/2644c6f6-e609-459c-a051-b393de0e614b.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-51420917/original/5d29f67a-1d97-4471-b261-6e4fb41bfb59.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/5a694d06-7fb1-4391-95af-1b2f230d2162.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/35d54edf-1427-4fd1-937d-10fd13eefe3e.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/54df768e-0857-4b29-8e59-72072d25c0cd.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/d8a0f788-1770-46c7-a189-66327542593b.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/41bd2103-1e08-447c-af42-5d18843a784a.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/6b1d7738-13c0-4df7-9efc-cc3a3ac4e2c5.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/639e3828-14df-4e3b-a3ca-277ed3629db7.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/8421dac4-970b-4b3b-9022-9f995376a48a.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/a921def3-553a-4e2f-a96b-48f737c23aa3.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/8fc6f663-d091-42f7-9ea2-6ae8b2053485.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/70d5bd89-7be4-476e-938a-b4e93750e23e.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/fc425402-1f98-4348-8830-c818f32218cc.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/b3aecdbd-d2d3-406c-8261-8dd5524d0cdf.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/e5e471a8-dfae-421a-b05e-75b95c547cc7.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/37d07e97-ab3f-4e10-ab8d-227d22be0cd5.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/004c1251-4978-44ef-a95d-df228d06b6a3.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/07acfef6-4155-400a-9985-9554fe3666df.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/2ad4587e-f846-4a16-9798-f01f7a97beeb.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/baa9a80d-32dc-4b8b-9487-d62ea5b4e5a6.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/ad427e4a-a1dc-4404-8660-48dff965e606.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/2535f366-484f-4d36-b635-1005b4b15e72.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/d7001232-37ec-464b-be90-a7ec3a542cfe.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-51420917/original/44cac7e1-34d6-4f88-9e3c-ded25939832a.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-51420917/original/fab7e007-59ed-4a72-9091-996dfb8fdf49.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-51420917/original/d8e07eca-de90-4d61-b0c5-0ba27689ca16.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-51420917/original/713d4095-2571-460b-8727-faccca1ac165.jpeg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-51420917/original/59558347-4471-4f3e-9ee7-f7b95e174bb1.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-51420917/original/867f597a-4c9e-4b10-8c57-61c098a42e44.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-51420917/original/531f7eb7-0a03-4205-99b0-fc52552069ad.jpeg?im_w=720",
+        ],
+        "distance": "5915 kilometers away",
+        "checkIn": "Nov 01 2022",
+        "checkOut": "Nov 06 2022",
+        "freeCancelDaysBefore": 0,
+        "nightsLimit": 0,
+        "country": "Uganda",
+        "stars": 0,
+        "reviewsNum": 0,
+        "guestID":13,
+        "levelID":0,
+        "rulesID":26,
+        "cancelPolicy": "",        
+        "bedrooms": [
+{ "roomType": 'Bedroom 1', "bedType": "1 king bed", "logo": [""], "bedImage": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51420917/original/d7001232-37ec-464b-be90-a7ec3a542cfe.jpeg?im_w=320" },
+        ],
+        "destinationIntro":[            
+{"logo": "Pool", "about": "Dive right in", "comment": "This is one of the few places in the area with a pool."  },
+        ],
+        "hostIntro": ["","Private room in guesthouse hosted by Daniel", "2 guests", "1 bedroom", "1 bed", "1 private bath"],
+        "rent": 150,
+        "descriptionOrignal": "",
+        "description": "A spacious deluxe cottage with a balcony overlooking the Lake Victoria. The room has a king size bed and private bathroom. The room is environmentally friendly with solar hot water and solar electricity provided.",
+        "moreDescription": [],
+        "moreDescriptionOrignal": [],
+        "ask":{
+            "gettingThere": ["no"],
+            "house": [],
+            "available": [],
+            "image": ""
+        },
+        "hostID": 19,
+        "serviceCharges":0,
+        "hospitalityFee":0,
+        "weekDiscount": 0,
+        "cleaningFee":0,        
+        "offers": {
+            "offsLength":11,
+            "offersSet":[
+                { "logo": "patio", "about": "Garden view", "more": "" },
+                { "logo": "Lake view", "about": "Lake view", "more": "" },
+                { "logo": "Pool", "about": "Pool", "more": "" },
+                { "logo": "Tv", "about": "TV with standard cable", "more": "" },                                
+                { "logo": "pets-steps", "about": "Pets allowed", "more": "" },
+                { "logo": "Breakfast", "about": "Breakfast", "more": "" },                               
+                { "logo": "smoking", "about": "Smoking allowed", "more": "" },                
+                { "logo": "Camera", "about": "Security cameras on property", "more": "" },
+                { "logo": "CONot", "about": "Carbon monoxide alarm", "more": "" },
+                { "logo": "smokingNot", "about": "Smoke alarm", "more": "" }
+            ],
+            "moreOffers":[                
+                {
+                    "cat": "Scenic views",
+                    "catOffers": [
+                        { "logo": "patio", "about": "Garden view", "more": "" },
+                        { "logo": "Lake view", "about": "Lake view", "more": "" },
+                        { "logo": "Pool", "about": "Pool", "more": "" },
+                    ]                    
+                },                
+                {
+                    "cat": "Bedroom and laundry",
+                    "catOffers": [
+                        { "logo": "Essentials", "about": "Essentials", "more": "Towels, bed sheets, soap, and toilet paper" },
+                    ]                    
+                },
+                {
+                    "cat": "Entertainment",
+                    "catOffers": [
+                        { "logo": "Tv", "about": "TV with standard cable", "more": "" },
+                   ]                    
+                },
+                {
+                    "cat": "Home safety",
+                    "catOffers": [                        
+                        { "logo": "Camera", "about": "Security cameras on property", "more": "Surveillance cameras only on the perimeters of the property" },
+                   ]                    
+                },
+                {
+                    "cat": "Services",
+                    "catOffers": [
+                        { "logo": "Breakfast", "about": "Breakfast", "more": "Assistance animals are always allowed" },                        
+                        { "logo": "smoking", "about": "Smoking allowed", "more": "" },                        
+                        { "logo": "Long term stays allowed", "about": "Long term stays allowed", "more": "Allow stay for 28 days or more" }
+                   ]                    
+                },
+                {
+                    "cat": "Not included",
+                    "catOffers": [
+                        { "logo": "WifiNot", "about": "Wifi", "more": "" },
+                        { "logo": "KitchenNot", "about": "Kitchen", "more": "" },
+                        { "logo": "smokingNot", "about": "Smoke alarm", "more": "" },
+                        { "logo": "CONot", "about": "Carbon monoxide alarm", "more": "" },
+                   ]                    
+                }
+            ],
+        }
+    },            
 
 ]
+

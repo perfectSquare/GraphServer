@@ -531,6 +531,109 @@ export const hosts = [
         ]
     },
 
+//////////////////////////// 17
+{
+        "id": 17,
+        "name": "Anu",
+        "joinedDate": "July 2016",
+        "reviewsNum": 0,
+        "identity": "verified",
+        "description": "I'm Anu Mathew, we are prominent members of the local community, and have our roots in agriculture. My late husband’s grandfather was involved in land reclamation and my father-in-law, the late Philipkutty, received the ‘Kera Kesari’ award for the best coconut cultivator from the Government of Kerala in 1994.<br>Staying with the family is an unforgettable experience with, we hope, fond memories to take back home. As hosts, we reside on the property full time, and our personalised attention is assured. All the guests at Philipkutty’s Farm are welcomed and cared for by the family. We are fully involved and will gladly take you around the farm or the many places of interest or just sit and chat with you, without compromising your privacy. The family takes a lot of interest in personalising your stay, depending upon your interests. We are always there to make your holiday a memorable experience.<br>We therefore strive to give our guests the undiluted real Kerala experience by getting to know an authentic Kuttanadan (backwater) family, a taste not only of the delicious local cuisine but also the region’s rich cultural heritage and in a beautiful setting.In short, it is our vision to sustain and enhance your ‘Sense of Place’ and all that Philipkutty’s Farm has to offer reflects this.",
+        "during": "Staying with the family is an unforgettable experience with, we hope, fond memories to take back home. As hosts, we reside on the property full time, and our personalised attention is assured. All the guests at Philipkutty’s Farm are welcomed and cared for by the family. We are fully involved and will gladly take you around the farm or the many places of interest or just sit and chat with you, without compromising your privacy. The family takes a lot of interest in personalizing your stay, depending upon your interests. We are always there to make your holiday a memorable experience.<br>We therefore strive to give our guests the undiluted real Kerala experience by getting to know an authentic Kuttanadan (backwater) family, a taste not only of the delicious local cuisine but also the region’s rich cultural heritage and in a beautiful setting.",
+        "language": ["English"],
+        "verified": ["Identity", "Email address", "Phone number"],
+        "responseRate": 25,
+        "responseTime": "a few days or more",        
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/eca77c23-5f13-4e47-ae7d-58039331ccdc.jpg?aki_policy=profile_large",
+        "lives": "Lives in Kumarakom, India",
+        "speaks": "Speaks English",
+        "work": "",
+        "listing": [
+{ "cat":"", "destinationID":0, "reviewsNum": -1, "name": "Waterfront Heritage Villa", "about": "Entire home/apt - Viila",
+  "stars": 0,  "image": "https://a0.muscache.com/im/pictures/71dc38d0-1355-4323-b289-b927021768b1.jpg?im_w=960"    },
+{ "cat":"", "destinationID":0, "reviewsNum": -1, "name": "Waterfront Family Villa", "about": "Entire home/apt - Viila",
+  "stars": 0,  "image": "https://a0.muscache.com/im/pictures/e8b61a4b-d081-479f-aa61-ce8e0f5ab24a.jpg?im_w=960"    },  
+{ "cat":"", "destinationID":0, "reviewsNum": -1, "name": "Waterfront Family Villa", "about": "Entire home/apt - Viila",
+  "stars": 0,  "image": "https://a0.muscache.com/im/pictures/e8b61a4b-d081-479f-aa61-ce8e0f5ab24a.jpg?im_w=960"    },    
+        ]
+    },    
+
+//////////////////////////// 18
+{
+        "id": 18,
+        "name": "Sherry",
+        "joinedDate": "2016",
+        "reviewsNum": 29,
+        "identity": "verified",
+        "description": "",
+        "during": "There will be two staff members on site to service you. There services are available from 5.30am to 11pm each after which they will retire for the day.",
+        "language": ["English"],
+        "verified": ["Identity", "Email address", "Phone number"],
+        "responseRate": 70,
+        "responseTime": "within a few hours",        
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/0b12e50b-d28c-49b0-8aac-98e536f827df.jpg?aki_policy=profile_large",
+        "lives": "Lives in Colombo, Sri Lanka",
+        "speaks": "",
+        "work": "",
+        "listing": [
+{ "cat":"", "destinationID":0, "reviewsNum": 25, "name": "Liberty Beach View - Entire Apartment for 4", "about": "Entire home/apt - Apartment",
+  "stars": 4.72,  "image": "https://a0.muscache.com/im/pictures/97ae94d0-d66d-4c70-be54-6e7ab3850f6a.jpg?im_w=960"    },
+{ "cat":"islands", "destinationID":7, "reviewsNum": 3, "name": "The Island on Bolgoda by Amici Leisure", "about": "Entire home/apt - Island",
+  "stars": 4.67,  "image": "https://a0.muscache.com/im/pictures/d24bb679-2598-48b8-9c21-ac786c2853bd.jpg?im_w=960"    },  
+        ]
+    },        
+
+//////////////////////////// 19
+{
+        "id": 19,
+        "name": "Daniel",
+        "joinedDate": "February 2020",
+        "reviewsNum": 0,
+        "identity": "verified",
+        "description": "",
+        "during": "",
+        "language": [],
+        "verified": ["Identity", "Email address", "Phone number"],
+        "responseRate": 100,
+        "responseTime": "within a few hours",        
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/3d1d1745-20eb-49ad-97a3-934aef636e59.jpg?aki_policy=profile_large",
+        "lives": "",
+        "speaks": "",
+        "work": "",
+        "listing": [
+{ "cat":"", "destinationID":0, "reviewsNum": -1, "name": "Samuka Island-Twin or double with lake view", "about": "Private room - Guest House",
+  "stars": 0,  "image": "https://a0.muscache.com/im/pictures/miso/Hosting-51420921/original/c43308f8-62bf-4ca6-9572-b2f70357fea7.jpeg?im_w=960"    },
+{ "cat":"islands", "destinationID":8, "reviewsNum": -1, "name": "Samuka Island-Deluxe with Lake View", "about": "Private room - Guest House",
+  "stars": 0,  "image": "https://a0.muscache.com/im/pictures/miso/Hosting-51420917/original/2644c6f6-e609-459c-a051-b393de0e614b.jpeg?im_w=960"    },  
+{ "cat":"", "destinationID":0, "reviewsNum": -1, "name": "Samuka Island-Deluxe with Lake View", "about": "Private room - Guest House",
+  "stars": 0,  "image": "https://a0.muscache.com/im/pictures/miso/Hosting-51420917/original/5d29f67a-1d97-4471-b261-6e4fb41bfb59.jpeg?im_w=960"    },    
+        ]
+    },            
+
+//////////////////////////// 20
+{
+        "id": 20,
+        "name": "Maria",
+        "joinedDate": "November 2012",
+        "reviewsNum": 44,
+        "identity": "super",
+        "description": "",
+        "during": "I am available to my guests 24 hours a day to resolve any issues that may arise during their stay. If you are traveling by plane, I am available to assist you with your transportation: I will greet you at the airport, assist you in the rental car process, and then guide you to the house. If you are traveling by car, we can arrange a meeting point to make it easier for you to get to the house without problems. Regardless of how you arrive, I will be there to give you a personal tour of the castle, answer any questions, highlight points of interest, and help you in any other way that I can.",
+        "language": ["English", 'Português', 'Español'],
+        "verified": ["Identity", "Email address", "Phone number"],
+        "responseRate": 100,
+        "responseTime": "within an hour",        
+        "hostLogo": "https://a0.muscache.com/im/pictures/user/ceaf61d4-ab77-4096-ada5-34418049761d.jpg?aki_policy=profile_large",
+        "lives": "Lives in Vigo, Spain",
+        "speaks": "Speaks English, Español, Português",
+        "work": "",
+        "listing": [
+{ "cat":"castles", "destinationID":4, "reviewsNum": 39, "name": "Santa Marta de Portuzelo Castle", "about": "Entire home/apt - Castle",
+  "stars": 4.90,  "image": "https://a0.muscache.com/im/pictures/miso/Hosting-15516440/original/28185355-74ff-42ba-a251-42abfc3b68bb.jpeg?im_w=960"    },
+{ "cat":"", "destinationID":0, "reviewsNum": 4, "name": "CASIÑA SAUDADE EN PLENO CORAZÓN DE RIAS BAIXAS", "about": "Entire home/apt - Castle",
+  "stars": 4.75,  "image": "https://a0.muscache.com/im/pictures/208d0f0d-b227-4e2e-8c4a-4fc36ecc3f5b.jpg?im_w=960"    },  
+        ]
+    },            
 
 ]
 

@@ -636,6 +636,211 @@ export const castles = [
         }        
     },        
 
+{
+        "id": 4,
+        "name": "Santa Marta de Portuzelo Castle",
+        "nick": "Santa Marta de Portuzelo, Portugal",
+        "luxi": false,
+        "luxIncluded": [],
+        "luxServices": [],
+        "latitude": 41.6918,
+        "longitude": 8.8344,
+        "images": [
+            "https://a0.muscache.com/im/pictures/01b56573-15ba-4d86-bab3-5f57b0088956.jpg?im_w=960",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-15516440/original/28185355-74ff-42ba-a251-42abfc3b68bb.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/miso/Hosting-15516440/original/d2391b75-65d5-4f69-91b4-c92f3653cdf4.jpeg?im_w=720",
+            "https://a0.muscache.com/im/pictures/a2f7df0e-9fd2-4c59-a08b-20d41a56d55d.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/c339d3f8-dda1-4f80-a909-52be2f43ec04.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/aab7907a-8225-4d4b-a2b0-c714ee4f5311.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/b9024b96-6f3d-4a8c-9239-b2570a2f5de9.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/6a8e69ea-5908-49b2-85ff-108ee92bff18.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/4871055b-06ed-4f34-87a2-35fd8b9339fe.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/42c50384-464b-4775-b949-841d4315450b.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/8775c1ab-be52-45ff-be3e-4e76db73e392.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/0b68833d-9c81-4d0d-a616-d94d7f99f64b.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/9425ad04-56d1-4288-9888-a40f9e55755a.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/dd5cc2dd-b5e7-437a-8df6-e1889e4af61f.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/a0481410-8147-4328-a17f-438020882a10.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/d2617bcf-2ad8-49c5-9590-048b8b1cade6.jpg?im_w=1200",
+            "https://a0.muscache.com/im/pictures/e1f15b4a-976f-493c-971b-70be46de76a5.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/08f15dad-4da0-45c4-9898-942e41cfe1b4.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/2e87fb08-b0bb-438d-b2fa-4a68ca338dde.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/c5019d18-f3f2-4497-af80-3b7d03dee153.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/50290b31-9a75-4391-a806-b42e857e51fa.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/f8076962-186c-4dd0-a74e-813a3a36dab1.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/d99ddcc7-2026-4ba4-b5c5-5f2720002e96.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/6f79b0c1-489c-4b15-864d-75fb502d4b4e.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/be6046c2-5c38-420d-9e9e-8a8899a25a89.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/584ecf1e-585a-4963-b582-65efe9c87d26.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/b7edf2d1-5a5c-4ea5-a5e3-6e836644f8f0.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/49462665-1410-464d-82c9-6755e0cf0cef.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/f9195bba-f500-4106-9981-cf67382807c4.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/9dd2823a-2a72-4c73-9754-9222b3e00a20.jpg?im_w=720",
+            "https://a0.muscache.com/im/pictures/dcb288d8-4db8-44fa-b6d0-651d0ff7e186.jpg?im_w=1200",
+        ],
+        "distance": "5342 kilometers",
+        "checkIn": "Jun 24 2023",        
+        "checkOut": "Jun 29 2023",        
+        "freeCancelDaysBefore": 0,
+        "nightsLimit": 3,
+        "country": "Portugal",
+        "stars": 4.90,
+        "reviewsNum": 39,
+        "guestID":12,
+        "levelID":15,
+        "rulesID":27,
+        "cancelPolicy": "Free cancellation for 48 hours",
+        "bedrooms": [        
+{ "roomType": 'Bedroom 1', "bedType": "2 single beds", "logo": ["bed"], "bedImage": "https://a0.muscache.com/im/pictures/f3472d67-61fa-49e9-aa38-09cc7dab7d65.jpg?im_w=320" },
+{ "roomType": 'Bedroom 2', "bedType": "2 single beds", "logo": ["bed"], "bedImage": "https://a0.muscache.com/im/pictures/aee8b2e4-2852-4937-8103-3333b52464a1.jpg?im_w=320" },
+{ "roomType": 'Bedroom 3', "bedType": "2 single beds", "logo": ["bed"], "bedImage": "https://a0.muscache.com/im/pictures/c5862887-8362-4f03-a7b7-ed4a08143435.jpg?im_w=320" },
+{ "roomType": 'Bedroom 4', "bedType": "2 single beds", "logo": ["bed"], "bedImage": "https://a0.muscache.com/im/pictures/92dbf082-3c69-4d51-b422-318083c9038d.jpg?im_w=320" },
+        ],
+        "destinationIntro":[
+            {
+                "logo": "workspace",
+                "about": "Dedicated workspace",
+                "comment": "A common area with wifi that’s well-suited for working."
+            },
+            {
+                "logo": "Long term stays allowed",
+                "about": "Free cancellation for 48 hours.",
+                "comment": "Free cancellation for 48 hours."
+            }
+        ],
+        "hostIntro": ["super","Castle hosted by Ana Maria", "16 guests", "9 bedrooms", "19 beds", "9 baths"],
+        "rent": 789,
+        "description": "The Castle is located 40 minutes from Porto (Francisco Sa Carneiro) airport, with a variety of cultural experiences near the city. You will love this place because of the location, the beautiful grounds and landscaping, the peaceful atmosphere and the unique construction of the house. My house is great for big families (including young children) and large groups of friends who want to disconnect in a quiet environment, while having convenient access to the city center (1.2 miles).",
+        "descriptionOrignal": "",
+        "moreDescription": [
+            {
+                "about": "About this space",
+                "desc": "The Castle is located 40 minutes from Porto (Francisco Sa Carneiro) airport, with a variety of cultural experiences near the city. You will love this place because of the location, the beautiful grounds and landscaping, the peaceful atmosphere and the unique construction of the house. My house is great for big families (including young children) and large groups of friends who want to disconnect in a quiet environment, while having convenient access to the city center (1.2 miles)."
+            },
+            {
+                "about": "The space",
+                "desc": "It is a Manueline style house that has elements from the 12th to the 19th centuries.<br>It is approximately 2000 m2 (approximately 21,528 sq ft), distributed over two floors and a tower. Access to the first floor is through a stone stairway that starts from a hallway, from which you access the chapel, on the right hand side and a hall of about 50 m2 on the left.<br>It consists of 12 bedrooms, with 9 available to guests. The rooms are approximately 50m2 (approximately 538 sq ft), all of them have a en suite bathroom and two of them have a fireplace. There are three living rooms, two dining rooms, a huge kitchen, toilets , large hallways, a chapel and plenty of extra space to enjoy your leisure!<br>On the lower floor there is a hallway, a chapel, a staircase leading to the first floor, a living room that communicates with a dining room, another living room, communicated with another dining room, a bedroom with bathroom, kitchens and auxiliary units ..<br>On the first floor there is a hall, a living room and 9 bedrooms all of them with en suite bathrooms. Tower and Chapel are closed to the public<br>The garden expands out about 17,000 m2 (approximately 4.2 acres), with its most outstanding features: the manuelino-style watchtower, the dovecote, the 16th century fountain and a tunnel that leads to the fontain patio giving way to the main facade of the property.<br>In the garden there are a variety of ornamental trees: orange, lemon, olive, chestnut, palm, cypress, walnut and fig.<br>There is an outdoor pool approximately 17x8 m (55x26 feet) and sufficient parking.<br>You access the property by a traditional Portuguese stone paved road, between high stone walls in a rural setting, with olive groves and small chapels at the crossroads.<br>From the first floor of the Castle you can soak in views of the Lima river and the Atlantic Ocean."
+            },            
+            {
+                "about": "Guest access",
+                "desc": "Guests will have access to the entire house, except the chapel and the tower, which are private access only."
+            },
+            {
+                "about": "Other things to note",
+                "desc": "In the chapel you can not officiate weddings but if you choose Santa Marta de Portucelo to get married, there is a very nice church in the village of Santa Marta de Portucelo, which is a 5 minute walk from the house."
+            },
+            {
+                "about": "License number",
+                "desc": "BDE28/2017"
+            }            
+        ],
+        "moreDescriptionOrignal": [],        
+        "hostID": 20,
+        "ask":{
+            "gettingThere": ["checkIn", "1:00 PM and 4:00 PM", "checkOut", "12:00 PM."],
+            "house": ["Free parking on the premises","No smoking", "No parties or events"],
+            "available": ["available", "Full refund within limited period"],
+            "image": "https://a0.muscache.com/im/pictures/miso/Hosting-15516440/original/28185355-74ff-42ba-a251-42abfc3b68bb.jpeg?im_w=240"
+        },
+        "serviceCharges":557,
+        "hospitalityFee":0,
+        "weekDiscount": 0,
+        "cleaningFee":0,
+        "offers": {
+            "offsLength":44,
+            "offersSet":[
+                { "logo": "Ocean view", "about": "Ocean view", "more": "" },
+                { "logo": "backyard", "about": "Garden view", "more": "" },
+                { "logo": "Beach view", "about": "Beach access – Beachfront", "more": "" },
+                { "logo": "Kitchen", "about": "Kitchen", "more": "" },
+                { "logo": "Wifi", "about": "Fast wifi – 567 Mbps", "more": "" },
+                { "logo": "workspace", "about": "Dedicated workspace", "more": "" },
+                { "logo": "Car", "about": "Free parking on premises", "more": "" },
+                { "logo": "Pool", "about": "Private Pool", "more": "" },
+                { "logo": "CONot", "about": "Carbon monoxide alarm", "more": "" },
+                { "logo": "smokingNot", "about": "Smoke alarm", "more": "" },                                                               
+            ],
+            "moreOffers":[                
+                {
+                    "cat": "Scenic views",
+                    "catOffers": [
+                        { "logo": "Ocean view", "about": "Ocean view", "more": "" },
+                        { "logo": "backyard", "about": "Garden view", "more": "" },
+                        { "logo": "Beach view", "about": "Beach access – Beachfront", "more": "" },
+                    ]                    
+                },
+                {
+                    "cat": "Bathroom",
+                    "catOffers": [
+                        { "logo": "hot-tub", "about": "Bathtub", "more": "" },
+                        { "logo": "Hot water", "about": "Hot water", "more": "" },
+                    ]                    
+                },
+                {
+                    "cat": "Bedroom and laundry",
+                    "catOffers": [
+                        { "logo": "Essentials", "about": "Essentials", "more": "Towels, bed sheets, soap, and toilet paper" },
+                        { "logo": "washer", "about": "Free washer – In unit", "more": "" },
+                        { "logo": "hangers", "about": "Hangers", "more": "" },
+                        { "logo": "blanket", "about": "Extra pillows and blankets", "more": "" },
+                        { "logo": "iron", "about": "Iron", "more": "" },
+                        { "logo": "bed-linens", "about": "Bed linens", "more": "" },
+                        { "logo": "iron", "about": "Iron", "more": "" },
+                    ]                    
+                },
+                {
+                    "cat": "Entertainment",
+                    "catOffers": [
+                        { "logo": "Tv", "about": "TV with standard cable", "more": "" },
+                    ]                    
+                },
+                {
+                    "cat": "Family",
+                    "catOffers": [
+                        { "logo": "Crib", "about": "Crib", "more": "" },
+                        { "logo": "board-games", "about": "Children’s books and toys", "more": "" },
+                        { "logo": "High chair", "about": "High chair", "more": "" },
+                    ]                    
+                },
+                {
+                    "cat": "Home safety",
+                    "catOffers": [
+                        { "logo": "extinguisher", "about": "Fire extinguisher", "more": "" },
+                        { "logo": "first-aid", "about": "First aid kit", "more": "" }
+                    ]                    
+                },
+                {
+                    "cat": "Internet and office",
+                    "catOffers": [
+                        { "logo": "Wifi", "about": "Wifi", "more": "" },
+                        { "logo": "workspace", "about": "Dedicated workspace", "more": "" }
+                    ]                    
+                },
+                {
+                    "cat": "Parking and facilities",
+                    "catOffers": [
+                        { "logo": "Pool", "about": "Pool", "more": "" }
+                    ]                    
+                },
+                {
+                    "cat": "Services",
+                    "catOffers": [
+                        { "logo": "Breakfast", "about": "Breakfast", "more": "Breakfast is provided" },
+                        { "logo": "Long term stays allowed", "about": "Long term stays allowed", "more": "Allow stay for 28 days or more" }
+                    ]                    
+                },
+                {
+                    "cat": "Not included",
+                    "catOffers": [
+                        { "logo": "cameraNot", "about": "Security cameras on property", "more": "" },
+                        { "logo": "ACNot", "about": "Air conditioner", "more": "" },
+                        { "logo": "ShampooNot", "about": "Shampoo", "more": "" },
+                    ]                    
+                }
+            ],
+        }        
+    },            
+
 ]
 
 

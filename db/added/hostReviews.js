@@ -559,6 +559,88 @@ export const hr = [
 "commentDate": "Joined in 2022", "comment": "Magnifique vue malgré une météo maussade. Procédure d'arrivée simplifiée mais excellente réacitivité du concièrge en cas de problèmes. Bonne situation entre Vitznau et Weggis, y compris en transports publics.",
 }]
 },
+]},
+
+{
+    "id":14,
+    "hostID": 18,
+"reviews": [
+{
+"place": "Liberty Beach View - Entire Apartment for 4", "placeLogo": "https://a0.muscache.com/im/pictures/97ae94d0-d66d-4c70-be54-6e7ab3850f6a.jpg?aki_policy=small", "placeDate":"May 2022",
+"placeReviews": [{
+"customer": "Damith", "customerImage": "https://a0.muscache.com/im/pictures/user/98729cb8-6b78-4264-9134-35ffe40cc168.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2016", "comment": "With the exception of power cuts, we had a pleasant experience.",
+}]
+},
+{
+"place": "Liberty Beach View - Entire Apartment for 4", "placeLogo": "https://a0.muscache.com/im/pictures/97ae94d0-d66d-4c70-be54-6e7ab3850f6a.jpg?aki_policy=small", "placeDate":"February 2022",
+"placeReviews": [{
+"customer": "Azaan, Malé, Maldives", "customerImage": "https://a0.muscache.com/im/pictures/user/078a072c-f1be-4d25-bb2c-a3b499aba955.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2015", "comment": "Sherry's place is very nicely furnished and feels like a home. It's located walking distance to the beach which is also very convenient. I really enjoyed my stay in her place!",
+}]
+},
+{
+"place": "The Island on Bolgoda by Amici Leisure", "placeLogo": "https://a0.muscache.com/im/pictures/a245f1c3-2b24-4fe4-83ed-8181327fa1a7.jpg?aki_policy=small", "placeDate":"January 2022",
+"placeReviews": [{
+"customer": "Lyaza, Bishkek, Kyrgyzstan", "customerImage": "https://a0.muscache.com/im/pictures/user/13fa428f-f125-4f8d-9670-1c150b69d161.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2017", "comment": "The location was the best in Piliyandala region. That was the most isolated place that we ever met, thanks a lot for the service of staff - they try to do the best of them. The FnB - was really tasty and delicious. The Broofy - the funniest dog we ever met in our life",
+}]
+},
+{
+"place": "Liberty Beach View - Entire Apartment for 4", "placeLogo": "https://a0.muscache.com/im/pictures/97ae94d0-d66d-4c70-be54-6e7ab3850f6a.jpg?aki_policy=small", "placeDate":"January 2022",
+"placeReviews": [{
+"customer": "Josh, Melbourne, Australia", "customerImage": "https://a0.muscache.com/im/pictures/user/b535d34b-c9ed-484a-969c-d9f3c4c71c54.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2012", "comment": "I would be very cautious to book this place. First of all, the place isn't very clean. Lots of ants and cockroaches are frequent visitors and the noise pollution from the pool which is located right above the apartment are very disturbing. Also the building is very old and ageing. The photos are highly photoshopped. The main issue is the owner Sherry. There were a lot of issues with the internet and she barely replies to messages or inquires. To a point that I needed to move out for a weekend in order to get work done. When I raised my concern she blocked me on (Hidden by Airbnb) and denied me access to the apartment without refunding my money. In 6 years of using AirBnB I have never come across such an awful place and host. I strongly recommend not to book this accommodation.",
+}]
+},
+{
+"place": "Liberty Beach View - Entire Apartment for 4", "placeLogo": "https://a0.muscache.com/im/pictures/97ae94d0-d66d-4c70-be54-6e7ab3850f6a.jpg?aki_policy=small", "placeDate":"November 2021",
+"placeReviews": [{
+"customer": "Diane, Westminster, CA", "customerImage": "https://a0.muscache.com/im/pictures/user/478dba3e-1659-471e-a1a8-79a29a7c769c.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2016", "comment": "There was one downside to the location. There is a house to rent just across the street (visible from the balcony) which plays very loud music when having events. There were three parties during my 9-day stay which we could hear the pounding beat of the music - with all the doors closed - until 2:30 am one night (a Saturday night) and until 6:00 am another night (a Sunday night). On Monday night there was another party, however, it ended by 11:30 or so. Just just a heads up for someone wanting a quiet location. I'm not sure if this is a new thing or other travelers just didn't mention it. Other than that, Sherry's place was sparkling clean and just as shown in the pictures. It came stocked with some water and snacks, which was super helpful as we arrived at 5 am in the morning. Sherry was extremely accommodating to our schedule and all communication was very prompt and helpful. She is a fabulous host. Oh and the view is spectacular! I very much recommend it with that one heads up about the music.",
+}]
+},
+]},
+
+{
+    "id":15,
+    "hostID": 20,
+"reviews": [
+{
+"place": "CASIÑA SAUDADE EN PLENO CORAZÓN DE RIAS BAIXAS", "placeLogo": "https://a0.muscache.com/im/pictures/208d0f0d-b227-4e2e-8c4a-4fc36ecc3f5b.jpg?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Natascia, Genoa, Italy", "customerImage": "https://a0.muscache.com/im/pictures/user/199319e8-9a6c-4ba7-94f8-49de9281c53a.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2020", "comment": "Soggiorno di una settimana in occasione di Conxemar, un'importante fiera ittica a Vigo. Eravamo in 3 e siamo state benissimo. Sono anni che andiamo a Vigo ed è davvero la casa più bella che io abbia mai affittato. Vicinissima a 4 spiagge, di cui una proprio sotto casa. Tranquilla ed ideale per chi ama la natura e non vuole il caos di Vigo centro. Attrezzatissima e comodissima. Ci sono 2 supermercati vicini, dove potete andare anche a piedi e diversi Ristoranti. La proprietaria e sua figlia sono gentilissime. Siamo state davvero alla grande e lo suggerisco sia per business che per vacanza. Ha 3 cmere separate, ognuna con il suo bagno, un soggiorno molto ampio ed un giardino spettacolare.",
+}]
+},
+{
+"place": "Santa Marta de Portuzelo Castle", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-15516440/original/28185355-74ff-42ba-a251-42abfc3b68bb.jpeg?aki_policy=small", "placeDate":"October 2022",
+"placeReviews": [{
+"customer": "Genevieve, Auckland, New Zealand", "customerImage": "https://a0.muscache.com/im/pictures/user/5b6eb652-2ce6-437b-83f0-cde1819713f6.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2019", "comment": "A great experience with Genevieve. They have been wonderful guests. Super easy communication. Really a highly recommended group for any host. Thank you guys for choosing us to spend your holidays. Hope to see you in the future!! ",
+}]
+},
+{
+"place": "Santa Marta de Portuzelo Castle", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-15516440/original/28185355-74ff-42ba-a251-42abfc3b68bb.jpeg?aki_policy=small", "placeDate":"September 2022",
+"placeReviews": [{
+"customer": "David, Wayne, NJ", "customerImage": "https://a0.muscache.com/im/pictures/user/8163e0c5-b05f-4628-b00e-5d7b0d4d725d.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2015", "comment": "David , Amy and the rest of their family were a wonderful guests and we can’t recommend them enough. <br>They left the property immaculate, I mean, everything was in place , nothing broken and we really felt and saw that they took care about everything in our house. No gargabe inside, everything clean and tidy.. wonderful! I could say so far, one of the bests clients we ever had. <br>Thank you very much for choosing us to be part of such a special day in your lives.<br>Many congratulations for your marriage. We wish you ,all the best!!",
+}]
+},
+{
+"place": "Santa Marta de Portuzelo Castle", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-15516440/original/28185355-74ff-42ba-a251-42abfc3b68bb.jpeg?aki_policy=small", "placeDate":"September 2022",
+"placeReviews": [{
+"customer": "Tyler, Charlotte, NC", "customerImage": "https://a0.muscache.com/im/pictures/user/4131a2cf-0ea5-4144-a32c-de797699c5d1.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2015", "comment": "Tyler, his wife and friends were an amazing guests. They were a charming group, friendly and very respectful with the house. Left the proterty perfectly tidy, with no garbage or debris inside...a wonderfull organized group. It has been a real pleasure having you in our home. <br>Thank you very much for choosing us to enjoy your  holidays.<br>Hope to see you in the future!! <br>All the best,Ana.",
+}]
+},
+{
+"place": "Santa Marta de Portuzelo Castle", "placeLogo": "https://a0.muscache.com/im/pictures/miso/Hosting-15516440/original/28185355-74ff-42ba-a251-42abfc3b68bb.jpeg?aki_policy=small", "placeDate":"September 2022",
+"placeReviews": [{
+"customer": "Bridget, Maryland, United States", "customerImage": "https://a0.muscache.com/im/pictures/user/0205e73f-6f1d-4f17-bf63-d6339315cecf.jpg?aki_policy=profile_x_medium",
+"commentDate": "Joined in 2021", "comment": "Bridget has made an absolutely incorrect and inappropriate use of the property. <br>It has opened without authorization from the owner (cupboards, trunks, etc.) where the owner has stored personal decorative elements of great sentimental value for an unknown use. <br>She has made recordings of the property for use in social networks without the express authorization of the owner, violating the rules of use of the house. She left organic garbage in the kitchen bins and in the rooms, with the risk that small rodents can enter (as has happened), putting the furniture and health of the interior of the property at risk, despite having the relevant treatment carried out by an approved company specialized in pests that we have contracted and is monitored throughout the year (even when the property is closed for clients.). <br>She has broken a pool lounger for which she has not wanted to be responsible for paying for it and having to resort to the platform , to mediate in the resolution of this issue. <br>She left a sun lounger inside the pool that we found the day of check out. Initially she inform us that she would be leaving at 12 in the morning and late in the afternoon (the day before departure), she sent a message that she would be leaving at 09:00 in the morning (we think that to avoid responsibility for the state of how she left the property) because we always welcome our guest and go as well, to say bye. <br>Her testimony it’s absolutely incredible because she didn’t notice of this “problems” during or even when we asked how it was her experience.For all the above and other things that I will not mention by the moment, I do not recommend any host to accept this client. The experience in our case , could not have been more unpleasant.",
+}]
+},
 ]}
 
 ]

@@ -431,6 +431,85 @@ export const rules = [
         ]
     },
 
+    {
+        "id": 24,
+        "rules": [
+            {"logo": "intime", "about": "Check-in: 12:00 PM - 11:00 PM", "more": ""},
+            {"logo": "outTime", "about": "Checkout: 11:00 AM", "more": ""},
+            {"logo": "smokingNot", "about": "No smoking", "more": ""},
+            {"logo": "petsNot", "about": "No pets", "more": ""},
+            {"logo": "baloonNot", "about": "No parties or events", "more": ""},
+        ],  
+        "safety": [
+            {"logo": "ques", "about": "Carbon monoxide alarm not reported", "more": ""},
+            {"logo": "ques", "about": "Smoke alarm not reported ", "more": ""},
+       ],  
+        "additional": [],
+        "cancel":[            
+            {"about": "partial", "policy": "Partial refund: Get back 50% of every night. No refund of the service fee.", "on": true, "days": 7},
+            {"about": "checkIn", "policy": "", "on": true, "days": 0}
+        ]
+    },    
+
+{
+        "id": 25,
+        "rules": [
+            {"logo": "intime", "about": "Check-in: 2:00 PM - 6:00 PM", "more": ""},
+            {"logo": "outTime", "about": "Checkout: 12:00 PM", "more": ""},
+            {"logo": "smoking", "about": "Smoking is allowed", "more": ""},
+        ],  
+        "safety": [
+            {"logo": "ques", "about": "Carbon monoxide alarm not reported", "more": ""},
+            {"logo": "ques", "about": "Smoke alarm not reported", "more": ""},
+            {"logo": "note", "about": "Security camera/recording device", "more": ""},
+       ],  
+        "additional": ["Island Rules<br>Check-In and Check-Out Day Booking - The Island’s guaranteed check-in time is at 8AM (SL time) and check-out time is at 6PM (SL time) of the same day. Requests for early check-in & late check-out will be handled based on the island’s availability at the time of check-in (an additional fee is payable). <br>Bed and Breakfast Basis - The Island’s guaranteed check-in time is at 2PM (SL time) and check-out time is at 12 noon (SL time). Requests for early check-in & late check-out will be handled based on the island’s availability at the time of check-in (an additional fee is payable).<br><br>Payment 100% payment on reservation. For room stay extensions made on arrival - Cash for the full amount of your stay at check in. <br>Food, beverage and any extra facility charge incurred is to be settled in full prior to check out<br><br>Children<br>Due to the unique nature of the island and its surroundings, children are to be supervised by an adult at all times. <br><br>Swimming Pool – Rules and Regulations<br>Strictly no Glassware is permitted in the pool area, Smoking inside the pool is prohibited, No food can be consumed in the pool, Diving is strictly prohibited, Children must be supervised by an adult at all times<br>Guest swim at their own risk and the property will not be responsible for any injuries<br><br>Bolgoda Lake<br>No getting in or swimming in the lake. <br><br>Boat Transfers<br>The selling price of the island for the day or night includes boat transfers for the confirmed number of guests. The times of arrival and departure to be informed to the property ahead of time. For large groups, a group of 8 per time per ride. No late arrivals will be accommodated in this rate plan.<br>Any additional boat rides – charges apply<br><br>Alcohol Policy <br>Guest must be 21 or over (with valid identification) to consume alcohol on the Island premises.<br><br>Service Staff<br>For overnight stays service is available from 6am to 11pm each day. <br>Please treat the staff with respect at all times. Abusive language towards staff members will not be allowed.<br><br>Lost and Found Policy<br>The property is not responsible for lost, damaged, or stolen personal items. Should any guests lose personal belongings whilst staying at the property, if recovered, the item will be recorded as 'found'. We keep detailed records of all 'found' items, and will make a reasonable effort to contact the guest if an item is left on the property after the guest has checked-out which will be placed in our Lost & Found safety box. We will ship items back at the owner's expense. Any items in the Lost & Found, which are not claimed within ninety (90) days, will be donated to a local charity or discarded.<br><br>General Policy<br>We have a zero tolerance policy in which it will refuse to admit or refuse service or accommodation in the Island or may remove a person who: while on the premises of the Island acts in an obviously intoxicated or disorderly manner, destroys or threatens to destroy Island property, or causes or threatens to cause a public disturbance; or refuses or is unable to pay for the accommodations or services. A person who negligently or intentionally causes damage to the Island or any furniture or furnishings within the Island, shall be liable for damages sustained by the Island staff, including the Island's loss of revenue resulting from the inability to rent or lease rooms while the damage is being repaired.<br><br>Enjoy your stay!<br><br>Thank you!<br>The Management."],
+        "cancel":[            
+            {"about": "partial", "policy": "Full refund: Get back 100% of what you paid.", "on": true, "days": 5},
+            {"about": "checkIn", "policy": "", "on": true, "days": 0}
+        ]
+    },
+
+{
+        "id": 26,
+        "rules": [
+            {"logo": "intime", "about": "Check-in: After 11:00 AM", "more": ""},
+            {"logo": "outTime", "about": "Checkout: 10:00 AM", "more": ""},
+            {"logo": "pets-steps", "about": "Pets are allowed", "more": ""},
+            {"logo": "smoking", "about": "Smoking is allowed", "more": ""},
+        ],  
+        "safety": [
+            {"logo": "note", "about": "No carbon monoxide alarm", "more": ""},
+            {"logo": "note", "about": "No smoke alarm", "more": ""},
+            {"logo": "note", "about": "Security camera/recording device", "more": ""},
+            {"logo": "note", "about": "Pool/hot tub without a gate or lock", "more": ""}
+       ],  
+        "additional": [],
+        "cancel":[]
+    },
+
+{
+        "id": 27,
+        "rules": [
+            {"logo": "intime", "about": "Check-in: 1:00 PM - 4:00 PM", "more": ""},
+            {"logo": "outTime", "about": "Checkout: 12:00 PM", "more": ""},
+            {"logo": "smokingNot", "about": "No smoking", "more": ""},
+            {"logo": "baloonNot", "about": "No parties or events", "more": ""},
+            {"logo": "pets-steps", "about": "Pets are allowed", "more": ""},
+        ],  
+        "safety": [
+            {"logo": "note", "about": "Carbon monoxide alarm not reported", "more": ""},
+            {"logo": "note", "about": "moke alarm not reported ", "more": ""},
+       ],  
+        "additional": ["- It is absolutely forbbiden the use of the image of  \"Castelo de Portuzelo\" for promotional activities or professional activity  and it is not authorized to: film, disclose, photograph and use said goods for personal benefit in any format or audiovisual broadcast, on social networks ( Facebook, TikTok, instagram, LinkedIn, etc…), web pages, or in any other way without the prior commercial agreement with Landlord in this regard and without paying the amounts that are usually received. <br><hr><br>We are receptive to studying any suggestion that we are made to carry out on the property with the prior consent of the owner.<br><hr><br>-Noisy activities that disturb the neighborhood are not allowed. To celebrate an event, it will be necessary to request it in advance in order to study it and request, where appropriate the authorizations.<br><hr><br>- Pets are allowed as long as the owners are responsible for any damage they may cause.<br><hr><br>-The property is not responsible for accidents that may occur in the pool or in other areas. The pool is perfectly delimited for children and they must always be accompanied by an adult when they are in the bathing area.<br><hr><br>-Smoking is forbidden inside the house. <br><hr><br>-It is forbidden to light the chimneys of the house as well as make fires outside the property. <br><hr><br>-The owners of the house are not responsible for money, jewelry or valuables that guests may have during their stay. <br><hr><br>-It is forbidden to move furniture as well as remove it from inside the house for their use outside."],
+        "cancel":[            
+            {"about": "48 hours", "policy": "Full refund: Get back 100% of what you paid", "on": true, "days": 0},
+            {"about": "partial", "policy": "Partial refund: Get back 50% of every night. No refund of the service fee.", "on": true, "days": 7},
+            {"about": "checkIn", "policy": "", "on": true, "days": 0}
+        ]
+    },
+
+
 ]
 
 // {

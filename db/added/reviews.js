@@ -821,4 +821,117 @@ export const reviews = [
         "comment": "We had a wonderful time at the castle. The garden is a feast for the eyes and invites you to walk. The rooms are large and bright. The throne has of course had very great appeal to our children.<br>We highly recommend this place."
     },
 
+    {
+        "id":102,
+        "reviewFor": "The Island on Bolgoda by Amici Leisure",
+        "customer": "Lyaza",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/13fa428f-f125-4f8d-9670-1c150b69d161.jpg?im_w=240",
+        "commentDate": "January 2022",
+        "comment": "The location was the best in Piliyandala region. That was the most isolated place that we ever met, thanks a lot for the service of staff - they try to do the best of them. The FnB - was really tasty and delicious. The Broofy - the funniest dog we ever met in our life."
+    },
+    {
+        "id":103,
+        "reviewFor": "The Island on Bolgoda by Amici Leisure",
+        "customer": "Dulantha",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/5546acb9-646a-489b-97ae-026f75124463.jpg?im_w=240",
+        "commentDate": "September 2020",
+        "comment": "Excellent service through out"
+    },
+    {
+        "id":104,
+        "reviewFor": "The Island on Bolgoda by Amici Leisure",
+        "customer": "Manique",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/d2852806-5475-4ea9-ab23-2d607e7e3ad3.jpg?im_w=240",
+        "commentDate": "May 2020",
+        "comment": "Thusitha was a great host and was very accommodating. The island was beautiful and the food fantastic. Checkin was early and smooth.The only things we were not very happy with was the cleanliness of the toilets and one cistern that was broken in the toilet. The food quantities at each meal were not adequate and we feel the portions could have been much better. We do hope these little issues can be resolved before our next trip to the location."
+    },
+    {
+        "id":105,
+        "reviewFor": "Santa Marta de Portuzelo Castle",
+        "customer": "Genevieve",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/5b6eb652-2ce6-437b-83f0-cde1819713f6.jpg?im_w=240",
+        "commentDate": "October 2022",
+        "comment": "What can I say, this castle is absolutely impeccable. Ana Maria's family have been restoring it for nearly 40 years and it is such a treat to stay at. I had 18 people stay for my 30th and with several living and dining rooms you still get lost! Pictures do not do this place justice at all everything is at least twice the size you're imagining. Thanks again and can't wait to stay for another celebration."
+    },
+    {
+        "id":106,
+        "reviewFor": "Santa Marta de Portuzelo Castle",
+        "customer": "David",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/8163e0c5-b05f-4628-b00e-5d7b0d4d725d.jpg?im_w=240",
+        "commentDate": "September 2022",
+        "comment": "Staying at the castle was absolutely amazing, and Ana was a great host. She helped us ensure we were all set for our whole party to stay there, as well as made sure we had everything needed to host our wedding. The castle is beautiful and conveniently located, and we are already talking abiut staying again!"
+    },
+    {
+        "id":107,
+        "reviewFor": "Santa Marta de Portuzelo Castle",
+        "customer": "Tyler",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/4131a2cf-0ea5-4144-a32c-de797699c5d1.jpg?im_w=240",
+        "commentDate": "September 2022",
+        "comment": "Stunning, what more can I say? One of the most unique properties available on airbnb. Pictures do not do it justice. We loved every moment of our stay including breakfast by the pool and views from the living room balcony.<br><br>Plenty of room for my family of 20. The beds and linens were very comfortable.<br><br>We had a couple rental cars, but not enough for everyone. Provide ample detail to Uber/taxi drivers. As prominent as the castle is, it may be confusing for them to get to.<br><br>Internet was available in the main living room, but due to the thick rock walls it doesn't travel far into the home. Mobile cellphone service was adequately fast.<br><br>We hired a private chef to cook dinner for one of the nights. The kitchen was well equipped for a 4 course dinner for 20 people with plenty of silverware and plates left over. We ate in town for most of the other meals.<br><br>Overall this stay was one of the most unique and unforgettable experiences my family has ever enjoyed. We can't wait to return one day."
+    },
+    {
+        "id":108,
+        "reviewFor": "Santa Marta de Portuzelo Castle",
+        "customer": "Bridget",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/0205e73f-6f1d-4f17-bf63-d6339315cecf.jpg?im_w=240",
+        "commentDate": "September 2022",
+        "comment": "I hosted a retreat in the Castle. The Castle itself was gorgeous. However the host was a bit rude to my team and I. A lot of the things in the Castle didn’t work. Most of the showers on the left end of the Castle had no hot water. A toilet was broken. The dishwasher leaked on the floor every time our chef came to cook. There was a dead rat by the dining room. The pictures are deceiving, you’re not able to use all of the Castle itself - so check before. There’s A LOT of mosquitos."
+    },
+    {
+        "id":109,
+        "reviewFor": "Santa Marta de Portuzelo Castle",
+        "customer": "Emma",
+        "customerImage": "https://a0.muscache.com/im/users/43757942/profile_pic/1441803723/original.jpg?im_w=240",
+        "commentDate": "July 2022",
+        "comment": "Our stay in the Castello was just magical. It’s a wonderful historic property, and we really appreciated also having ensuites for all the rooms. Ana Maria was excellent at communicating over anything which arose during our stay. Highly recommended."
+    },
+    {
+        "id":110,
+        "reviewFor": "Santa Marta de Portuzelo Castle",
+        "customer": "Vincent",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/f6bc41b0-af57-4725-bb38-936499f1c275.jpg?im_w=240",
+        "commentDate": "August 2022",
+        "comment": "We went as a group of friends from Scotland and had an incredible time, there was an abundance of areas to stay in, and a great selection of rooms. The pool was even bigger than it seemed in the pictures. We stayed during Festas D’Agonia which was a great cultural experience.<br>All 19 of us highly recommend for a group of any age/purpose!"
+    },
+    {
+        "id":111,
+        "reviewFor": "Santa Marta de Portuzelo Castle",
+        "customer": "Nina",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/ccabee33-58bf-4eba-98d4-c5b34c6fb1f0.jpg?im_w=240",
+        "commentDate": "June 2022",
+        "comment": "We stayed for a work team event. It was a great space for 13-16 people, we held team meetings and workshops outside, in the garden and gathered in the living room upstairs for anything that require wifi (it's the only place with wifi, you'll need a hotspot if you want wifi in the other rooms).<br>The pool was really nice and overall we had a great time. Unfortunately being a castle there were some incidences with furniture, which we dealt with quickly."
+    },
+    {
+        "id":112,
+        "reviewFor": "Santa Marta de Portuzelo Castle",
+        "customer": "",
+        "customerImage": "",
+        "commentDate": "",
+        "comment": ""
+    },
+    {
+        "id":113,
+        "reviewFor": "Santa Marta de Portuzelo Castle",
+        "customer": "Antoine",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/405f142f-1085-4210-b776-49bdfd4e3cdf.jpg?im_w=240",
+        "commentDate": "May 2022",
+        "comment": "Amazing stay in this wonderful place !!<br>Calm, fully equipped and spectacular !Thanks Ana !"
+    },
+    {
+        "id":114,
+        "reviewFor": "Santa Marta de Portuzelo Castle",
+        "customer": "Michael",
+        "customerImage": "https://a0.muscache.com/im/users/385516/profile_pic/1297349058/original.jpg?im_w=240",
+        "commentDate": "May 2022",
+        "comment": "The castle is magical, and Ana was a brilliant host.<br>I cannot recommend this place highly enough.<br>We’ll definitely be back."
+    },
+    {
+        "id":115,
+        "reviewFor": "Santa Marta de Portuzelo Castle",
+        "customer": "Matt",
+        "customerImage": "https://a0.muscache.com/im/pictures/user/427dc8ca-8ef9-4898-9292-e84b8b8af566.jpg?im_w=240",
+        "commentDate": "August 2021",
+        "comment": "The castle was absolutely amazing for our group and a short drive to the kite surf beach! Highly recommend this amazing property. Also Ana María is an amazing and helpful host."
+    },
+
 ]
