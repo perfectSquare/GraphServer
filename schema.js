@@ -6,6 +6,13 @@ export const typeDefs = gql`
     destination(id: ID!, type:String!): Destination!
     destinations(type: String!): [Destination!]!  
     host(id: ID!): Host
+    product(id: ID!, type: String!): Product!
+    products(type: String!): [Product!]!
+    products25(type: String!): [Product!]!
+    products2550(type: String!): [Product!]!
+    products50Plus(type: String!): [Product!]!
+    productsByBrand(type: String!, brand:String!): [Product!]!
+    carts: [Cart!]!
   }
   type Destination {
     id: ID!    
@@ -174,5 +181,75 @@ export const typeDefs = gql`
     about: String!
     name: String!
     stars: Float!
+  }
+
+  # amazon
+
+  type Mutation {
+    addCart(input: cartInput): Boolean!
+  }
+  input cartInput {
+    cat:String! 
+    id:ID! 
+    name:String! 
+    image:String! 
+    price:Float!
+  }
+  type Cart {
+    cat:String! 
+    id:ID! 
+    name:String! 
+    image:String! 
+    price:Float!
+  }
+
+  type Product {
+    id: ID!
+    cat: String!    
+    only:Int!
+    name: String!
+    image: String!    
+    description: String!
+    reviewsNum: Int!
+    globals: Int!
+    stars: Float!
+    price: Float!
+    backPrice: Float!
+    best: Boolean!
+    allStars: [AllStars]!
+
+    brand: [Brand!]!
+    info: [Brand!]!
+    shipping: Float!
+    estimated: Float!
+    dots: [String!]!
+    note: Boolean!
+    largeImage: String!
+    moreImages: [String!]!
+    safe: Float!
+
+    reviews: [ReviewAM!]!
+
+    stock:Boolean!
+    delivery:String
+  }
+  type ReviewAM{
+    id:ID!
+    forID:Int!
+    cat:String!
+    image:String!
+    name:String!
+    date:String!
+    verified:Boolean!
+    comment:String!
+    helpful:Int!
+  }
+  type Brand {
+    name: String!
+    val: String!
+  }      
+  type AllStars {
+    num: String!
+    val: Int!
   }
 `;
